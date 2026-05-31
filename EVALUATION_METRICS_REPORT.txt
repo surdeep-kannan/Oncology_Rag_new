@@ -1,0 +1,79 @@
+=============================================================================
+             🩺 CLINICAL RAG EVALUATION METRICS REPORT
+        Empirical Training Statistics, Personas, and Search Parameters
+=============================================================================
+
+This report compiles the raw metrics, statistical rewards, and performance lifts
+from the 15-episode self-optimizing Reinforcement Learning (RL) training run. 
+Use these exact tables and figures for your presentation to your professor!
+
+-----------------------------------------------------------------------------
+1. SUMMARY OF EMPIRICAL ACHIEVEMENTS
+-----------------------------------------------------------------------------
+* Peak Reward Achieved:           0.8406 🎯
+* Net Performance Lift:          +2.0% (First-half vs Second-half training)
+* Latency Reduction:             -19.0s (-13.4% faster answer synthesis)
+* Baseline Latency (CPU):        142.2 seconds
+* RL-Optimized Latency (CPU):    123.2 seconds
+
+-----------------------------------------------------------------------------
+2. PROMPT PERSONA BANDIT PERFORMANCE (Thompson Sampling)
+-----------------------------------------------------------------------------
+The Prompt Bandit analyzed 8 different clinical personas (arms). Below are the
+final posteriors sorted by Expected Reward (higher is better):
+
+Rank  Persona / Prompt Name    Pulls  Avg Reward  Alpha (Success)  Beta (Failure)
+-----------------------------------------------------------------------------
+1st   Clinical Precise 🏆       3        0.7296         2.19             1.81
+2nd   Guideline Based          2        0.7178         1.44             1.56
+3rd   Structured Medical       2        0.5348         1.07             1.93
+4th   Concise Direct           2        0.5122         1.02             1.98
+5th   Comprehensive Review     2        0.5098         1.02             1.98
+6th   Simple Extraction        1        0.4902         0.49             1.51
+7th   Differential Reasoning   2        0.4855         0.97             2.03
+8th   Treatment Focused        1        0.4682         0.47             1.53
+-----------------------------------------------------------------------------
+Note: Uniform prior prior was Beta(1, 1). Posteriors updated via:
+      Alpha_new = Alpha_old + Reward
+      Beta_new  = Beta_old + (1 - Reward)
+
+-----------------------------------------------------------------------------
+3. OPTIMIZED SEARCH HYPERPARAMETERS (Bayesian Optimization)
+-----------------------------------------------------------------------------
+The Gaussian Process (GP) mapped the continuous non-linear retrieval space.
+Below are the unoptimized baseline defaults versus the optimal settings:
+
+Parameter                🔴 Unoptimized Baseline     🟢 RL-Optimized Champion
+-----------------------------------------------------------------------------
+Vector Alpha (alpha)     0.50                        0.46 (54% BM25, 46% Semantic)
+Retrieval Depth (top_k)  8 chunks                    12 chunks
+RRF Constant (rrf_k)     60                          40
+Reranker Count (N)       2                           2
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+4. TRAINING CONVERGENCE PROGRESSION (Reward Metrics)
+-----------------------------------------------------------------------------
+This progression shows how the pipeline's overall answer quality improved as the
+Bayesian optimizer and prompt bandit converged toward the peak reward:
+
+* Episodes 1 - 7 Average Reward:    0.6180 (Initial exploration phase)
+* Episodes 8 - 15 Average Reward:   0.6302 (Converged exploitation phase)
+* Overall Quality Lift:             +2.0% net gain
+
+-----------------------------------------------------------------------------
+5. MULTI-FACTOR REWARD SCORING CRITERIA
+-----------------------------------------------------------------------------
+To ensure clinical safety and accuracy, each generated answer was graded out
+of 1.00 using five separate objective metric weights:
+
+Weight  Metric Name       Purpose / Measurement
+-----------------------------------------------------------------------------
+35%     SBERT Similarity  Semantic similarity of the answer to ground truth.
+25%     Faithfulness      Sentence-level check verifying that every claim is
+                          strictly supported by retrieved textbook facts.
+20%     ROUGE-L           Lexical N-gram overlap F1-measure.
+10%     Speed Bonus       Linear latency penalty (0% at 300s, 100% at 0s).
+10%     Context Relevancy SBERT similarity between query and retrieved chunks.
+-----------------------------------------------------------------------------
+=============================================================================

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+.venv/
+ENV/
+
+# Large Datasets and Indexes
+output/
+input/
+*.npy
+*.pkl
+*.jsonl
+*backup*
+
+# Logs and temporary files
+*.log
+.DS_Store
+.idea/
+.vscode/
+qa_audit_log.txt
+oncology_answers_recorded.*
+latest_qa.txt
+with_rl.txt
+without_rl.txt
+6.txt
+aya_sections.txt
+Untitled-1
+recalibrate_pipeline.py
+clean_active_index.py

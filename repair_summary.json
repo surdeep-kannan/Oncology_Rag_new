@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-05-07 11:08:06",
+  "input_count": 90,
+  "output_count": 87,
+  "merged_count": 3,
+  "quality_stats": {
+    "total_chunks": 87,
+    "avg_score": 79.74687651005284,
+    "min_score": 47.0,
+    "max_score": 93.29469203948975,
+    "flagged_count": 35,
+    "critical_count": 2,
+    "issue_distribution": {
+      "C006": 3,
+      "C007": 6,
+      "H005": 2,
+      "H002": 11,
+      "S001": 15,
+      "C002": 2,
+      "H004": 3,
+      "H007": 3,
+      "C004": 1
+    },
+    "avg_words": 181.8505747126437,
+    "word_range": [
+      23,
+      612
+    ]
+  },
+  "repair_actions_total": 12
+}

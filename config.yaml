@@ -1,0 +1,194 @@
+# ─────────────────────────────────────────────────────────────
+# MedRAG Pipeline Configuration
+# ─────────────────────────────────────────────────────────────
+
+# Directories
+paths:
+  input_dir: "input"
+  output_dir: "output"
+  log_dir: "logs"
+  vector_store_dir: "output/vector_store"
+  index_dir: "output/indices"
+
+# ── Parsing ──────────────────────────────────────────────────
+parsing:
+  primary_parser: "docling"        # "docling" | "pymupdf"
+  fallback_parser: "pymupdf"       # used when primary fails
+  ocr_enabled: true
+  ocr_language: "eng"
+  extract_tables: true
+  extract_images: false
+  page_range: null                 # null = all pages, or [start, end]
+
+# ── Text Cleaning ────────────────────────────────────────────
+cleaning:
+  # Header/footer removal
+  remove_repeated_headers: true
+  remove_repeated_footers: true
+  header_repeat_threshold: 3       # min occurrences to classify as repeated
+  margin_top_px: 55                # pixels from top to scan for headers
+  margin_bottom_px: 35             # pixels from bottom to scan for footers
+
+  # OCR repair
+  fix_ocr_merges: true             # e.g. "treatmentYour" -> "treatment Your"
+  normalize_unicode: true
+  merge_wrapped_lines: true
+
+  # Noise patterns to strip (regex)
+  noise_patterns:
+    - "^\\d+$"                       # bare page numbers
+    - "^[\\xaeÜ\\u2022*=\\-_/|]+$"            # symbol-only lines
+    - "NCCN Guidelines for Patients" # repeated header text
+    - "^\\d+\\s+NCCN Guidelines"       # page-number boilerplate
+
+  # Known header/footer exact strings
+  known_artifacts:
+    - "Ü"
+    - "share with us."
+
+# ── Heading Detection ────────────────────────────────────────
+heading_detection:
+  # Font-based (PDF)
+  min_font_delta: 1.5              # heading font must exceed body font by this
+  max_heading_words: 14
+
+  # Regex heuristics
+  numbered_heading_pattern: "^\\d+(\\.\\d+)*\\s+"
+  all_caps_max_words: 8
+
+  # Title-case detection
+  title_case_min_capitalized_ratio: 0.6
+  title_case_min_title_words: 2
+
+  # Breadcrumb detection (NCCN-style)
+  breadcrumb_separator: "»"
+  breadcrumb_max_y: 80
+
+  # Safety: do NOT promote short sentences to headings
+  reject_if_ends_with_period: true
+  reject_urls: true
+  reject_author_lines: true
+
+# ── Chunking ─────────────────────────────────────────────────
+chunking:
+  # Word-count targets
+  min_words: 200
+  target_words: 400
+  max_words: 600
+
+  # Overlap
+  overlap_words: 50
+  overlap_sentences: 2
+
+  # Behavior
+  prefer_semantic_boundaries: true
+  keep_bullet_lists_intact: true
+  min_chunk_words: 60              # chunks below this are merged with neighbors
+  merge_tiny_threshold: 50         # absolute minimum before force-merge
+
+  # Sentence tokenizer
+  sentence_tokenizer: "punkt"
+  medical_abbreviations:
+    - "dr"
+    - "mr"
+    - "mrs"
+    - "vs"
+    - "fig"
+    - "mg"
+    - "ml"
+    - "oz"
+    - "etc"
+    - "approx"
+    - "dept"
+
+# ── Validation ───────────────────────────────────────────────
+validation:
+  # Heading thresholds
+  heading_min_words: 2
+  heading_max_words: 15
+  heading_max_symbol_ratio: 0.2
+  
+  # Content thresholds
+  content_min_words: 40
+  content_max_words: 800
+  content_min_alpha_ratio: 0.7
+  content_min_punctuation_ratio: 0.01
+  content_max_newline_ratio: 0.1
+  
+  # Semantic alignment
+  semantic_min_threshold: 0.25
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 64
+  
+  # Quality scoring weights
+  weights:
+    heading: 0.3
+    content: 0.4
+    semantic: 0.3
+  
+  # Patterns to flag
+  bad_heading_patterns:
+    - "NCCN Guidelines"
+    - "^\\d+$"
+    - "of cancer"
+    - "AYAs with"
+
+# ── Repair & Reconstruction ──────────────────────────────────
+repair:
+  # Header/Footer Removal
+  learn_headers_footers: true
+  min_pattern_frequency: 0.05      # pattern must appear on 5% of pages
+  fuzzy_match_threshold: 90        # rapidfuzz ratio
+  
+  # Heading Healing
+  heading_reconstruction_enabled: true
+  max_heading_fragment_words: 6
+  
+  # Chunk Stitching
+  merge_mid_sentence_splits: true
+  semantic_merge_threshold: 0.85
+  
+  # Validation
+  min_repaired_quality_score: 80
+
+# ── Search ───────────────────────────────────────────────────
+search:
+  # Embedding model
+  embedding_model: "nomic-ai/nomic-embed-text-v1.5"
+  embedding_batch_size: 32
+  embedding_device: "cpu"          # "cpu" | "cuda" | "mps"
+
+  # BM25
+  bm25_k1: 1.5
+  bm25_b: 0.75
+
+  # Hybrid fusion
+  hybrid_alpha: 0.5                # weight for embeddings (1-alpha for BM25)
+  top_k: 20
+
+  # Reranker
+  reranker_model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  reranker_top_k: 10
+
+  # Parent-child retrieval
+  parent_child_enabled: true
+  parent_context_levels: 1         # how many levels up to include
+
+# ── LLM Configuration ─────────────────────────────────────────
+llm:
+  model_id: "m42-health/Llama3-Med42-8B"
+  device_map: "auto"
+  dtype: "float16"
+  load_in_4bit: true
+  max_new_tokens: 512
+  do_sample: false
+  temperature: 0.1
+  top_p: 0.9
+  offload_folder: "offload"
+
+# ── Logging ──────────────────────────────────────────────────
+logging:
+  level: "INFO"                    # DEBUG | INFO | WARNING | ERROR
+  log_to_file: true
+  log_format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+  console_format: "%(levelname)-8s | %(message)s"

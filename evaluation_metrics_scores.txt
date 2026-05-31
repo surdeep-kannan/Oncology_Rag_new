@@ -1,0 +1,36 @@
+=========================================
+      CLINICAL RAG EVALUATION SCORES
+=========================================
+Total_Questions: 25
+
+-- RETRIEVAL METRICS (k=5) --
+Hit-Rate@5: 0.9600
+MRR: 0.7660
+NDCG@5: 0.4852
+Precision@5: 0.4000
+Recall@5: 0.4293
+
+-- LEXICAL METRICS --
+BLEU-1: 0.1812
+BLEU-2: 0.1118
+BLEU-4: 0.0516
+GLEU: 0.0781
+ROUGE-1: 0.3201
+ROUGE-2: 0.1358
+ROUGE-L: 0.2236
+ROUGE-Lsum: 0.2250
+METEOR: 0.3074
+Answer_F1: 0.2937
+
+-- SEMANTIC METRICS --
+BERTScore_F1: 0.7127
+SBERT_Similarity: 0.7933
+
+-- CLINICAL FAITHFULNESS & RELEVANCE --
+Faithfulness: 0.7368
+Context_Relevancy: 0.6371
+Answer_Relevance: 0.7474
+
+-- LATENCY --
+Avg_Latency_Seconds: 90.5
+=========================================

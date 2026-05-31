@@ -1,0 +1,779 @@
+{
+  "summary": {
+    "total_chunks": 90,
+    "avg_score": 78.10514936579598,
+    "min_score": 31.0,
+    "max_score": 93.29469203948975,
+    "flagged_count": 40,
+    "critical_count": 1,
+    "issue_distribution": {
+      "C006": 4,
+      "C007": 7,
+      "H002": 13,
+      "S001": 25,
+      "C002": 2,
+      "H004": 3,
+      "H007": 2,
+      "H005": 1,
+      "C004": 1,
+      "C005": 1
+    },
+    "avg_words": 177.12222222222223,
+    "word_range": [
+      23,
+      497
+    ]
+  },
+  "parameters": {
+    "heading_min_words": 2,
+    "heading_max_words": 15,
+    "heading_max_symbol_ratio": 0.2,
+    "content_min_words": 40,
+    "content_max_words": 800,
+    "content_min_alpha_ratio": 0.7,
+    "content_min_punctuation_ratio": 0.01,
+    "content_max_newline_ratio": 0.1,
+    "semantic_min_threshold": 0.25,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "batch_size": 64,
+    "weights": {
+      "heading": 0.3,
+      "content": 0.4,
+      "semantic": 0.3
+    },
+    "bad_heading_patterns": [
+      "NCCN Guidelines",
+      "^\\d+$",
+      "of cancer",
+      "AYAs with"
+    ]
+  },
+  "results": [
+    {
+      "chunk_id": 1,
+      "score": 69.9,
+      "issues": [
+        {
+          "code": "C006",
+          "msg": "Low punctuation density (0.0088)"
+        },
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "score": 53.0,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        },
+        {
+          "code": "C006",
+          "msg": "Low punctuation density (0.0097)"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.03)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "score": 61.0,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (-0.00)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "score": 67.5,
+      "issues": [
+        {
+          "code": "C002",
+          "msg": "Content too short (23 words)"
+        },
+        {
+          "code": "C006",
+          "msg": "Low punctuation density (0.0075)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "score": 31.0,
+      "issues": [
+        {
+          "code": "H004",
+          "msg": "Heading is unexpectedly all lowercase"
+        },
+        {
+          "code": "H007",
+          "msg": "Heading ends with incomplete phrase"
+        },
+        {
+          "code": "C002",
+          "msg": "Content too short (35 words)"
+        },
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.08)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "score": 83.1,
+      "issues": []
+    },
+    {
+      "chunk_id": 7,
+      "score": 93.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 8,
+      "score": 91.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 9,
+      "score": 62.0,
+      "issues": [
+        {
+          "code": "C006",
+          "msg": "Low punctuation density (0.0090)"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (-0.02)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 10,
+      "score": 47.0,
+      "issues": [
+        {
+          "code": "H005",
+          "msg": "Heading matches bad pattern: AYAs with"
+        },
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (-0.04)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "score": 78.5,
+      "issues": []
+    },
+    {
+      "chunk_id": 12,
+      "score": 75.9,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "score": 86.4,
+      "issues": []
+    },
+    {
+      "chunk_id": 14,
+      "score": 89.2,
+      "issues": []
+    },
+    {
+      "chunk_id": 15,
+      "score": 78.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 16,
+      "score": 85.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 17,
+      "score": 91.5,
+      "issues": []
+    },
+    {
+      "chunk_id": 18,
+      "score": 80.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 19,
+      "score": 76.5,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.22)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 20,
+      "score": 75.4,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.18)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 21,
+      "score": 85.1,
+      "issues": [
+        {
+          "code": "C004",
+          "msg": "Possible OCR word merges detected: tUs"
+        }
+      ]
+    },
+    {
+      "chunk_id": 22,
+      "score": 89.6,
+      "issues": []
+    },
+    {
+      "chunk_id": 23,
+      "score": 75.6,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.19)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 24,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (-0.01)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 25,
+      "score": 80.1,
+      "issues": []
+    },
+    {
+      "chunk_id": 26,
+      "score": 85.9,
+      "issues": []
+    },
+    {
+      "chunk_id": 27,
+      "score": 79.7,
+      "issues": []
+    },
+    {
+      "chunk_id": 28,
+      "score": 84.5,
+      "issues": []
+    },
+    {
+      "chunk_id": 29,
+      "score": 83.9,
+      "issues": []
+    },
+    {
+      "chunk_id": 30,
+      "score": 81.2,
+      "issues": []
+    },
+    {
+      "chunk_id": 31,
+      "score": 80.5,
+      "issues": []
+    },
+    {
+      "chunk_id": 32,
+      "score": 81.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 33,
+      "score": 85.2,
+      "issues": []
+    },
+    {
+      "chunk_id": 34,
+      "score": 80.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 35,
+      "score": 79.7,
+      "issues": []
+    },
+    {
+      "chunk_id": 36,
+      "score": 88.9,
+      "issues": []
+    },
+    {
+      "chunk_id": 37,
+      "score": 78.2,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 38,
+      "score": 89.9,
+      "issues": []
+    },
+    {
+      "chunk_id": 39,
+      "score": 78.6,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 40,
+      "score": 71.1,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 41,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.03)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 42,
+      "score": 64.0,
+      "issues": [
+        {
+          "code": "H004",
+          "msg": "Heading is unexpectedly all lowercase"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.06)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 43,
+      "score": 85.0,
+      "issues": []
+    },
+    {
+      "chunk_id": 44,
+      "score": 85.6,
+      "issues": []
+    },
+    {
+      "chunk_id": 45,
+      "score": 76.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.20)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 46,
+      "score": 83.7,
+      "issues": []
+    },
+    {
+      "chunk_id": 47,
+      "score": 85.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 48,
+      "score": 67.9,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.23)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 49,
+      "score": 67.9,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        },
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        }
+      ]
+    },
+    {
+      "chunk_id": 50,
+      "score": 77.7,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 51,
+      "score": 86.7,
+      "issues": []
+    },
+    {
+      "chunk_id": 52,
+      "score": 84.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 53,
+      "score": 75.8,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 54,
+      "score": 88.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 55,
+      "score": 70.8,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 56,
+      "score": 79.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 57,
+      "score": 79.5,
+      "issues": []
+    },
+    {
+      "chunk_id": 58,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.10)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 59,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.12)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 60,
+      "score": 76.6,
+      "issues": [
+        {
+          "code": "H004",
+          "msg": "Heading is unexpectedly all lowercase"
+        }
+      ]
+    },
+    {
+      "chunk_id": 61,
+      "score": 69.4,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 62,
+      "score": 82.4,
+      "issues": [
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        }
+      ]
+    },
+    {
+      "chunk_id": 63,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.05)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 64,
+      "score": 70.2,
+      "issues": [
+        {
+          "code": "H007",
+          "msg": "Heading ends with incomplete phrase"
+        }
+      ]
+    },
+    {
+      "chunk_id": 65,
+      "score": 90.6,
+      "issues": []
+    },
+    {
+      "chunk_id": 66,
+      "score": 88.2,
+      "issues": []
+    },
+    {
+      "chunk_id": 67,
+      "score": 92.5,
+      "issues": []
+    },
+    {
+      "chunk_id": 68,
+      "score": 92.2,
+      "issues": []
+    },
+    {
+      "chunk_id": 69,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.00)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 70,
+      "score": 75.3,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.18)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 71,
+      "score": 79.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 72,
+      "score": 88.4,
+      "issues": []
+    },
+    {
+      "chunk_id": 73,
+      "score": 91.4,
+      "issues": []
+    },
+    {
+      "chunk_id": 74,
+      "score": 83.7,
+      "issues": []
+    },
+    {
+      "chunk_id": 75,
+      "score": 83.7,
+      "issues": []
+    },
+    {
+      "chunk_id": 76,
+      "score": 80.1,
+      "issues": []
+    },
+    {
+      "chunk_id": 77,
+      "score": 84.6,
+      "issues": []
+    },
+    {
+      "chunk_id": 78,
+      "score": 91.8,
+      "issues": []
+    },
+    {
+      "chunk_id": 79,
+      "score": 89.1,
+      "issues": []
+    },
+    {
+      "chunk_id": 80,
+      "score": 86.1,
+      "issues": []
+    },
+    {
+      "chunk_id": 81,
+      "score": 80.6,
+      "issues": []
+    },
+    {
+      "chunk_id": 82,
+      "score": 84.3,
+      "issues": []
+    },
+    {
+      "chunk_id": 83,
+      "score": 62.0,
+      "issues": [
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.07)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 84,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.09)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 85,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.06)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 86,
+      "score": 70.0,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.04)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 87,
+      "score": 76.7,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.22)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 88,
+      "score": 77.3,
+      "issues": [
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (0.24)"
+        }
+      ]
+    },
+    {
+      "chunk_id": 89,
+      "score": 85.6,
+      "issues": []
+    },
+    {
+      "chunk_id": 90,
+      "score": 41.0,
+      "issues": [
+        {
+          "code": "H002",
+          "msg": "Heading too short (1 words)"
+        },
+        {
+          "code": "C005",
+          "msg": "Low alphabetic character ratio (0.62)"
+        },
+        {
+          "code": "C007",
+          "msg": "Excessive line breaks relative to word count"
+        },
+        {
+          "code": "S001",
+          "msg": "Low semantic alignment between heading and content (-0.04)"
+        }
+      ]
+    }
+  ]
+}

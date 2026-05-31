@@ -1,0 +1,6 @@
+config_id,config_name,avg_latency_s,avg_bleu,avg_rouge_l,avg_sbert_sim,avg_faithfulness,avg_answer_f1
+1_full_rag,Full RAG Pipeline,96.17,0.2085,0.4283,0.8369,0.7222,0.4737
+2_no_decomp,Ablation: No Query Decomposition,40.29,0.1617,0.4294,0.821,0.8667,0.4477
+3_no_rerank,Ablation: No Cross-Encoder Reranking,50.16,0.2262,0.4838,0.8422,0.8333,0.4667
+4_no_parent,Ablation: No Parent Context (Child only),77.82,0.251,0.4933,0.9073,0.6667,0.4849
+5_direct_llm,Ablation: Direct LLM (No RAG/Context),8.33,0.1299,0.3752,0.8662,0.0,0.3651

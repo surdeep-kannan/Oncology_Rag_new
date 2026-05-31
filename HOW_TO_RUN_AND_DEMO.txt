@@ -1,0 +1,81 @@
+=============================================================================
+             🩺 HOW TO RUN AND DEMO THE CLINICAL RAG EXPLORER
+     Quick Execution Guide + Standard Demo Questions for Your Professor
+=============================================================================
+
+-----------------------------------------------------------------------------
+1. HOW TO LAUNCH THE APPLICATION
+-----------------------------------------------------------------------------
+
+* OPTION A: Headless Background Mode (Recommended for Demos)
+  Runs the server completely detached from your terminal, meaning you can
+  safely close your terminal window without the server crashing.
+  
+  Command:
+  cd /home/surdeep/Downloads/medicine_rl
+  nohup python3 -m streamlit run app.py > /dev/null 2>&1 &
+
+* OPTION B: Standard Terminal Mode
+  Runs the server directly inside your active terminal window (terminal must
+  remain open).
+  
+  Command:
+  cd /home/surdeep/Downloads/medicine_rl
+  python3 -m streamlit run app.py
+
+* Accessing the App:
+  Once started, open your web browser and go to:
+  http://localhost:8501
+
+-----------------------------------------------------------------------------
+2. THREE CLINICAL DEMO QUESTIONS (Ready to Copy-Paste)
+-----------------------------------------------------------------------------
+
+Use these specific questions to show off the system's capabilities during
+your presentation to your professor:
+
+=============================================================================
+DEMO QUESTION 1: THE ACCURACY & CITATIONS DEMO
+=============================================================================
+"What are the primary side effects of the immune stimulant ipilimumab?"
+
+* What this demonstrates to your professor:
+  1. Automated Textbook Citations: Point out how the AI automatically structures
+     the final answer with numbered citations (e.g., "(1)", "(2)") and creates
+     a formal "References" section at the bottom citing real titles like
+     "The MD Anderson Manual of Medical Oncology, 3rd Edition" and
+     "Oxford Handbook of Oncology, 4th Edition".
+  2. Fact Grounding: Show that the side effects listed (hypophysitis, colitis,
+     hepatitis, rash) and the management protocol (high-dose steroids at
+     1-2 mg/kg/d of prednisone) are 100% matched to facts in the textbooks.
+
+=============================================================================
+DEMO QUESTION 2: THE SIDE-BY-SIDE COMPARISON (RL VS. BASELINE)
+=============================================================================
+"What is the recommended treatment approach for a patient presenting with early-stage, HER2-positive breast cancer?"
+
+* How to demo this:
+  Step 1: Switch the left sidebar toggle to ON (🟢 RL-Optimized Mode Active).
+          Submit this question. Note how it generates a highly structured,
+          concise clinical guideline outlining neoadjuvant, surgery, and adjuvant.
+  Step 2: Switch the left sidebar toggle to OFF (🔴 Baseline Mode Active).
+          Submit the exact same question. Note how the unoptimized baseline
+          uses a generic assistant prompt that generates a highly wordy,
+          less structured answer and takes longer to finish.
+  Step 3: Point out the latency savings in RL Mode (approx. 19 seconds faster).
+
+=============================================================================
+DEMO QUESTION 3: THE DECOMPOSITION & MULTI-QUERY DEMO
+=============================================================================
+"What are the primary clinical indications and risk factors for administering adjuvant chemotherapy in early-stage colon cancer?"
+
+* What this demonstrates to your professor:
+  1. De-escalation & Staging: Point out how the AI correctly identifies high-risk
+     stage II features (e.g., T4 tumors, lymphovascular invasion, perineural
+     invasion, close/positive margins) as indications for chemotherapy.
+  2. Sub-Query Decomposition: Look at the loading spinner status. Point out
+     how the decomposition engine breaks this single question down into 3-4
+     distinct search queries behind the scenes (e.g., "indications for adjuvant
+     chemo in colon cancer", "high-risk stage II colon cancer features") to scan
+     different parts of the textbooks simultaneously.
+=============================================================================

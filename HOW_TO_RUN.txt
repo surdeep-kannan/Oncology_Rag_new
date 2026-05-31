@@ -1,0 +1,37 @@
+=============================================
+  MEDICAL RAG + RL — HOW TO RUN
+=============================================
+
+STEP 1: Open terminal in VS Code
+  (View → Terminal  OR  Ctrl + `)
+
+STEP 2: Navigate to the RL project folder
+  cd /home/surdeep/Downloads/medicine_rl
+
+STEP 3: Run RL Training (learns best prompt + search params)
+  python3 rl/train_rl.py --episodes 24
+
+  This takes ~40 min on CPU (24 episodes × ~2 min each)
+  It will:
+    - Try 8 different prompt templates
+    - Try different search parameter combinations
+    - Learn which ones produce the best answers
+    - Save results to rl/rl_state.json and rl/retrieval_state.json
+
+STEP 4: Run the app (now uses RL-optimized settings)
+  python3 -m streamlit run app.py
+
+STEP 5: Open in browser
+  http://localhost:8501
+
+=============================================
+  WHAT RL DOES
+=============================================
+
+WITHOUT RL: Fixed prompt template, fixed search params (alpha=0.5, top_k=8)
+WITH RL:    Learned best prompt + optimal alpha, top_k, rrf_k from data
+
+The app automatically loads RL state if it exists.
+If no RL state exists, it falls back to defaults.
+
+=============================================
