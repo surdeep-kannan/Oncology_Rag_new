@@ -8,20 +8,26 @@ STEP 1: Open terminal in VS Code
 STEP 2: Navigate to the RL project folder
   cd /home/surdeep/Downloads/medicine_rl
 
-STEP 3: Run RL Training (learns best prompt + search params)
+STEP 3: Check and Configure GPU Acceleration (Optional but Recommended)
+  python3 check_gpu.py
+
+  This automatically checks if an NVIDIA GPU (CUDA) or Apple Silicon GPU (MPS) is available
+  and offers to configure config.yaml for you in 1 second!
+
+STEP 4: Run RL Training (learns best prompt + search params)
   python3 rl/train_rl.py --episodes 24
 
-  This takes ~40 min on CPU (24 episodes × ~2 min each)
+  This takes ~40 min on CPU or ~10 min on GPU!
   It will:
     - Try 8 different prompt templates
     - Try different search parameter combinations
     - Learn which ones produce the best answers
     - Save results to rl/rl_state.json and rl/retrieval_state.json
 
-STEP 4: Run the app (now uses RL-optimized settings)
+STEP 5: Run the app (now uses RL-optimized settings)
   python3 -m streamlit run app.py
 
-STEP 5: Open in browser
+STEP 6: Open in browser
   http://localhost:8501
 
 =============================================
