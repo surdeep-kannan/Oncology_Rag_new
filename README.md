@@ -19,7 +19,22 @@ scripts/
 └── search_chunks.py   # Step 4: Search with hybrid retrieval
 ```
 
-## Quick Start
+```
+
+## 🚀 Super-Fast AI Agent Setup (For Antigravity Users)
+
+If you are using the **Antigravity AI coding assistant**, you don't need to do any manual setup! 
+
+### 1. The 1-Step Setup Prompt
+Once you have cloned this repository and downloaded the `indices.zip` database folder from your friend, simply **copy and paste this exact prompt** to Antigravity:
+
+> "Hey Antigravity! I just cloned my friend's Medical RAG repository and downloaded their `indices.zip` database. Please:
+> 1. Unzip indices.zip into the `output/` folder so it creates `output/indices/`
+> 2. Enable system site-packages in my virtual environment (open `venv/pyvenv.cfg` if it exists, and set `include-system-site-packages = true`)
+> 3. Run check_gpu.py to detect my GPU device and configure config.yaml
+> 4. Start the Streamlit application in the background on port 8502 so I can test it!"
+
+### 2. Manual Quick Start (If setting up without an AI Agent)
 
 ```bash
 # 1. Install dependencies
