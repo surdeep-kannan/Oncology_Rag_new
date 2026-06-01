@@ -25,3 +25,7 @@ click>=8.1.7
 # ── Utilities ────────────────────────────────────────────
 numpy>=1.26.0
 unicodedata2>=15.1.0
+
+# ── RAG UI & Evaluation ──────────────────────────────────
+rouge-score>=0.1.2
+streamlit>=1.35.0
