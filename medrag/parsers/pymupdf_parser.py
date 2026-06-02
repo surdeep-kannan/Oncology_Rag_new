@@ -125,9 +125,9 @@ class PyMuPDFParser(ParserBase):
         if re.fullmatch(r'[""\"\'`\-]+', text):
             return False
 
-        # Font size must exceed body by threshold
+        # Font size must exceed body by threshold, OR block must be bold
         font_delta = block.max_font_size - body_font
-        if font_delta < 1.5:
+        if font_delta < 1.5 and not block.is_bold:
             return False
 
         return True

@@ -36,7 +36,7 @@ class MedLLM:
         self.use_mlx = platform.system() == "Darwin" and platform.processor() == "arm"
         
         # Hardcoded fast GGUF path for Linux
-        self.gguf_path = "/home/surdeep/.cache/huggingface/hub/models--mradermacher--Llama3-Med42-8B-GGUF/snapshots/7e2883406aaaee888cefbba8a50420062b484fee/Llama3-Med42-8B.Q4_K_M.gguf"
+        self.gguf_path = "/home/surdeep/.cache/huggingface/hub/models--mradermacher--Llama3-Med42-8B-GGUF/snapshots/7e2883406aaaee888cefbba8a50420062b484fee/Llama3-Med42-8B.Q8_0.gguf"
         
         self.model = None
         self.tokenizer = None
@@ -96,6 +96,8 @@ You are a professional medical assistant. Answer the user's question directly us
 CRITICAL INSTRUCTIONS:
 - Do NOT use conversational filler like "Based on the context" or "I can provide".
 - Output ONLY the direct medical answer. Do not include introductory remarks.
+- SPECIFICITY OVER FREQUENCY: If one source directly and specifically addresses the question's exact mechanism, disease, or clinical entity while other sources discuss related but different topics (e.g., general metastatic disease vs. the specific disease mechanism asked about), you MUST prioritize the most specific source. Do not default to the "majority" of chunks if they discuss tangentially related conditions.
+- DISEASE MATCHING: Before synthesizing, identify which source(s) discuss the EXACT disease or condition asked about. Ignore sources about different diseases even if they share symptoms.
 - STRICT RELEVANCE: Ignore chunks discussing diseases not asked about.
 - CONCISENESS: Once you have answered the specific question asked, STOP immediately.<|eot_id|><|start_header_id|>user<|end_header_id|>
 

@@ -72,19 +72,19 @@ heading_detection:
 # ── Chunking ─────────────────────────────────────────────────
 chunking:
   # Word-count targets
-  min_words: 200
-  target_words: 400
-  max_words: 600
+  min_words: 80
+  target_words: 180
+  max_words: 300
 
   # Overlap
-  overlap_words: 50
-  overlap_sentences: 2
+  overlap_words: 30
+  overlap_sentences: 1
 
   # Behavior
   prefer_semantic_boundaries: true
   keep_bullet_lists_intact: true
-  min_chunk_words: 60              # chunks below this are merged with neighbors
-  merge_tiny_threshold: 50         # absolute minimum before force-merge
+  min_chunk_words: 40              # chunks below this are merged with neighbors
+  merge_tiny_threshold: 30         # absolute minimum before force-merge
 
   # Sentence tokenizer
   sentence_tokenizer: "punkt"
@@ -158,16 +158,20 @@ search:
   embedding_batch_size: 32
   embedding_device: "cpu"          # "cpu" | "cuda" | "mps"
 
+  # Matryoshka Representation Learning (MRL) — truncate nomic 768d → 512d
+  # Nomic supports: 64, 128, 256, 512, 768. 512 gives best recall/speed tradeoff.
+  matryoshka_dim: 512
+
   # BM25
   bm25_k1: 1.5
   bm25_b: 0.75
 
   # Hybrid fusion
-  hybrid_alpha: 0.5                # weight for embeddings (1-alpha for BM25)
+  hybrid_alpha: 0.6                # higher weight for dense (better for semantic facts)
   top_k: 20
 
   # Reranker
-  reranker_model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  reranker_model: "BAAI/bge-reranker-base"
   reranker_top_k: 10
 
   # Parent-child retrieval

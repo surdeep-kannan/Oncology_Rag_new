@@ -105,6 +105,14 @@ def main() -> None:
     if args.config:
         cfg.load_config(args.config)
 
+    # Force CLI parser override in global config
+    if args.parser and args.parser != "auto":
+        config_dict = cfg.load_config()
+        if "parsing" not in config_dict:
+            config_dict["parsing"] = {}
+        config_dict["parsing"]["primary_parser"] = args.parser
+        config_dict["parsing"]["fallback_parser"] = args.parser
+
     setup_logging(level="DEBUG" if args.debug else None)
 
     pdfs = find_pdfs(args)

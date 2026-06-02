@@ -81,6 +81,12 @@ def sbert_faithfulness(sbert_model, context_str, answer):
 
 # ── main ───────────────────────────────────────────────────────────────────
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Evaluate HM-RAG Pipeline.")
+    parser.add_argument("--q", type=str, default=None, help="Evaluate a single question by ID (e.g. q22)")
+    parser.add_argument("--index", type=int, default=None, help="Evaluate a single question by 0-based index")
+    args = parser.parse_args()
+
     print("="*66)
     print("  ONCOLOGY RAG — COMPLETE EVALUATION REPORT")
     print("  HM-RAG (HybridSearch + CrossEncoder + SBERT Faithfulness)")
@@ -98,6 +104,13 @@ def main():
 
     with open("eval_dataset.json") as f:
         dataset = json.load(f)
+
+    if args.q is not None:
+        dataset = [item for item in dataset if item.get("id").strip().lower() == args.q.strip().lower()]
+        print(f"Filtered evaluation to question ID: {args.q} ({len(dataset)} items)")
+    elif args.index is not None:
+        dataset = [dataset[args.index]]
+        print(f"Filtered evaluation to index: {args.index} ({len(dataset)} items)")
 
     all_rows = []
     agg = defaultdict(float)

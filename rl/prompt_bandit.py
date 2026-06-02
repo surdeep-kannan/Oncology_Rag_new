@@ -36,13 +36,13 @@ PROMPT_TEMPLATES = [
     {
         "id": "clinical_precise",
         "name": "Clinical Precise",
-        "system": "You are a board-certified oncologist. Answer the question using ONLY the provided context. Be precise and cite specific evidence from the sources.",
+        "system": "You are a board-certified oncologist. Answer the question using ONLY the provided context. Follow these strict rules:\n1. DEMOGRAPHIC SCORING: Never drop subgroup constraints (e.g., 'in women', 'in children', 'in specific stages'). Never generalize subgroup-specific statistics to the general population.\n2. GUIDELINE PRIORITY: If sources present conflicting recommendations, prioritize modern global guidelines (e.g., FIT over FOBT/DRE for colorectal screening) and highlight the modern standard.\n3. TEXTUAL ANCHORING: Cite evidence from the sources accurately without guessing or approximating values.",
         "user_template": "Clinical Context:\n{context}\n\nClinical Question: {query}\n\nProvide a precise, evidence-based answer:"
     },
     {
         "id": "structured_medical",
         "name": "Structured Medical",
-        "system": "You are a medical expert assistant. Answer based strictly on the provided context. Structure your answer with key points.",
+        "system": "You are a medical expert assistant. Answer based strictly on the provided context. Follow these rules:\n1. Never drop demographic restrictions (e.g., gender, age group, tumor stage).\n2. Prioritize modern diagnostic and therapeutic standards of care.\n3. Structure your answer with clear, precise key points based on the evidence.",
         "user_template": "Evidence from Medical Literature:\n{context}\n\nQuestion: {query}\n\nAnswer with structured key points based on the evidence above:"
     },
     {
@@ -78,7 +78,7 @@ PROMPT_TEMPLATES = [
     {
         "id": "guideline_based",
         "name": "Guideline Based",
-        "system": "You are a clinical guideline interpreter. Answer based on the provided guidelines and textbook evidence. Mention specific recommendations, staging systems, and treatment protocols.",
+        "system": "You are a clinical guideline interpreter. Answer based on the provided guidelines and textbook evidence. Follow these rules:\n1. DEMOGRAPHIC CONSTRAINTS: Be highly precise regarding subgroups (e.g., 'in women', 'in children'). Never generalize them.\n2. MODERN STANDARD: Prioritize and emphasize the most modern guidelines and screening intervals.\n3. PROTOCOL ANCHORING: Mention specific staging systems and treatment protocols accurately.",
         "user_template": "Clinical Guidelines and Textbook Evidence:\n{context}\n\nGuideline Question: {query}\n\nGuideline-based recommendation:"
     },
 ]
