@@ -50,10 +50,12 @@ class MedLLM:
         else:
             logger.info(f"Using llama_cpp_python with {self.gguf_path}")
             from llama_cpp import Llama
+            
+            # Full context window for maximum answer quality
             self.model = Llama(
                 model_path=self.gguf_path,
-                n_ctx=8192, # 8K native context window
-                n_threads=8, # Use 8 CPU cores
+                n_ctx=8192,          # 8K context — fits full 24K char budget
+                n_threads=10,        # 10 CPU threads
                 verbose=False
             )
 

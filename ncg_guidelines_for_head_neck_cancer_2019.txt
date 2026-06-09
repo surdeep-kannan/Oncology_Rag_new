@@ -1,0 +1,1815 @@
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+ORAL CANCER
+ORAL CANCER
+Assessment & workup
+
+Symptomatology: Non-healing ulcer in oral
+cavity/loose tooth/earache/neck nodes
+
+Clinical evaluation
+
+Biopsy for tissue diagnosis
+
+Imaging to assess primary/neck and for ruling out distant metastasis
+Dental evaluation/Nutrition assessment/Speech & swallowing evaluation & appropriate intervention
+
+^Optimal Imaging modality for tongue lesion is an MRI(b) and for other sites a Contrast enhanced CT scan(b). Loco regional imaging is for assessment of the primary and the neck. Early-stage oral cavity that is amenable to adequate clinical evaluation may not warrant imaging
+studies of the primary and Ultrasound examination(c) of the neck is an optional alternative
+to CECT/MRI in this situation.
+Chest X-ray(a) is an essential investigation for ruling out lung metastasis and possible aspiration. Either a PET CT(b) or CECT Thorax (c) should be optimal in patients being considered for
+curative therapy but with a high risk for distant metastasis (N3 node (size > 6 cm), multiple
+bilateral neck nodes, Lower cervical neck nodes, large primary (T4b) and in patients who
+have symptoms suggestive of distant metastasis.
+
+Page 4 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+
+EARLY ORAL CANCER
+
+Stage I &II
+
+Single Modality Treatment
+
+Surgery% (a)
+
+RT***
+
+%- Surgery%- Primary tumor- Wide local excision (at least 1 cm gross margin so as to achieve > 5
+mm histological
+tumor free margin) with appropriate Neck Dissection and appropriate reconstruction. For N0 Neck- Selective neck dissection addressing Level I-III (a)+/- Level IV. For N+
+S
+Neck – Modified neck dissection (Level I-V) with sparing of the XI nerve, IJV, SCM Muscle whenu
+ever oncologically feasible (a). The minimum optimal number of lymph nodes included in a SND
+r
+should be >10 and in a MND >14.
+g
+***-The option of Radiation therapy for early oral cancers is optimal only for lip tumors and see
+lected other
+r sub sites. Tumors abutting the mandible risk osteoradionecrosis. The treatment
+should preferably
+include brachytherapy as a part of treatment. Either complete dose or partial
+y
+dose should be delivered by brachytherapy.
+-
+
+P
+
+Page 5 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+ADVANCED ORAL CANCER
+
+Stage III& IVA (Resectable)
+
+Surgery + adjuvant radiotherapy
+or chemoradiotherapy$ (If Patient
+unwilling/unfit for Surgery follow
+Unresectable algorithm****)
+
+Stage IVB
+
+Borderline Resectable @,
+Good GC
+
+NACT#
+
+Stage IVC
+
+Unresectable
+
+Good GC
+
+Poor GC
+
+Palliative
+
+Symptomatic
+Treatment/Best
+Supportive Care
+
+Radiotherapy
+Good Response (complete
+/partial response)
+
+Inadequate Response (stable
+/progressive disease)
+
+Re-evaluate for Curative treatment (Surgery + adjuvant radiotherapy or chemo-radiotherapy$)
+
+Follow algorithm as for
+
+Follow Guidelines as in
+recurrent and metastatic head & neck
+cancer
+
+Chemotherapy*
+Chemoradiotherapy**
+
+Unresectable oral cancer
+
+Page 6 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+****The option of Radiation Rx/ Chemo radiation Rx for advanced tumors is applicable only
+for patients who are unfit and unwilling for surgery, and target volumes that can be safely
+encompassed by a tumoricidal dose of 70 Gy. Patients with gross mandibular erosion risk
+osteoradionecrosis and are not suitable for this modality. Tumors abutting the mandible and
+tumors with gross skin ulceration are also at greater risk of complications.
+
+$- Indications for adjuvant post-op radiotherapy are T3-T4 primary, Node positivity, perineural invasion, lympho-vascular invasion, and poorly differentiated disease. IMRT may be considered (c) if affordable (employer insurance scheme, personal insurance schemes) and
+available. Adjuvant post-op concurrent chemo-radiation is indicated for positive margin and
+presence of extra nodal extension/extracapsular spread. and presence of nodal positivity of
+2 or more lymph nodes. The options for adjuvant concurrent chemotherapy are- Cisplatin
+100 mg/m2 (optimal option) or weekly cisplatin 30-40 mg/m2. Audiometry is preferred prior
+to administration of cisplatin.
+@- Borderline Resectable - This is broadly a situation wherein the primary tumor is grossly
+resectable, but significant concern exists regarding the probability of a positive resection
+margin or excessive surgical morbidity. The decision regarding borderline resectablity should
+be taken by a surgeon (preferably in a multidisciplinary tumor board). Situations which may
+be deemed as borderline resectable are1. Soft tissue swelling up to the zygoma in case of a BM-GBS primary.
+2. Disease close to hyoid or valleculae in case of a Tongue primary.
+3. Some situations with Extensive skin infiltration and Involvement of
+
+(Supra-notch) infratemporal fossa.
+Radiological involvement of the infratemporal fossa which is inferior to the level of the mandibular notch is deemed as resectable by current surgical techniques.
+If the treating team (surgeon) considers the lesion to be resectable then surgery should be
+offered as per the algorithm for operable oral cancers.
+
+Page 7 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+#NACT options
+1. DCF- Docetaxel 75 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on
+D1, 5FU 750 mg/m2 Continuous infusion of 24 hours D1-D5- 3 weekly
+2. DC- Docetaxel 75 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on
+D1- 3 weekly
+3. TPE- Docetaxel 75 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on
+D1- 3 weekly and Cetuximab ( 400 mg/m2 first cycle and then 250 mg/m2 subsequent weekly)
+4. CF- Cisplatin 100 mg/m2 D1 or Carboplatin AUC 5-6 on D1, 5FU 10000 mg/m2 Continuous infusion of 24 hours D1-D4- 3 weekly
+5. PC- Paclitaxel 175 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on
+D1- 3 weekly
+6. PC weekly—Paclitaxel v60-80 mg/m2 D1-D5, Carboplatin AUC 1.5-2 on D1- weekly
+7. Metronomic chemotherapy- Methotrexate 9 -15 mg/m2 weekly, Celecoxib 200 mg
+twice daily with or without Erlotinib 150 mg daily
+** In select patients who refuse surgery and are fit for chemoradiotherapy.
+*1) Options for first line palliative chemotherapy include and need to be given
+till progression or development of intolerable side effects Cytotoxic chemotherapy (single agent or combination)- metronomic chemotherapy consisting of weekly methotrexate-celecoxib with or without erlotinib (Methotrexate 9 -15
+mg/m2 weekly, Celecoxib 200 mg twice daily with or without Erlotinib 150 mg daily); or
+combination Chemotherapy (Platinum, 5-FU, Taxane)
+ 5FU– Platinum –Cetuximab or Paclitaxel -Platinum-Cetuximab (c);
+ Pembrolizumab (if deemed appropriate with genetic testing for PDL1 and mutation
+load) (c)
+
+2) Options for second line or beyond chemotherapy include- Triple metronomic chemotherapy (b) or single agent chemotherapy (b), or nivolumab or its altered schedules (c) or
+Pembrolizumab or its altered schedules (c)
+
+Page 8 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Doses of palliative regimens- These are suggested doses and may need to be varied according
+to patient’s condition.
+1. DC- Docetaxel 75 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on D1- 3
+weekly
+2. TPE-Docetaxel 75 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on D13 weekly and Cetuximab (400 mg/m2 first cycle and then 250 mg/m2 subsequent weekly)
+3. CF- Cisplatin 100 mg/m2 D1 or Carboplatin AUC 5-6 on D1, 5FU 10000 mg/m2 Continuous infusion of 24 hours D1-D4- 3 weekly
+4. EXTREME- Cisplatin 100 mg/m2 D1 or Carboplatin AUC 5-6 on D1, 5FU 10000 mg/m2
+Continuous infusion of 24 hours D1-D4- 3 weekly and Cetuximab ( 400 mg/m2 first cycle
+and than 250 mg/m2 subsequent weekly)
+5. PC- Paclitaxel 175 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on D13 weekly
+6. PCE- Paclitaxel 175 mg/m2 D1-D5, Cisplatin 75 mg/m2 D1 or Carboplatin AUC 5-6 on D13 weekly and Cetuximab ( 400 mg/m2 first cycle and then 250 mg/m2 subsequent weekly)
+7. PC weekly—Paclitaxel 60-80 mg/m2 D1-D5, Carboplatin AUC 1.5-2 on D1- weekly
+8. PCE weekly-—Paclitaxel 60-80 mg/m2 D1-D5, Carboplatin AUC 1.5-2 on D1- weekly and
+Cetuximab (400 mg/m2 first cycle and then 250 mg/m2 subsequent weekly)
+9. Pembrolizumab- 200 mg 3 weekly or 400 mg 6 weekly or 2 mg/kg 3 weekly either alone
+or along with CF or PC
+10. Nivolumab- 240 mg 3 weekly or 480 mg 6 weekly or 3 mg/kg 2 weekly alone. A lower
+dose of 20-40 mg may be used if clinical condition permits.
+11. Metronomic chemotherapy- Methotrexate 9 -15 mg/m2 weekly, Celecoxib 200 mg
+twice daily with or without Erlotinib 150 mg daily
+12. Cisplatin-75 mg/m2 3 weekly
+13. Carboplatin – AUC 5-6 3 weekly
+14. Docetaxel 75 mg/m2 D1 3 weekly
+15. Paclitaxel 175 mg/m2 D1 3 weekly
+16. Paclitaxel 60-80 mg/m2 D1 weekly
+
+Page 9 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+OROPHARYNX / HYPOPHARYNX / LARYNX CANCER
+OROPHARYNX / HYPOPHARYNX / LARYNX CANCER
+
+Symptomatology
+Odynophagia/Dysphagia
+Hoarseness/Hot Potato Speech
+Referred Otalgia
+Difficulty breathing/Stridor
+
+Clinical evaluation
+Indirect Laryngoscopy
+Direct Laryngoscopy OR
+Examination Under Anesthesia (c)
+(To delineate the mucosal extent, vocal cord mobility and arytenoid status)
+Assessment of laryngeal functionality
+
+Imaging for assessing primary/neck nodes/distant metastasis^
+HPV testing for Oropharyngeal Cancer%
+Dental, Nutrition, Swallowing Assessment & Appropriate intervention**
+
+Primary in Oropharynx
+
+Primary in Hypopharynx
+
+Primary in Larynx
+
+Refer Algorithm for
+Oropharynx
+
+Refer Algorithm for
+
+Refer Algorithm for
+
+Hypopharynx
+
+Larynx
+
+Page 10 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+^- Optimal Imaging modality for the primary and the neck may be by a CECT(b) or MRI(b). A
+MRI may be optimal for the Oropharynx and a CECT for the larynx and hypopharynx.
+Chest X-ray(a) is an essential investigation for ruling out lung metastasis and possible aspiration. Either a PET CT(c) or CECT Thorax (b) should be optimal in patients being considered for
+curative therapy but with a high risk for distant metastasis (N3 node (size > 6 cm), multiple
+bilateral neck nodes, Lower cervical neck nodes, large primary (T4b), advanced hypopharyngeal cancer, and in patients who have symptoms suggestive of distant metastasis.
+
+%- HPV testing(b) is Optimal for all Oropharyngeal Cancers. This may be by p16 (b). If expertise and facilities are available, then HPV mRNA testing is more specific (c). HPV+Ve Oropharyngeal Cancer is however currently noted in < 20% as per Indian studies and testing is not
+yet routine.
+
+**- Assessment for speech(b) and swallowing to evaluate for aspiration(b) is considered Optimal. At least a 100 ml Bedside water swallowing test should be considered (b). If facility
+available, Fiber optic endoscopic evaluation of swallowing or Videofluoroscopy evaluation of
+swallowing to be undertaken (c)
+
+Page 11 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Ca Oropharynx-Base of tongue, Tonsil, Soft palate, Pharyngeal wall
+
+Any T Any N M1
+
+Stage III-V, T3-T4 N0 or Any T N1-3
+Stage I-II, T1-T2 N0
+
+Palliative
+1) Radiotherapy
+
+RT/CT/CT+RT$
+
+Radical Intent
+
+2) Surgery (+/-adjuvant Rx if
+pathological upstaging)
+
+Cisplatin Fit+
+
+Chemoradiation^
+
+Cisplatin Unfit
+
+1) Radical Radiation (a)
+2) Radiation +Cytotoxic Sensitizer@(b)
+3) Radiation + Biologicals #
+
+10-12 Weeks Assessment for Residual disease
+
+No Residual Disease
+
+Residual disease
+
+Observe
+
+If surgery feasible
+
+First One year- 3 monthly
+
+to consider the same
+
+If surgery not feasible
+
+After One Year- 4 monthly
+After two years - 6 monthly
+Palliative Intent**
+T
+Page 12 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+
+~- Selected T1-2N0 lesions of tonsil – Base Tongue can be considered for minimally invasive
+Trans Oral Surgery (Laser/ Robotic) surgery (c) to achieve a margin negative resection of the
+primary (tumor free margin of 3-5 mm). This needs to be accompanied with selective neck
+dissection and appropriate adjuvant RT/ CTRT as indicated by surgical histology.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c)
+(These options were tested in platinum fit patients. Expertise in delivering chemotherapy is required for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may
+be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options
+were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is required for these regimens.
+#- Either Cetuximab or Nimotuzumab can be used in this setting, Optimal if affordable (employer insurance scheme, personal insurance schemes) and available. However, these options were tested in platinum fit patients and hence while administering them in cisplatin
+unfit patients caution is mandated. Expertise in delivering chemotherapy is required for
+these regimens.
+**- Large T4b lesions or large multiple N3 nodes (> 6 cm) could be considered for palliative
+therapy. In case of elderly patients or those with poor social support with very advanced disease this option can be considered.
++- Standard criteria for cisplatin fitness to be followed
+$Options for palliative chemotherapy -As listed in section for Oral Cancer
+
+Page 13 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+CARCINOMA LARYNX
+Supraglottis/Glottis
+
+Glottis T1-2 N0
+
+Supraglottis T1-2 N0
+
+Normal cord mobility
+
+Normal cord mobility
+
+Single modality
+
+Anterior Commissure free*
+
+Mid Cord Lesion
+
+Entire Vocal Cord
+Lesion
+
+Anterior Commissure is Involved
+
+1.Transoral Microsurgery**(c)
+
+1. Radical Radiotherapy***(b)
+
+1. Radical Radiotherapy***(b)
+
+2. Radical Radiotherapy*** (c)
+
+2. Trans Oral Microsurgery(b)
+
+2. Trans Oral Microsurgery(b)
+
+2. Trans Oral Microsurgery
+with Laser (b) + B/L Sampling Neck dissection
+
+3. Open Partial
+
+3. Open Partial
+
+Laryngectomy(b)
+
+1. Radical Radiotherapy***(b)$
+
+Laryngectomy(b)
+
+*At least a 16 slice CT scan with 3 mm cut should be preferred to evaluate involvement of cartilage.
+**Tumor free margin of at least 1-2 mm should be achieved.
+***The risk of occult metastasis to the neck needs to be addressed in all treatments for Supraglottic Cancer.
+$ Primary 70Gy+ Prophylactic Neck Radiation. (b)
+
+Page 14 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Glottis/Supraglottis T1-2, N1-3
+Normal Cord Mobility
+
+Non-Surgical option
+
+Cisplatin Fit+
+
+Surgical Option for Primary
+
+Cisplatin Unfit
+
+1) Radical Radiation(a).
+2) Radiation +Cytotoxic Sensitizer @ (b)
+3) Radiation + Biologicals #
+
+1)Concurrent CHEMOADIATION^ (a)
+2)NACT Followed by CTRT/RT^^(c)
+
+1. Trans Oral Surgery with Laser and appropriate neck dissection. Pathology directed post-op adjuvant therapy
+(RT/CT-RT) (b)
+2. Open Partial Laryngectomy* with appropriate neck dissection. Pathology directed post-op adjuvant therapy
+(RT/CT-RT) ** (b)
+
+*Conservative laryngeal surgeries (Open partial laryngectomy) for Glottic growth / Supraglottic Laryngectomy for Supraglottic growth. Case selection should include considerations of anatomical spread to warrant a reasonable expectation of a R0 resection,
+and also physiological considerations with regard to pulmonary and swallowing function
+to minimize post-surgical swallowing dysfunction and aspiration.
+** Indications for adjuvant post-op radiotherapy are T3-T4 primary, Node positivity,
+perineural invasion, lymphovascular invasion, and poorly differentiated disease. Adjuvant post-op concurrent chemoradiation is indicated for positive margin, and presence
+of extra nodal extension/extracapsular spread. The options for adjuvant concurrent
+Page 15 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+chemotherapy are- Cisplatin 100 mg/m2 on day 1,22, 43 or weekly cisplatin 30-40
+mg/m2. Audiometry is preferred prior to administration of cisplatin.
++-Standard criteria for cisplatin fitness to be followed.
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is required
+for these regimens.
+#- Either Cetuximab or Nimotuzumab can be used in this setting, Optimal if affordable
+(employer insurance scheme, personal insurance schemes) and available. However,
+these options were tested in platinum fit patients and hence while administering them
+in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is
+required for these regimens.
+^^- Post induction chemotherapy the options for concurrent treatment are weekly cisplatin (30 mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+
+Page 16 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Supra-Glottis/Glottis T3, N0-3
+Impaired Cord Mobility/Fixed Cord
+CT Scan- Larynx with Paraglottic/Preepiglottic space involvement with
+operable nodes
+
+Larynx function intact
+& Cisplatin fit+
+
+Larynx function intact &
+Cisplatin unfit
+
+1)CHEMOADIATION
+
+• Radical Radiation (a).
+
+A. Concurrent Chemoradiation^
+
+• Radiation +Cytotoxic Sensitizer@
+(c)
+
+B. NACT Followed by CTRT/RT^^(b)
+*If CR/PR- Consider RT/CTRT
+*If PR/Stable- Surgery followed by
+Rt/CTRT
+C. Open Partial Laryngectomy* with
+appropriate neck dissection. Pathology directed post-op adjuvant
+therapy (RT/CT-RT)(c)*
+
+• Radiation + Biologicals #
+• Open Partial Laryngectomy* with
+appropriate neck dissection. Pathology directed post-op adjuvant
+therapy (RT/CTRT) (c)*
+
+Larynx Function
+compromised
+
+• Near-Total Laryngectomy
+/Total Laryngectomy with
+TEP# & bilateral appropriate
+neck dissection with adjuvant therapy (RT/CTRT)
+(b)**
+
+Occasionally appropriate
+
+*Conservative laryngeal surgery (Supracricoid Laryngectomy) for Glottic growth / Supraglottic Laryngectomy for Supraglottic growth is occasionally appropriate in the situation
+of mobile cords but T3 staging in view of paraglottic space/ pre-epiglottic space involvement.
+# A Tracheo-Esophageal Prosthesis (TEP) for speech rehabilitation is appropriate and op-
+
+timal for most patients undergoing a Total Laryngectomy
+Page 17 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+**- Indications for adjuvant post-op radiotherapy are T3-T4 primary, Node positivity,
+perineural invasion, lymphovascular invasion, and poorly differentiated disease. Adjuvant post-op concurrent chemoradiation is indicated for positive margin, and presence
+of extra nodal extension/extracapsular spread. The options for adjuvant concurrent
+chemotherapy are- Cisplatin 100 mg/m2 on day 1,22, 43 or weekly cisplatin 30-40
+mg/m2. Audiometry is preferred prior to administration of cisplatin.
++- The criteria for fitness to be followed for patients in whom cisplatin is considered.
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is required
+for these regimens.
+^^- Post induction chemotherapy the options for concurrent treatment are weekly cisplatin (30 mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+
+Page 18 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Glottis/Supraglottis T4, Any N
+Operable neck nodes
+
+Intact Laryngeal Function and
+
+Laryngeal cartilage infiltration/
+
+Framework (exo-laryngeal without cartilage
+involvement)
+
+Laryngeal Function compromised (Tracheostomy/Aspiration)
+
+1. Near-Total Laryngectomy /Total Laryngectomy with
+TEP# & bilateral appropriate neck dissection with
+adjuvant therapy (RT/CT-RT) (b)*
+2. Organ preservation can be attempted in patient with
+preserved laryngeal function
+
+• Near-Total Laryngectomy /Total Laryngectomy with TEP# & bilateral appropriate
+neck dissection with adjuvant therapy
+(RT/CT-RT) (b)**
+
+A. NACT Followed by CTRT/RT^^(b)
+• If CR/PR- Consider RT/CTRT
+• If PR/Stable- Surgery followed by Rt/CTRT
+B. Concurrent CHEMORADIATION regimes as detailed
+previously. (b)^
+C. Radical Radiation (c)
+(& salvage if appropriate)
+
+*- Surgery remains the optimal option. Non-surgical options are likely to compromise cure rates especially in the setting of cartilage erosion. Patients may however choose for a laryngeal preserving non-surgical option despite the risks towards
+cure.
+Some situations with anterior commissure related Thyroid cartilage erosion with
+mobile cords may be appropriate for surgical organ preservation with partial
+laryngectomy rather than Total/Near-total laryngectomy.
+
+Page 19 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+# For patients undergoing Total Laryngectomy, a Tracheo-Esophageal Prosthesis (TEP) for
+
+speech rehabilitation is appropriate and optimal
+**- Indications for adjuvant post-op radiotherapy are T3-T4 primary, Node positivity,
+perineural invasion, lymphovascular invasion, and poorly differentiated disease. Adjuvant post-op concurrent chemoradiation is indicated for positive margin, and presence
+of extra nodal extension/extracapsular spread. The options for adjuvant concurrent
+chemotherapy are- Cisplatin 100 mg/m2 on day 1,22, 43 or weekly cisplatin 30-40
+mg/m2. Audiometry is preferred prior to administration of cisplatin.
+^^- Post induction chemotherapy the options for concurrent are weekly cisplatin (30
+mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+
+Page 20 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Hypopharynx T1-2 Both Cords
+Mobile
+
+Clinicoradiologically N0
+
+1. Radical Radiotherapy (c).
+2. Transoral Laser Microsurgery
+with selective neck dissection
+(c)*
+
+Clinicoradiologically N+
+
+NACT Followed Response evaluation^^(b)
+• *If CR/PR- Consider RT/CTRT
+
+Concurrent
+Chemoradiation^(a)
+(with cisplatin if fit)+
+
+• *If PR/Stable- Surgery followed
+by RT/CTRT^^
+
+Cisplatin Unfit
+• Radical radiation (a).
+• Concurrent RT with Biological#
+other regimes @ (b)
+• Conservational Laryngeal
+surgery with appropriate neck
+dissection & Post-op (RT/CT-RT)
+as appropriate */**(c)
+
+*Surgical Organ preservation should be considered in select cases as expertise for the
+same is not widely available.
+Case selection should include considerations of anatomical spread to warrant a reasonable expectation of a R0 resection, and also physiological considerations with regard to
+pulmonary and swallowing function to minimize post-surgical swallowing dysfunction
+and aspiration.
+
+Page 21 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+** Indications for adjuvant post-op radiotherapy are T3-T4 primary, Node positivity,
+perineural invasion, lympho-vascular invasion, and poorly differentiated disease. Adjuvant post-op concurrent chemoradiation is indicated for positive margin, and presence
+of extra nodal extension/extracapsular spread.
++- The criteria for fitness to be followed for patients in whom cisplatin is considered.
+^^- Post induction chemotherapy the options for concurrent treatment are weekly cisplatin (30 mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab.
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is required
+for these regimens.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition
+
+Page 22 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Hypopharynx T3, Any N
+Impaired Cord Mobility/FixedCord
+CT Scan- Larynx with Paraglottic/Pre-epiglottic space involvement with operable nodes
+
+Larynx function intact
+& Cisplatin fit+
+
+• NACT Followed Response evaluation^^(b)
+• if CR/PR- Consider RT/CTRT
+• If PR/Stable- Surgery followed by RT/CTRT^^
+• Concurrent Chemoradiation^(b)
+• Total Laryngectomy +/- TEP*OR
+Near-Total Laryngectomy,with partial/total pharyngectomy +TEP# &
+bilateral appropriate neck dissec-
+
+Larynx function intact
+& Cisplatin unfit
+
+• Total Laryngectomy +/- TEP*OR
+
+Larynx function compromised
+
+• Total Laryngectomy +/-
+
+Near-Total Laryngectomy,with par-
+
+TEP*OR Near-Total Laryngec-
+
+tial/total pharyngectomy +TEP# &
+
+tomy,with partial/total
+
+bilateral appropriate neck dissection
+
+pharyngectomy +TEP# & bilat-
+
++ appropriate reconstruction and
+
+eral appropriate neck dissec-
+
+adjuvant (RT/CT-RT) as appropriate
+
+tion + appropriate reconstruc-
+
+(b)
+
+tion and adjuvant (RT/CT-RT)
+
+• Radical radiation (a)
+
+as appropriate(a)
+
+• Concurrent RT with Biological# or
+other regimes (b)@
+
+tion + appropriate reconstruction.
+Post-op RT/CT-RT) as appropriate
+(c)*
+
+#For patients undergoing Total Laryngectomy, a Tracheo-Esophageal Prosthesis (TEP) for
+speech rehabilitation is appropriate and optimal
+* Indications for adjuvant post-op radiotherapy are T3-T4 primary, Node positivity, perineural invasion, lympho-vascular invasion, and poorly differentiated disease. Adjuvant
+post-op concurrent chemo-radiation is indicated for positive margin, and presence of extra nodal extension/extracapsular spread.
+Page 23 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
++- The criteria for fitness to be followed for patients in whom cisplatin is considered.
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is required
+for these regimens.
+#-Either Cetuximab or Nimotuzumab can be used in this setting, Optimal if affordable
+(employer insurance scheme, personal insurance schemes) and available. However,
+these options were tested in platinum fit patients and hence while administering them
+in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is
+required for these regimens.
+^^- Post induction chemotherapy the options for concurrent treatment are weekly cisplatin (30 mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+
+Page 24 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Hypopharynx T4 Any N
+Impaired Cord Mobility/Fixed Cord
+CT Scan- Gross Cartilage destruction/Exolaryngeal spread
+Operable Neck Nodes
+
+Intact Laryngeal Function and framework (exolaryngeal
+without cartilage involvement)
+
+Laryngeal cartilage infiltration/
+Laryngeal Function compromised (Tracheostomy/Aspiration)
+
+• Total Laryngectomy +/- TEP# OR Near-Total Laryngectomy,
+with partial/total pharyngectomy +TEP# & bilateral appropriate neck dissection + appropriate reconstruction. Post-op
+RT/CT-RT) as appropriate (a)*
+• NACT Followed Response evaluation^^(b)
+*If CR/PR- Consider RT/CTRT
+*If PR/Stable- Surgery followed by RT/CTRT^^
+• Concurrent CHEMORADIATION ^
+1. Cisplatin Fit
+A. CTRT(b)
+2. Cisplatin Unfit @
+B. Radical Radiation + Salvage surgery
+(Cure is likely to be compromised) (c)
+
+• Total Laryngectomy +/- TEP*OR NearTotal Laryngectomy,with partial/total
+pharyngectomy +TEP# & bilateral appropriate neck dissection + appropriate pharyngeal reconstruction. Postop RT/CT-RT) as appropriate (a)*
+
+• Concurrent RT with biological# (c)
+
+*- Surgery remains the optimal option. Non-surgical options are likely to compromise
+cure rates especially in the setting of cartilage erosion. Patients may however choose
+for a laryngeal preserving non-surgical option despite the risks towards cure.
+#For patients undergoing Total Laryngectomy, a Tracheo-Esophageal Prosthesis(TEP) for
+
+speech rehabilitation is appropriate and optimal
+
+Page 25 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is required
+for these regimens.
+#- Either Cetuximab or Nimotuzumab can be used in this setting, Optimal if affordable
+(employer insurance scheme, personal insurance schemes) and available. However,
+these options were tested in platinum fit patients and hence while administering them
+in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is
+required for these regimens.
+^^- Post induction chemotherapy the options for concurrent treatment are weekly cisplatin (30 mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+
+Page 26 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Larynx/Hypopharynx Any T
+Inoperable Neck Nodes
+
+ECOG performance 0-1
+
+ECOG performance > 2
+
+Palliative RT/Chemotherapy/
+RT+CT(b) OR Best Supportive Care
+(a)
+
+Cisplatin Fit+
+• NACT Followed Response evaluation^^(b)
+• Re-evaluate for Curative treatment
+• Concurrent CHEMORADIATION^
+
+Cisplatin Unfit
+• Concurrent RT with biological#(c) or Other
+regimes@ (b)
+• Radical Radiation (a)
+
+@- The options in non-cisplatin fit are carboplatin -5FU or 5FU-Hydroxyurea. These options were tested in platinum fit patients and hence while administering them in cisplatin unfit patients caution is
+mandated. Expertise in delivering chemotherapy is required for these regimens.
++ cisplatin fitness as per standard practice/guidelines
+#- Either Cetuximab or Nimotuzumab can be used in this setting, Optimal if affordable
+(employer insurance scheme, personal insurance schemes) and available. However,
+these options were tested in platinum fit patients and hence while administering them
+in cisplatin unfit patients caution is mandated. Expertise in delivering chemotherapy is
+required for these regimens.
+
+Page 27 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+^^- Post induction chemotherapy the options for concurrent treatment are weekly cisplatin (30 mg/m2), weekly carboplatin or weekly Cetuximab or weekly Nimotuzumab.
+^ Options for chemoradiotherapy are as follows:
+1. Radiation (70 Gy/35#) + Cisplatin 40mg/m2 (weekly)(a),
+2. Radiation (70Gy/35#) + Cisplatin 100 mg/m2 once three weekly(b),
+3. Radiation (70 Gy/35#) + Cisplatin 30-40 mg/m2 + Nimotuzumab 200 mg weekly(b),
+4. Other regimens such as carboplatin -5FU or 5FU-Hydroxyurea or paclitaxel-cisplatin(c) (These
+options were tested in platinum fit patients. Expertise in delivering chemotherapy is required
+for these regimens) and
+5. NACT followed by Radiation or chemoradiation(c) Indications for neoadjuvant chemotherapy
+are N3 lymph nodes (> 6 cm) and extensive soft tissue extension, which is difficult to encompass safely in radiation portals. Post induction chemotherapy patients may be routed to Curative therapy or Palliative therapy as per clinical response and reassessment of General Condition.
+
+Page 28 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+PARANASAL SINUS AND NASAL CAVITY MANAGEMENT ALGORITHM
+Symptomatology
+
+Nasal Symptoms
+
+Orbital Symptoms
+
+Other Symptoms
+
+Nasal Obstruction
+
+Epiphora
+
+Headache/Vomiting(Raised ICP)
+
+Nasal Discharge
+
+Blurring of Vision
+
+Midfacial hyperesthesia/Anesthesia
+
+Epistaxis
+
+Diplopia
+
+Loosening of teeth
+
+Anosmia
+
+Visual Loss
+
+Neck Node
+Distant Metastasis symptoms
+
+Work Up On Patient
+Diagnostic Nasal Endoscopy(a)
+• Map disease
+• Biopsy (Appropriate IHC for making correct diagnosis of the tumor)
+CT scan (Primary/Neck(a))
+• Bone Erosion (Primary/Neck) (Postero-lateral wall/roof/floor of orbit)
+MRI (b)
+• Soft tissue involvement/ITF/Orbit/Brain
+• Post-treatment setting (Surgery/RT)
+Distant Metastasis work up: CXR(a), CT (b), PET-CT(c)
+Ophthalmologic Evaluation (b)
+Endocrine Work up (optimal)
+Primary in Paranasal Sinus
+
+Primary in Nasopharynx
+
+Refer to Algorithm for Paranasal
+sinus
+
+Refer to Algorithm for
+Nasopharynx
+
+Page 29 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+NASAL CAVITY & PNS
+Paranasal sinus Early disease T1-2 N0
+
+Radical radiotherapy
+
+Surgical Resection (a)
+
+(If the patient is unwilling /unfit for surgery)(a)
+
+Margins Negative
+
+Margins Positive
+
+Peri-neural spread
+
+Revision Surgery
+(if possible)
+
+Observe
+
+Adjuvant RT(a)*
+
+Paranasal sinus Advanced disease T3-4
+N0-N+/T1-2 N+
+
+Surgical Resection(a)**
+
+Chemo radiation/RT
+
+NACT#+ followed by Surgery
+
+(If the patient is unwilling /unfit for surgery)(a)
+
+Margins Negative
+
+Margins Positive/ECS
+
+Adjuvant RT(a)
+
+Chemo RT(a)
+
+Page 30 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+
+*Radiation in the PNS is optimally delivered with IMRT due to the vicinity of cranial
+nerves, intracranial contents and orbit. (IMRT (b)). For advanced tumors and posteriorly positioned tumors radiation therapy should include coverage for the retropharyngeal node.
+**- Surgery should achieve a R0 Resection. The appropriate surgical technique may be
+accordingly selected (endoscopic, partial, total or extended maxillectomy, orbital exenteration, craniofacial resection). Neck Dissection is undertaken for a N+ neck. Prognosis is however very guarded for N+ disease except in the situation of Level I nodes
+related to anterior PNS Tumour/ Skin involvement.
+#NACT indication- should be considered optimal for advanced tumors with nonsquamous high-grade histology {ENB (Gr3,4)/SNUC/SNEC/NUT/Small cell/Others}. (b)
+NACT can be considered for SCC (c) in situations wherein surgical resection may not
+yield a R0 Resection or lead to unacceptable morbidity (Intracranial extension; High
+ITF involvement; orbital preservation in intraocular extension)
+
+Page 31 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Orbit management in Sino nasal Malignancy
+
+Lamina papyracea intact
+
+Extraconal disease
+
+Intraconal disease
+Apex of the orbit
+
+Involved
+
+Orbital periosteum
+
+Free
+
+Unresectable
+
+Involved
+
+RT/CTRT
+
+Orbital Fat FS
+
+Orbital Preservation
+
+Free
+
+Involved
+
+Orbital Exenteration
+
+Page 32 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+NASOPHARYNX
+NASOPHARYNX
+
+Staging workup
+
+Other Workups
+
+• Endoscopic Examination(a)
+
+• EBV(b)
+
+• CT/MRI face, neck including PNS(b)
+
+• Dental prophylaxis(a)
+
+• Chest X ray HRCT Chest(a)
+
+• Audiometry & Visual field testing(a)
+
+• PET-CT(b)
+
+• Nutritional Counselling(a)
+• Endocrine work Up including thyroid(b)
+
+T1N0M0
+
+• Radical RT alone (a)
+• Lesions classified
+as T2a by previous
+staging-CTRT (c)
+
+T2N0M0
+
+T3-4N0-3M0
+
+Any T Any N M1
+
+• CTRT+ Adjuvant
+CT(b)
+
+• NACT x2 cycles +
+CTRT(b)
+
+Palliative Chemotherapy (platinum based)(a)
+
+• NACT x2 cycles +
+CTRT(b)
+
+• CTRT(a)
+
+Palliative RT(Symptomatic
+bony metastasis) (a)
+
+• CTRT(a)
+
+CTRT(as indicated as (c))
+OR
+Best Supportive Care
+
+• FOLLOW-UP
+• PET-CT/MRI for response evaluation(b)
+• Examination of nasopharynx, neck and cranial nerves(a)
+• For T3and T4 tumors, PETCT/MRI might be done annually for 5 years(b)
+• Audiometry(a)
+• EBV(b)
+• IMRT or 3DCRT are the optimal modalities of Radiotherapy for Nasopharyngeal Cancer(b)
+• All treatments have titrated as per patient’s general condition and tolerability
+Page 33 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Major Salivary Gland
+
+Long Standing mobile,
+Tail parotid
+
+Nodule/mass in salivary glands
+parotid/ submandibular
+
+Features of malignancy: fast
+growing, painful, fixed, nerve
+involvement, neck node
+e
+
+Through clinical assessment including
+Fine Needle Aspiration Cytology
+(b)
+
+Benign: MRI imaging (b)
+
+Malignant: Consider MRI for soft tissue/
+deep lobe and facial nerve imaging.
+Consider CT for bone involvement
+
+)
+
+Superficial lobe
+parotid only
+
+Superficial + deep
+lobe parotid
+
+Superficial
+parotidectomy.(a)
+Adequate
+parotidectomy only if
+small lesion in
+superficial lobe
+
+Total parotidectomy(a)
+Nerve sacrifice only if
+involved pre/intra
+operatively
+
+Assess Resectablity
+
+Inoperable/Unresectable
+(Inoperable:
+intradural, extensive
+skull base, ICA
+
+Resectable
+
+Consider Radical RT OR
+Palliative RT
+
+Consider PORT only for multiply
+recurrent tumors
+-
+
+-
+
+Superficial/ Total parotidectomy
+depending on lob involved
+Facial nerve sacrifice only if pre-operatively
+involved or adherent totumour as
+assessed intraoperatively.
+Neck dissection if node positive
+
+Adjuvant RT :if
+1.
+2.
+3.
+4.
+5.
+
+(a)
+
+T3/T4 cancers
+Close or Positive margins
+Lymph node metastasis
+Page 34 of 62
+High or intermediate grade tumours
+Recurrent cancers
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+CERVICAL NODES WITH AN UNKNOWN PRIMARY
+Cervical nodes with an unknown Primary
+
+Fine Needle Aspirations(b)
+
+Poorly Differentiated/Undifferentiated
+Carcinoma
+• If lymphoma is suspected, consider lymph node biopsy for H&E
+for further characterization.
+• *IHC(b)
+(HMWCK,p63,CK7,CK20,LCA,CD3
+0,p16,HMB-45,EBVEBERISH,S100) Chromogranin,
+Synaptophysin
+
+Squamous Cell Carcinoma
+
+Adenocarcinoma
+
+• $PET-CT scan(b)
+
+• PET-CT scan(b)
+
+• IHC-p16, EBERISH
+
+• Tumor Marker
+
+• EUA, NP scope, Direct laryngoscopy, PET Directed biopsy consider tonsillectomy & biopsy
+
+• Lymph node biopsy *IHC(CK7,CD20,CDx2, PSA,TTF1Thyroglobulin, Mammoglobulin, ER,PR WT-1
+
+Treat as per the hematolymphoid guidelines
+
+Management
+
+Appropriate neck dissection% + Adjuvant
+RT+/Conc.CT
+
+Treat as per the hematolymphoid guidelines
+
+Primary tutor site detected, treat as per guidelines of the site
+
+RT Alone/CTRT SOS Salvage neck dissection
+
+*Optimal
+$ PET-CT where not available (a)
+
+CECT of the Face & Neck
+CECT thorax
+USG (Abdomen)
+
+%Depending on nodal stage and institutional policy
+
+Page 35 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+MANAGEMENT ALGORITHM FOR RECURRENT / METASTATIC SCCHN
+
+RECURRENT/ METASTATIC SCCHN*
+
+PET-CT
+
+(b)
+
+Poor GC
+PET-CT (b)
+
+LOCO-REGIONAL RECURRENCE,
+No Distant Metastasis
+
+RESECTABLE
+
+PALLIATIVE CARE (a)(b)/
+Immunotherapy
+(c)
+
+DISTANT METASTASIS
+
+NON-RESECTABLE
+
+· SALVAGE SURGERY ±
+CTRT
+(a)
+· Re-irradiation +/- CT
+(b)
+
+RE-RADIATION/ (a)
+SYSTEMIC
+CHEMOTHERAPY**
+
+Best Supportive Care (a
+)
+Palliative CT
+
+)*/**
+
+PALLIATIVE RT IN
+SYMPTOMATIC/ BONE METS
+
+*Consider early palliative care.
+**Options for first line palliative chemotherapy include
+
+Cytotoxic chemotherapy (single agent or combination)- metronomic chemotherapy consisting
+of weekly methotrexate-celecoxib with or without erlotinib; or combination Chemotherapy
+(Platinum, 5-FU, Taxane)
+
+
+
+5FU– Platinum –Cetuximab or Paclitaxel -Platinum-Cetuximab (c);
+
+
+
+Pembrolizumab (if deemed appropriate with genetic testing for PDL1 and mutation load) (c)
+
+**Options for second line or beyond chemotherapy include- Triple metronomic chemotherapy (b)
+or single agent chemotherapy (b), or nivolumab or its altered schedules (c) or pembrolizumab or its
+altered schedules (c)
+
+Page 36 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+ANNEXURE -1. RADIOLOGY SYNOPTIC REPORTING FORMATS
+ORAL CAVITY:
+CT/ MR legend:
+CT scan/ MR scan of the neck dated:
+Oral cavity (Buccal, Lip, alveolus, palate and RMT)
+T stage:
+Laterality:
+Location/ epicenter: Buccal mucosa/ Retromolar trigone/ Alveolus/ Lip
+If buccal mucosa: gingivobuccal sulcus (GBS) involvement: upper/ lower/ both
+If Retromolar trigone: upper/ lower/ both
+If lip: upper/ lower/ angle
+Alveolus: upper/ lower
+Whether Measurable/ Nonmeasurable.
+If measurable
+Size: ….X …. X … cm. (<2 cm, 2-4 cm,> 4 cm)
+Depth of invasion:
+(Previous Depth of invasion:)
+Primary Disease extent:
+Retromolar trigone: Not involved/ Involved
+Floor of mouth: Not involved/ Involved
+Gingivolingual sulcus: Not involved/ Involved
+Tongue: Not involved/ Involved
+Masseter muscle involvement: Not involved/ Involved
+Masticator space involvement: Not involved/ Involved
+Infratemporal fossa: Not involved/ Involved
+If yes Extension to High Infratemporal fossa: Present/ Absent
+Retroantral space extension: Not involved/ Involved
+Medial pterygoid muscles involvement: Not involved/ Involved
+Lateral pterygoid muscles involvement: Not involved/ Involved
+Page 37 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Pterygoid plates: Not involved/ Involved
+Pterygopalatine fossa: Not involved/ Involved
+Pterygomaxillary fissure: Not involved/ Involved
+Temporalis Muscle: Not involved/ Involved
+Condylar fossa: Not involved/ Involved
+Maxillary sinus involvement: Not involved/ Involved
+Hard palate involvement: Not involved/ Involved
+Skin involvement: Not involved/ Involved
+Specific comments, if any:
+Perineural spread: Absent/ Present/ cannot be commented*
+If present:
+Nerve involved (V1, V2, V3 etc):
+Cranial extent of perineural:
+Extension up to skull base: Absent/ Present/ Suspicious or cannot be commented*
+If yes: foramen ovale, foramen rotundum, vidian canal, greater palatine foramen
+Intracranial extension: Present/ Absent/ Suspicious or cannot be commented*
+If yes: cavernous sinus involvement: Present/ Absent
+Vascular involvement: Absent/ Present (with CCA and ICA)
+If present angle of contact: <90, 90 – 179, 180 – 269; >270
+IJV status:
+Bone status
+Dentition: Absent/ Present
+Bony Erosion: Absent/ Present: if present: maxillary/ mandibular
+If absent:
+Height of the mandible free from Para mandibular soft tissue: ….. mm
+If present:
+Bone invasion absent or limited to cortical bone: Absent/ Present
+Medullary/ marrow invasion: Absent/ Present
+Mandibular canal (MC) involvement: Absent/ Present
+Mandibular foramen (MF) involvement: Absent/ Present
+If yes, Superior extent: foramen ovale/ cavernous sinus
+Page 38 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+The height of the intact mandible at the site of erosion:
+N stage
+Presence of nodal disease: Metastatic/ Benign (reactive) / Indeterminate
+If indeterminate/ suspicious: need for additional imaging
+Laterality- Ipsilateral / contralateral / Bilateral
+Right levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal
+Left levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal
+Necrosis: Absent/ Present
+Perinodal extension/extracapsular spread: Absent/ Present
+Vascular involvement:
+IJV: involved/ compressed/ cannot be commented upon
+CCA abutment: Absent/ Present
+ICA abutment: Absent/ Present
+ECA abutment: Absent/ Present
+If present angle of contact for CCA and ICA: <90, 90 – 179, 180 – 269; >270
+Strap muscles involvement: Absent/ Present
+Prevertebral fascia invasion: Absent/ Present
+Size of the largest node:
+Right side: ….. mm and level
+Left side: ….. mm and level
+M Stage
+Lung nodules: Absent / Present
+If present:
+solitary/ multiple
+location:
+Size:
+suspicious/ TSTC@/ Benign
+Any other metastatic lesion (hepatic, adrenal, skeletal): Absent / Present
+If yes, specify location and size:
+Impression:
+T stage
+N stage
+M stage
+Page 39 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Specific comments, if any:
+* Needs additional imaging.
+# Needs additional imaging/ FNAC correlation.
+@ Follow-up/ image guided FNAC correlation.
+
+LARYNX AND HYPOPHARYNX
+CT/ MR legend:
+CT scan/ MR scan of the neck dated:
+Primary:
+Laterality:
+Larynx/ Hypopharynx:
+If Larynx: epicentre of disease: Glottic/ Supraglottic/ Sub glottic
+If hypopharynx: epicentre of disease: Pyriform sinus/ post-cricoid
+Whether Measurable/ Nonmeasurable. If measurable
+Tumor Volume/Transverse dimensions: …………. (AP x transverse x CC)Volume:…….cc
+T stage:
+Epiglottis:
+Not involved/ Involved: If Involved: Free edge (ipsilateral / both sides)/ Base
+Pre-epiglottic space: Not involved/ Involved: If Involved: Less than 25 % / Less than 50%/ More than
+50%
+Valleculae:
+Not involved/ Involved: If Involved: ipsilateral/ both sides
+Hyoid bone:
+Not Involved/ Involved: If Involved: (erosion/ sclerosis)/ cannot be commented
+Medial wall of pyriform & AE fold:
+Not Involved/ Involved: If Involved: (Ipsilateral/Contralateral)
+Lateral wall of pyriform sinus:
+Not Involved/ Involved
+Apex of pyriform sinus:
+Not Involved/ Involved
+Para Glottic Space: Not Involved/ Involved (a) at false cord level b) true cord level) both
+False vocal cord: Not Involved/ Involved
+True vocal cord: Not Involved/ Involved
+Anterior commissure: Not Involved/ Involved
+Posterior commissure: Not Involved/ Involved
+Sub-Glottis: Not Involved/ Involved (if involved inferior extent in mm)
+Post cricoid: Not Involved/ Involved
+Trachea: Not Involved/ Involved
+Page 40 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Thyroid gland: Not Involved/ Involved
+Pre-vertebral fascia: Not Involved/ Involved/ Indeterminate
+Cartilage erosion:
+Thyroid cartilage: Not Involved/ Involved: If Involved: (sclerosis/ erosion-lysis/ encased & displaced)
+If Eroded: Unilateral/Bilateral laminae, Outer/ Inner cortex/both
+Arytenoid cartilage: Not Involved/ Involved: If Involved: (sclerosis/ erosion-lysis/ encased & displaced).
+Cricoid cartilage: Not Involved/ Involved: If Involved: (sclerosis/ erosion/ lysis/ marrow invasion)
+Crico-arytenoid joint: Not Involved/ Involved
+Exolaryngeal Spread: absent/ Present,
+If present mode of spread-through eroded thyroid cartilage/ through thyrohyoid membrane/ along the
+posterior aspect of the thyroid cartilage.
+N stage:
+Presence of nodal disease: Metastatic/ Benign (reactive) / Indeterminate
+If indeterminate/ suspicious: need for additional imaging
+Laterality- Ipsilateral / contralateral / Bilateral
+Right levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal
+Left levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal
+Necrosis: Absent / Present
+Perinodal extension/extracapsular spread: Absent / Present
+Vascular involvement:
+IJV: involved/ compressed/ cannot be commented upon
+CCA abutment: Absent / Present
+ICA abutment: Absent / Present
+ECA abutment: Absent / Present
+If present angle of contact for CCA and ICA: <90, 90 – 179, 180 – 269; >270
+Strap muscles involvement: Absent / Present
+Prevertebral fascia invasion: Absent / Present
+Size of the largest node:
+Right side: ….. mm and level
+Left side: ….. mm and level
+
+Page 41 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+M Stage
+Lung nodules: Absent / Present
+If present:
+solitary/ multiple
+location:
+Size:
+suspicious/ TSTC@/ Benign
+Any other metastatic lesion (hepatic, adrenal, skeletal): Absent / Present
+If yes, specify location and size:
+Impression:
+T stage
+N stage
+M stage
+Specific comments, if any:
+# Needs additional imaging/ FNAC correlation
+@ Follow-up/ image guided FNAC correlation
+
+CARCINOMA TONGUE
+Laterality:
+Tumour size (AP x transverse x CC) MM:
+Depth of invasion MM:
+T stage:
+Crosses the midline: No/ abuts lingual raphe/ yes.
+Extrinsic muscles: Not involved/ Involved
+Genioglossus: Not involved/ Involved (origin/ insertion)
+Hyoglossus: Not involved/ Involved (origin/ insertion)
+Geniohyoid: Not involved/ Involved (origin/ insertion)
+Lingual neurovascular bundle: Not involved/ Involved (grade:0/I/II/III)
+If involved: Unilateral/bilateral
+Sublingual space: Not involved/ Involved
+Submandibular space: Not involved/ Involved
+Page 42 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Mylohyoid: Not involved/ Involved (origin/ insertion)
+Floor of mouth: Not involved/ Involved
+Masticator space: Not involved/ Involved
+ITF: Not involved/ Involved.
+If yes Extension to High Infratemporal fossa: Present/ Absent
+Posterior one-third of the tongue (BOT):Not involved/ Involved
+RMT: Not involved/ Involved
+Tonsillo-lingual sulcus: Not involved/ Involved
+Tonsil: Not involved/ Involved
+Inferior extent: up to vallecular/ epiglottis / PFS
+Hyoid: Not involved/ Involved (Distance from hyoid bone)
+Valleculae- Not involved/ Involved
+Epiglottis: Not involved/ Involved
+PFS: Not involved/ Involved
+Mandibular involvement:
+Cortical breach: Present/ absent
+Marrow signal abnormality: Present/ absent
+Need for additional imaging: yes (CT bone window)
+N stage
+Presence of nodal disease: Metastatic/ Benign (reactive) / Indeterminate
+If indeterminate/ suspicious: need for additional imaging.
+Laterality- Ipsilateral / contralateral / Bilateral.
+Right levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal.
+Left levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal.
+Necrosis: Present/ Absent.
+Perinodal extension/extracapsular spread: Present/ Absent.
+Vascular involvement:
+IJV: involved/ compressed/ cannot be commented upon.
+CCA: Present/ Absent
+ICA: Present/ Absent
+ECA: Present/ Absent
+If present angle of contact for CCA and ICA: <90, 90 – 179, 180 – 269; >270
+Page 43 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Strap muscles involvement: Present/ Absent
+Prevertebral fascia invasion: Present/ Absent
+Size of the largest node:
+Right side: ….. mm and level.
+Left side: ….. mm and level.
+Impression:
+T stage
+N stage
+Specific comments, if any:
+# Needs additional imaging/ FNAC correlation
+@ Follow-up/ image guided FNAC correlation
+
+CARCINOMA NASOPHARYNX
+CT/ MR legend:
+CT scan/ MR scan of the neck dated:
+Laterality: Right/ Left/ Both
+Crossing midline: No/ Yes
+Tumour size (AP x transverse x CC)
+Primary tumor extent:
+Fossa of Rosenmuller: Not involved/ Involved
+Eustachian tube opening: Not involved/ Involved
+Pharyngobasillar fascia: Not involved/ Involved
+Levator VeliPalatini: Not involved/ Involved
+Tensor Velipalatini: Not involved/ Involved
+Parapharyngeal space: Not involved/ Involved
+Carotid space: Not involved/ Involved
+Pterygoid muscles: Not involved/ Involved
+If present: medial/ lateral/ both
+Infratemporal fossa: Not involved/ Involved
+Pterygoid plates: Not involved/ Involved
+Pterygopalatine fossa: Not involved/ Involved
+Pterygomaxillary fissure: Not involved/ Involved
+Masseter muscle: Not involved/ Involved
+Masticator space: Not involved/ Involved
+Page 44 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Intra-nasal extension: Not involved/ Involved
+Pre-vertebral muscles: Not involved/ Involved
+Clivus (altered marrow signal): Not involved/ Involved
+Intra-cranial extension: absent/ Present
+If present: extent
+Dural enhancement: Not involved/ Involved
+Parenchymal involvement: Not involved/ Involved
+Oropharynx: Not involved/ Involved
+Perineural spread:
+Absent/ Present/ cannot be commented*
+If present:
+Nerve involved (V1, V2, V3 etc):
+Cranial extent of perineural:
+Extension up to skull base: Present/ Absent/ Suspicious or cannot be commented*
+If yes: foramen ovale, foramen rotundum, vidian canal, greater palatine foramen
+Intracranial extension: Present/ Absent/ Suspicious or cannot be commented*
+If yes: cavernous sinus involvement: Present/ Absent
+N stage:
+Presence of nodal disease: Metastatic/ Benign (reactive) / Indeterminate
+If indeterminate/ suspicious: need for additional imaging
+Laterality- Ipsilateral / contralateral / Bilateral
+Right levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal
+Left levels: Levels IA & IB/II, III, IV, V, VI & retropharyngeal
+Necrosis: Absent / Present
+Perinodal extension/extracapsular spread: Absent / Present
+Vascular involvement:
+IJV: involved/ compressed/ cannot be commented upon
+CCA abutment: Absent / Present
+ICA abutment: Absent / Present
+ECA abutment: Absent / Present
+If present angle of contact for CCA and ICA: <90, 90 – 179, 180 – 269; >270
+Strap muscles involvement: Absent / Present
+Prevertebral fascia invasion: Absent / Present
+Suspicious nodes: above cricoid only / above and below cricoid
+Size of the largest node:
+Page 45 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Right side: ….. mm and level
+Left side: ….. mm and level
+Impression:
+T stage
+N stage
+Specific comments, if any:
+* Needs additional imaging.
+# Needs additional imaging/ FNAC correlation.
+@ Follow-up/ image guided FNAC correlation.
+
+Neck Imaging Reporting & Data System (NI-RADS)
+NIRADS SURVEILLANCE REPORT TEMPLATE
+
+INDICATION: [ ]
+Subsite & HPV status: [ ]
+Surgery & Chemoradiation: [ ]
+TECHNIQUE:
+COMPARISON: [<None.>]
+FINDINGS:
+[<No evidence of recurrent disease is demonstrated at the primary site. >]
+[<No pathologically enlarged, necrotic, or otherwise abnormal lymph nodes. >]
+Expected post-treatment changes are noted including [<supraglottic mucosal edema and thickening of
+the skin and subcutaneous soft tissues.>]
+There are no findings to suggest a second primary in the imaged aerodigestive tract.
+Evaluation of the visualized portions of brain, orbits, spine and lungs show no aggressive lesions suspicious for metastatic involvement.
+
+Page 46 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+IMPRESSION:
+Primary: [1}. [<Expected post-treatment changes in the neck without evidence of recurrent disease in
+the primary site >]
+Neck: [1}, [<No evidence of abnormal lymph nodes.>]
+CECT or MRI Surveillance Legend:
+Primary
+1: No evidence of recurrence: routine surveillance
+2: Low suspicion
+a) Superficial abnormality (skin, mucosal surface): direct visual inspection
+b) Ill-defined deep abnormality: short interval follow-up*or PET
+3: High suspicion (new or enlarging discrete nodule/ mass): biopsy
+4: Definitive recurrence (path proven, clinical or definitive imaging progression): no biopsy needed
+Nodes
+1: No evidence of recurrence: routine surveillance
+2: Low suspicion: (enlarging lymph node without morphologically abnormal features): short interval
+follow-up or PET
+3: High suspicion (new or enlarging lymph node with morphologically abnormal features): biopsy if
+clinically needed
+4: Definitive recurrence (path proven, clinical or definitive imaging progression): no biopsy needed
+*short interval follow- up: 3 months at our institution
+
+CACRNIOMA THYROID CT IMAGING
+CT legend:
+CT scan of the neck dated:
+
+Primary Thyroid nodule:
+Location: Right lobe/Left lobe/Isthmus
+Size:
+Enhancement: Homogeneous/Heterogeneous
+Calcifications: Absent/Present
+If present: microcalcification/ macrocalcification/ eggshell
+Page 47 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+Cystic / Necrotic change: Absent/Present
+Extra-thyroid extension: Absent/Present
+If present CT Grade of ETE*:
+Mediastinal extension: Absent/Present
+Right aberrant subclavian artery: Absent/Present
+T STAGE
+Strap muscle involvement: yes/No
+T-E groove: Not involved/Involved (Status of vocal cords’ indirect sign of RLN involvement)
+Relationship with trachea(SHIN grade #):
+Fat planes with oesophagus: Lost/ maintained. If lost; angle of contact:
+Planes with prevertebral fascia: Lost/ maintained
+Cricophraynx: Not involved/Involved
+Cricoid cartilage: Not involved/Involved
+Angle of contact with CCA (<180 / 180-270/>270):
+Angle of contact with innominate vessels (<180 / 180-270/>270):
+N STAGE:
+Laterality- Ipsilateral / contralateral / Bilateral
+Compartment: central/ lateral
+Node stations:
+Right cervical nodes
+LEVELS:
+Level I Level II Level III
+Size
+Heterogeneity
+Calcification
+Cystic or necrotic change
+Suspicious/ indeterminate/ benign @
+Left cervical nodes
+LEVELS:
+Level I Level II Level III
+Size
+Heterogeneity
+Calcification
+Cystic or necrotic change
+Suspicious/ indeterminate/ benign @
+
+Level IV Level V Level VI
+
+Level IV Level V Level VI
+
+Vascular involvement:
+Page 48 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+CCA abutment: Absent/Present
+ICA abutment: Absent/Present
+ECA abutment: Absent/Present
+If present angle of contact for CCA and ICA: <90, 90 – 179, 180 – 269; >270
+Strap muscles involvement: Absent/Present
+Prevertebral fascia invasion: Absent/Present
+M Stage
+Lung nodules: Absent / Present
+If present:
+solitary/ multiple
+location:
+Size:
+suspicious/ TSTC@/ Benign
+Any other metastatic lesion (hepatic, skeletal): Absent / Present
+If yes, specify location and size:
+Impression:
+T stage
+N stage
+M stage
+Specific comments, if any:
+@ Follow-up/ image guided FNAC correlation.
+*CT ETE grading:
+•
+I, a tumor which was completely enveloped by thyroid parenchyma;
+•
+II, a tumor in which the percentage of the tumor perimeter in contact with the thyroid capsule
+was 1–25%;
+•
+III, a tumor in which the contact with the capsule was 25–50%;
+•
+IV, a tumor in which the contact with the capsule was >50%
+# CT Shin grading:
+•
+0: > 5mm distance between tumor and trachea.
+•
+I: disease abuts external perichondrium.
+•
+II: disease invades into the cartilage +/- destruction.
+•
+III: disease extends into the tracheal mucosa with no elevation/penetration of mucosa.
+•
+IV: disease is full-thickness invasion with expansion of the tracheal mucosa with a bulge
+
+Page 49 of 62
+
+National Cancer Grid
+Head & Neck Cancer Management Guidelines 2019
+USG THYROID DATED
+High frequency USG of the thyroid with Doppler and elastography is performed.
+Right thyroid lobe
+measures
+cm.
+A well/ill defined solid/cystic/mixed hypoechoic/hyperechoic/isoechoic nodule is seen in the right lobe
+of thyroid.
+It measures 8 x 9 mm in size.
+The nodule is wider than taller.
+It shows no/complete/irregular halo.
+No/microcalcifications/macrocalcifications are seen
+The lesion shows no/central/peripheral/both central and peripheral vascularity.
+It shows no spongiform pattern/ comet tail artifacts.
+Extrathyroid extension is not seen.
+On elastography it is hard/soft, Asteria ES III.
+Left thyroid lobe
+measures cm.
+A well/ill defined solid/cystic/mixed hypoechoic/hyperechoic/isoechoic nodule is seen in the left lobe
+of thyroid.
+It measures 8 x 9 mm in size.
+The nodule is wider than taller.
+It shows no/complete/irregular halo.
+No/microcalcifications/macrocalcifications are seen
+The lesion shows no/central/peripheral/both central and peripheral vascularity.
+It shows no spongiform pattern/ comet tail artifacts.
+Extrathyroid extension is not seen.
+On elastography it is hard/soft, Asteria ES III.
+Isthmus measures 3 mm.
+Few subcm sized reactive appearing nodes are seen in level IB and II region.
+There is no suspicious cervical lymphadenopathy.
+Bilateral neck vessels are patent.
+Impression :USG reveals:
+
+Page 50 of 62
+
+

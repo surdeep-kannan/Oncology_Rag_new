@@ -1,0 +1,13 @@
+================================================================================
+🩺 MED42 CLINICAL RAG - CLINICAL TEXTBOOK INGESTION PLACEHOLDER
+================================================================================
+
+INSTRUCTIONS:
+1. Please paste the entire text of the clinical textbook or guidelines below this line.
+2. Save this file (oncology_textbook.txt).
+3. Let me know in the chat once you've saved it, and I will instantly run a forensic analysis and indexing check on it!
+
+================================================================================
+PASTE TEXTBOOK CONTENTS BELOW:
+================================================================================
+

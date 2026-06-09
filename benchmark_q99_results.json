@@ -1,0 +1,23 @@
+[
+  {
+    "n_ctx": 2048,
+    "latency": 63.6,
+    "answer": "Krasna et al. reported a 73% incidence of metastasis in patients with perineural invasion, as compared with 27% in those without such invasion (P <.01) and a 30% survival rate versus 58%, respectively (P <.003). Several other authors have confirmed that perineural invasion can be considered an independent prognostic factor for survival, whereas Bouvet et al. failed to demonstrate that perineural invasion is a significant prognostic factor for recurrence in treated rectal cancer.",
+    "sbert_sim": 0.64,
+    "answer_len": 73
+  },
+  {
+    "n_ctx": 3072,
+    "latency": 64.5,
+    "answer": "Krasna et al. reported a 73% incidence of metastasis in patients with perineural invasion, as compared with 27% in those without such invasion (P <.01) and a 30% survival rate versus 58%, respectively (P <.003). Several other authors have confirmed that perineural invasion can be considered an independent prognostic factor for survival, whereas Bouvet et al. failed to demonstrate that perineural invasion is a significant prognostic factor for recurrence in treated rectal cancer.",
+    "sbert_sim": 0.64,
+    "answer_len": 73
+  },
+  {
+    "n_ctx": 4096,
+    "latency": 68.9,
+    "answer": "Krasna et al. reported a 73% incidence of metastasis in patients with perineural invasion, as compared with 27% in those without such invasion (P <.01) and a 30% survival rate versus 58%, respectively (P <.003). Several other authors have confirmed that perineural invasion can be considered an independent prognostic factor for survival, whereas Bouvet et al. failed to demonstrate that perineural invasion is a significant prognostic factor for recurrence in treated rectal cancer.",
+    "sbert_sim": 0.64,
+    "answer_len": 73
+  }
+]

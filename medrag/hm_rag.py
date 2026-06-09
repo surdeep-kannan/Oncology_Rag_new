@@ -240,7 +240,8 @@ Query: {query}<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
                           top_k: int = 40, reranker_top_n: int = 3) -> list[dict]:
         """Retrieve and rerank context chunks."""
         # Strict context window safety budget:
-        # Stop adding chunks once total character count exceeds 24,000 (~6,000 tokens)
+        # With n_ctx=8192, we can safely use up to 24,000 chars (~6,000 tokens)
+        # leaving room for system prompt, query, and generation headroom
         budget_char_limit = 24000
         current_chars = 0
         all_results = []
@@ -266,6 +267,80 @@ Query: {query}<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
                     current_chars += chunk_len
 
         return all_results
+
+    def verify_context(self, query: str, context_chunks: list[dict],
+                       top_k: int = 40, reranker_top_n: int = 3,
+                       progress_callback=None) -> list[dict]:
+        """
+        Retrieval Verifier Agent — evaluates whether the retrieved context
+        chunks are actually relevant to the clinical question.
+        If not, generates refined queries and re-retrieves (one attempt).
+        Returns verified context chunks.
+        """
+        if not context_chunks:
+            return context_chunks
+
+        # Build concise summary of retrieved content for verification
+        chunk_summaries = []
+        for i, chunk in enumerate(context_chunks[:5], 1):  # Cap at 5 to keep prompt short
+            book_name = clean_source_name(chunk.get('source_file', ''))
+            preview = chunk.get('content', '')[:250]
+            chunk_summaries.append(f"[Chunk {i} — {book_name}]: {preview}")
+        context_summary = "\n".join(chunk_summaries)
+
+        verify_prompt = f"""<|start_header_id|>system<|end_header_id|>
+You are a Retrieval Verification Agent for a clinical oncology RAG system.
+Your task: Assess whether the retrieved text chunks contain information that can directly answer the clinical question.
+
+Rules:
+- If chunks discuss the EXACT disease/condition/mechanism asked about → relevant.
+- If chunks discuss a DIFFERENT disease or only tangentially related topics → not relevant.
+- Be strict: vaguely related is NOT relevant.
+
+Respond with ONLY a JSON object:
+{{"relevant": true}} if the chunks can answer the question.
+{{"relevant": false, "refined_queries": ["better query 1", "better query 2"]}} if not.
+Output ONLY JSON, nothing else.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Clinical Question: {query}
+
+Retrieved Chunks:
+{context_summary}
+
+Verdict:<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
+
+        try:
+            response = self.llm.generate(verify_prompt, max_new_tokens=120)
+            start = response.find('{')
+            end = response.rfind('}') + 1
+            if start != -1 and end > start:
+                verdict = json.loads(response[start:end])
+
+                if verdict.get("relevant", True):
+                    logger.info("Verifier Agent: Context APPROVED — chunks are relevant.")
+                    return context_chunks
+                else:
+                    refined = verdict.get("refined_queries", [])
+                    if refined:
+                        logger.warning(f"Verifier Agent: Context REJECTED — re-retrieving with: {refined}")
+                        if progress_callback:
+                            progress_callback(f"Verifier: Re-retrieving with refined queries...")
+                        # One re-retrieval attempt with refined queries
+                        new_context = self.retrieve_context(
+                            refined, top_k=top_k, reranker_top_n=reranker_top_n
+                        )
+                        if new_context:
+                            return new_context
+                        else:
+                            logger.warning("Verifier: Re-retrieval returned empty, using original context.")
+                            return context_chunks
+                    else:
+                        logger.warning("Verifier: Rejected but no refined queries provided, using original.")
+                        return context_chunks
+        except Exception as e:
+            logger.error(f"Verifier Agent failed: {e} — using original context.")
+
+        return context_chunks
 
     def synthesize_answer(self, query: str, context_chunks: list[dict],
                           prompt_override: dict = None) -> str:
@@ -296,6 +371,9 @@ Query: {query}<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
             draft_answer = self.llm.generate(prompt)
 
         # Step 2: Generalized Clinical Oncology Auditor Self-Correction verification loop
+        # With n_ctx=8192: ~500 (system) + context + ~200 (draft) + ~30 (query) + 512 (gen)
+        # Safe budget for auditor context: ~24000 chars (~6000 tokens)
+        audit_context = context_text[:24000]
         audit_prompt = f"""<|start_header_id|>system<|end_header_id|>
 You are a board-certified clinical oncology auditor. Review the draft answer against the retrieved clinical context and make corrections if necessary.
 Audit checklist:
@@ -308,7 +386,7 @@ Audit checklist:
 
 Output the final, corrected clinical answer immediately. Do not add conversational intro/outro or boilerplate text.<|eot_id|><|start_header_id|>user<|end_header_id|>
 Clinical Context:
-{context_text}
+{audit_context}
 
 Clinical Question: {query}
 
@@ -373,6 +451,15 @@ Provide the finalized, audit-verified clinical answer:<|eot_id|><|start_header_i
                 progress_callback(f"Retrieving for queries: {', '.join(search_queries)}")
             context = self.retrieve_context(search_queries, top_k=top_k,
                                              reranker_top_n=reranker_top_n)
+
+        # Step 3: Verifier Agent — validate retrieved context relevance
+        if grounded_context is None:  # Skip verification for coverage-gap patches
+            if progress_callback:
+                progress_callback("Verifier Agent: Checking context relevance...")
+            context = self.verify_context(
+                query, context, top_k=top_k, reranker_top_n=reranker_top_n,
+                progress_callback=progress_callback
+            )
 
         if progress_callback:
             progress_callback("Synthesizing final answer...")

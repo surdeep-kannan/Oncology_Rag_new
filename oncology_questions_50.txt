@@ -1,0 +1,50 @@
+Q1: What are the three main anatomical divisions of the larynx?
+Q2: Which cancer type is currently the leading cause of cancer death worldwide?
+Q3: What is the preferred chemotherapy agent for concurrent chemo-radiation in buccal mucosa cancer?
+Q4: How is a T1 tumor of the hypopharynx defined according to AJCC staging?
+Q5: What is the most common early symptom of laryngeal cancer?
+Q6: In pediatric oncology, what is the preferred initial imaging test for a suspected malignant neck mass?
+Q7: Describe the 5-year survival rate difference between glottic and supraglottic laryngeal tumors.
+Q8: What are the indications for adjuvant post-operative radiotherapy in oral cancer?
+Q9: What imaging findings on a CT scan suggest a laryngeal chondrosarcoma?
+Q10: Define the equalizing effect of salvage surgery in head and neck oncology.
+Q11: Explain the management strategy for bulky T4a laryngeal cancer without cartilage penetration.
+Q12: What role does PD-L1 positivity play in the treatment of recurrent squamous cell carcinoma?
+Q13: How does the Human Development Index (HDI) influence global cancer incidence and mortality trends?
+Q14: What specific IHC markers distinguish Lymphoepithelial Carcinoma (LEC) from melanoma?
+Q15: What is the standard multimodality treatment for Stage IVa esophageal cancer?
+Q16: What is the age range for Adolescent and Young Adult (AYA) oncology patients?
+Q17: Define survivorship according to the oncology continuum.
+Q18: What are the common side effects of cisplatin-based chemotherapy in pediatric hepatoblastoma patients?
+Q19: Which chemotherapy regimen is considered the gold standard for pediatric Rhabdomyosarcoma (RMS)?
+Q20: Describe the PRETEXT radiologic staging system used in pediatric liver malignancies.
+Q21: What is Aristolochic Acid and its association with cancer?
+Q22: How does early diagnosis differ from cancer screening?
+Q23: What is the recommended screening interval for mammography in women aged 50 to 69?
+Q24: Name the three resource stratification levels used by ASCO Global Guidelines.
+Q25: What does a T2 glottic tumor staging clinically imply?
+Q26: What are the Wilson and Jungner principles for cancer screening?
+Q27: Describe the significance of Epstein-Barr Virus (EBV) in Nasopharyngeal Carcinoma (NPC).
+Q28: What is the primary treatment for Stage IVA laryngeal cancer with cartilage involvement?
+Q29: What are the five grade groups proposed by Epstein for prostate cancer grading?
+Q30: Explain the role of a Hickman catheter in long-term pediatric chemotherapy.
+Q31: What is Verrucous Carcinoma and its typical clinical course?
+Q32: In the context of palliative care, how are fungating wounds managed?
+Q33: What are the common symptoms of Neutropenic Enterocolitis in oncology patients?
+Q34: Which gene mutation is associated with Li-Fraumeni syndrome?
+Q35: What is the 5-year overall survival rate for Stage I Nasopharyngeal Carcinoma?
+Q36: Define Distress according to NCCN patient guidelines.
+Q37: What imaging is essential for planning surgical conservation in laryngeal cancer?
+Q38: What is the recommended screening for colorectal cancer in individuals aged 50 to 74?
+Q39: Describe the Nourishing framework used in health promotion.
+Q40: How is a T4b laryngeal tumor defined in staging?
+Q41: What role does hoarseness play in the diagnosis of laryngeal cancer?
+Q42: What is the treatment objective for Stage IVC head and neck cancer?
+Q43: What specific IHC marker helps assess malignant transformation in laryngeal leukoplakia?
+Q44: Describe the management of acute major airway obstruction in head and neck oncology.
+Q45: What is the global target for reducing premature mortality from noncommunicable diseases by 2030?
+Q46: How does liquid biopsy benefit oncology patients in a clinical setting?
+Q47: What is the procedure of choice for neck dissection in locally advanced buccal mucosa cancer?
+Q48: What is the Oberlin score and its purpose in pediatric oncology?
+Q49: In head and neck cancer, what is the Combined Positive Score (CPS)?
+Q50: What is the recommended palliative radiotherapy dose for symptomatic bone metastases?

@@ -1,0 +1,512 @@
+Special Articles
+
+ASCO Global Guidelines: Methods and Opportunities
+Zeba Aziz, MD1
+
+; Sarah Temin, MSPH2
+
+; Sarah Bachmann2
+
+; Gilberto Lopes, MD, MBA3; and Temidayo Fadelu, MD4
+
+DOI https://doi.org/10.1200/GO-24-00310
+Accepted August 1, 2024
+
+The objectives of this article are to describe updates to the ASCO Global Guidelines methods and
+to provide background of the motivations for Global Guidelines that are responsive to varying
+access to cancer prevention and treatment resources, which are embedded in the broader
+context of ASCO’s efforts on evidence-based clinical practice guidelines.
+
+Published September 5, 2024
+JCO Global Oncol 10:e2400310
+© 2024 by American Society of
+Clinical Oncology
+
+INTRODUCTION
+Global Cancer Burden
+Cancer is one of the leading causes of morbidity and mortality worldwide, with a disproportionately rising burden in low– and medium–Human Development Index regions (HDIs),
+where 61% of the world’s total cases of patients newly diagnosed with cancer are diagnosed
+annually and 71%-75% of cancer deaths.1,2 Worldwide, 74%-75% of the annual total deaths
+are caused by noncommunicable diseases, principally from cardiovascular disease and cancer
+second.3 In 2019, 77% of all deaths from noncommunicable diseases occurred in low- and
+medium-HDI regions.3 Globally, the economic toll from cancer is 19% higher than that from
+cardiovascular disease, not considering direct medical costs and total number of years lost
+with a subsequent impact on productivity. The latter makes cancer the largest single burden
+on total economy when compared with HIV and other infectious diseases.4,5 Cancer is expected
+to increase especially in low-HDI countries.
+
+Experience With ASCO Guidelines
+According to WHO, comprehensive cancer treatment is only available in 15% of low-income
+countries.2 Comprehensive cancer care and treatment include multidisciplinary teams often
+with specialists in medical oncology, radiation, diagnostic specialties such as radiology and
+pathology, supportive care, palliative care, and other complementary services. Many oncology
+clinical care guidelines often presume the availability of an extensive care infrastructure. ASCO
+has long-standing experience with developing evidence-based clinical practice guidelines, with
+a current portfolio of 216 (as of this writing: guidelines, with 13 de novo guidelines, one living
+guideline, and 16 guideline updates in development). ASCO started developing guidelines in
+1993.6 Those guidelines provide detailed and medically sound compilations of updates, insights,
+advice, and recommendations in the areas of greatest clinical need and uncertainty to ensure
+that patients get the best-quality medical care. However, ASCO guidelines often presume the
+availability of maximal resources, which may limit their global applicability and contextual
+relevance within settings with more limited resources.
+
+ASCO Global Engagement
+Health authorities, clinicians, policymakers, patients, and families in resource-constrained
+settings often experience a lack of expert guidance and may struggle to access learning
+resources relevant to their settings. ASCO, with nearly 50,000 members in 170 countries, is
+well poised to ﬁll this gap and to provide tailored and relevant guidance responsive to available
+resources. ASCO established a Center for Global Impact (CGI) that partners with oncology
+communities worldwide to integrate global perspectives into ASCO strategies and operations
+and to catalyze and advance ASCO’s global impact goals as directed by the Society’s mission,
+vision, and strategic plans. ASCO’s international programs focus on improving the quality of
+cancer care around the world, accelerating research and innovation to improve care tomorrow, and supporting the professional development of oncology leaders who will guide
+this work.
+
+Creative Commons Attribution
+Non-Commercial No Derivatives
+4.0 License
+
+ascopubs.org/journal/go | 1
+
+Aziz et al
+
+ASCO Global Guidelines Formation
+ASCO’s international volunteer programs include professional development, education, training, quality improvement, and support for and dissemination of research in
+low- and middle-income countries (LMICs) and regions.7,8
+ASCO considered the reality of the challenges of implementing ASCO guidelines, including global variation in resources, and thus began publishing resource-adapted Global
+Guidelines (previously called Resource-Stratiﬁed Guidelines) in 2016. The initial framework of the ASCO Global
+Guidelines was based on the foundational work by the Breast
+Health Global Initiative (BHGI), which developed evidencebased, economically feasible, and culturally appropriate
+guidelines for nations with limited health care resources to
+improve breast cancer outcomes9 and is described in a
+previous 2018 ASCO publication.10 ASCO has adapted BHGI’s
+four-tier resource stratiﬁcation levels and now uses three
+when guidelines from high-resourced settings are available
+(Basic, Limited, and Enhanced; Table 1). In addition, the
+guidelines are intended to complement—but not replace—
+local guidelines because local guidelines can better reﬂect
+local situations. This guideline process uses ASCO’s
+Evidence-Based Medicine Committee high-quality guideline
+methods with the goal of creating ﬂexible, resourcestratiﬁed methods to practice guidelines, where clinicians
+and health authorities can identify how existing resources
+can be optimally applied to improve cancer outcomes.
+Table 2 outlines the Global Guidelines that have been published and are upcoming. This article aims to provide an
+update of the Global Guidelines process including a review of
+the background, methods of development, and dissemination of ASCO’s Global Guidelines.
+
+METHODS
+The target audiences for the guidelines are clinicians,
+program planners, public health providers, health and
+public health authorities, policymakers, patients, and
+caregivers. The ASCO Global Guidelines program uses
+methods adapted from other established methodologies,
+including ASCO’s systematic review techniques and consensus methodology, and the ADAPTE methodology, which
+has been previously described.6,7 A central goal for the ASCO
+development of these Global Guidelines is to provide expert
+guidance for situations in which maximal resources are not
+available.
+
+Overview
+ASCO sets a high priority on assembling multidisciplinary
+Expert Panels with members from multiple resource settings. Some of the members come from ASCO’s recently
+established Regional Councils which provide guidance on
+member needs and opportunities in their regions of the
+world and facilitate the engagement of members of their
+regions in ASCO.8 Regional Councils currently exist in Asia
+2 | © 2024 by American Society of Clinical Oncology
+
+TABLE 1. Framework of Resource Stratiﬁcation
+Setting
+
+Deﬁnition
+
+Basic
+
+Core resources or fundamental services that are absolutely
+necessary for any public health/primary health care system to
+function; basic-level services are typically applied in a single
+clinical interaction. Vaccination is feasible for highest-need
+populations
+
+Limited
+
+Second-tier resources or services that are intended to produce
+major improvements in outcomes such as incidence and
+cost-effectiveness and are attainable with limited ﬁnancial
+means and modest infrastructure; limited-level services may
+involve single or multiple interactions. Universal public health
+interventions are feasible for greater percentage of population
+than the primary target group
+
+Enhanced Third-tier resources or services that are optional but important;
+enhanced-level resources should produce further improvements in outcome and increase the number and quality of
+options and individual choice (perhaps ability to track patients
+and links to registries)
+Maximal
+
+May use high-resource settings’ guidelines
+High-tier resources or services that may be used/available in
+some high-resource countries and/or may be recommended
+by high-resource setting guidelines that do not adapt to
+resource constraints but that nonetheless should be
+considered a lower priority than those resources or services
+listed in the other categories on the basis of extreme cost
+and/or impracticality for broad use in a resource-limited
+environment
+
+NOTE. Data adapted.9,11
+
+Paciﬁc, Latin America, Sub-Saharan Africa, and Central and
+Eastern Europe. ASCO Regional Councils are composed of
+oncologists with a diverse balance of individuals by career
+stage (senior and early career), sex, discipline (radiologists,
+surgeons, and palliative care physicians, etc), geographic
+region, and income setting. Members of Expert Panels also
+represent diverse dimensions including geographic,
+northern/southern hemisphere, sex, and discipline; many
+members are from (or have extensive experience in) basicand limited-resource settings. All Expert Panels include
+patient advocates and/or patients. ASCO has longestablished guideline development procedures, including
+formal consensus using a modiﬁed Delphi strategy, and now
+uses these and other validated methods to develop Global
+Guidelines. These methods include a modiﬁed ADAPTE
+method and, because of the paucity of evidence from some of
+these settings, formal consensus.25
+
+Selection of Topics
+Under the leadership of a Global Guidelines Advisory Group
+(AG), ASCO has expanded its suite of products into a series of
+guidelines. The topics were suggested by ASCO members and
+the AG and were prioritized by the Guidelines AG and
+Evidence-Based Medicine Committee, which includes
+members from many continents and practice environments,
+representing members from all resource settings. To increase efﬁciency by lessening the need to systematically
+review and formerly assess non-ASCO guidelines before
+adapting them for resource-constrained settings, the AG is
+
+ASCO Global Guidelines Methods
+TABLE 2. ASCO Global Guidelines Publications
+Disease Site
+
+Guideline
+
+Breast cancer
+
+Systemic Treatment of Patients With Metastatic
+Breast Cancer (2024)12
+
+GI cancer
+
+Early Detection for Colorectal Cancer (2019)13
+Treatment of Patients with Early-Stage Colorectal
+Cancer (2019)14
+Treatment of Patients with Late-Stage Colorectal
+Cancer (2020)15
+
+Gynecological
+cancer
+
+Primary Prevention of Cervical Cancer (2017)16
+Secondary Prevention of Cervical Cancer (2022)17,18
+Management and Care of Women with Invasive
+Cervical Cancer (2022)19,20
+Assessment of Adult Women with Ovarian Masses and
+Treatment of Epithelial Ovarian Cancer (2021)21
+
+Supportive care
+
+Palliative Care in the Global Setting (2018)22
+
+In development
+
+Global Adaptation of Practical Assessment and Management of Vulnerabilities in Older Patients Receiving Systemic Cancer Therapy23,24
+
+now selecting topics which already have ASCO resourceagnostic systematic review-based guidelines.
+
+Systematic Review
+All Maximal setting ASCO guidelines begin with a systematic
+review of the evidence, including a literature search with
+prespeciﬁed elements.
+
+Modiﬁed ADAPTE Process
+Although some of the guidelines published since 2018 were
+based on non-ASCO guidelines, more recently, they are
+based on existing ASCO guidelines. Rather than searching
+for, assessing, and adapting the existing non-ASCO guidelines, we now identify ASCO guidelines to adapt.
+Expert Panels review the ASCO Maximal setting recommendations and assess the availability of the recommended interventions in more resource-constrained settings through
+various methods such as conducting literature searches for
+publications that assess the availability of the interventions
+and collating other vetted publicly available databases. For
+example, the International Atomic Energy Agency maintains a
+updated directory of radiotherapy centers around the world,
+which has been a very useful resource.26
+
+Recommendation Development
+The methods for developing recommendations for resourceconstrained settings are largely the same as previously described in 2018. Brieﬂy, the Expert Panel cochairs and/or
+Steering Group initially develop recommendations and then
+share them with the full Expert Panel or, alternatively, the
+subgroups of the full Expert Panel draft recommendations.
+Recommendation development uses standard ASCO guideline recommendation syntax crafted to help Guideline Expert
+Panels systematically develop clear, translatable, and
+JCO Global Oncology
+
+implementable
+recommendations
+Methodology Manual).27
+
+(ASCO
+
+Guidelines
+
+Formal Consensus
+The formal consensus methods also remain the same.
+Brieﬂy, when the Expert Panel deems the available literature
+insufﬁcient to inform an evidence-based recommendation
+to guide clinical practice, a formal consensus process is used
+to develop recommendations, which are considered the best
+current guidance for practice.25 The Expert Panel is then
+supplemented by additional experts (ie, a Consensus Rating
+Panel) to independently rate levels of agreement with the
+recommendations. The levels of agreement must collectively
+meet a prespeciﬁed threshold (eg, ≥75%) that the experts
+must have rated agree or strongly agree for each recommendation. The results are reported either in the guideline or
+its supplement. More details on ASCO methodologies are
+available in the ASCO Guidelines Methodology Manual.
+ASCO also conducts an Open Comment process by making
+draft recommendations available online to potential reviewers to make nonbinding advisory comments. Guideline
+Expert Panels review all these advisory comments and, at
+their discretion, may or may not modify recommendations.
+
+DISSEMINATION AND IMPLEMENTATION
+ASCO submits each Global Guideline in the open access
+journal, the Journal of Clinical Oncology: Global Oncology (JCO
+GO) and a companion to the guideline in Journal of Clinical
+Oncology: Oncology Practice (JCO OP). Global Guidelines are
+also freely available through the ASCO website and in the
+ASCO guidelines app (available for download in the Apple
+App Store and Google Play Store). ASCO leverages its social
+media and other communication mechanisms (such as
+Pocket Cards) to disseminate the guidelines. ASCO also
+provides summaries of the Global Guidelines in French and
+Spanish languages.
+The guidelines have also been disseminated through the
+ASCO CGI, including through the ASCO International Cancer
+Corps program and in collaboration with Health Volunteers
+Overseas.28 ASCO is assisting health care organizations in
+LMICs to improve the quality of care provided to patients
+with cancer, and the guidelines have been incorporated into
+those collaborations. The ASCO/Conquer Cancer International Development and Education Award (IDEA) and IDEA
+Palliative Care Awards assist early-career oncologists in
+LMICs, and today, there are more than 450 recipients of this
+award in more than 73 countries.29 The guidelines have been
+disseminated to the IDEA network for further promotion and
+adoption in their practice settings.
+
+DISCUSSION
+The rising toll of cancer in LMICs mandates effective interventions at all levels of cancer care. Considering the rising
+ascopubs.org/journal/go | 3
+
+Aziz et al
+
+costs of cancer care globally, optimal use of resources to
+optimize outcomes becomes essential. ASCO guidelines offer
+trustworthy and effective recommended care options that
+can be used to help plan treatment and management.
+However, the guidelines do not replace clinician judgment;
+their use and implementation need to be based on individual
+circumstances. Global Guidelines can provide individual
+clinicians and health systems with a practical framework for
+management of each patient, on the basis of the level of
+health care resources available in the country, region, or
+practice area where care is being given. Global Guidelines
+also give policymakers insight into how to plan resourceappropriate cancer control. Importantly, the guidelines can
+provide objective criteria for aspirational goals of improving
+the level of care; the criteria can be used to lobby for, or
+otherwise implement, new resources to elevate care and
+prevention options to reach the next resource stratum.
+
+LIMITATIONS
+A major limitation of developing Global Guidelines is that the
+vast complexity and variety of existing health settings make
+it challenging to provide uniform and meaningful recommendations for all possible resource levels. The reality of
+cancer care in many LMICs involves dynamic availability of
+resources; for example, a speciﬁc test or medication may be
+available some of the time but not always. Hence, the
+guidelines are intended to provide objectives to help local
+teams to customize care and planners reach the next stratum
+of services while working within the settings of local health
+situations.
+
+awarded since 2018. Research topics are wide-ranging and
+include studies of barriers to care, pediatric cancer care,
+improving guideline adherence, and implementation
+research. The need for contextually relevant research and
+real-world data from limited-resource settings cannot be
+overemphasized.
+There is also limited research to date on the reach, adoption,
+and implementation outcomes of the developed Global
+Guidelines. Moreover, the guideline development process
+can also help to identify gaps in research. Each guideline
+contains speciﬁc suggestions for future research (such as
+setting-speciﬁc research on a given intervention). Deﬁning
+and assessing implementation outcomes of the Global
+Guidelines is essential, and there are emerging studies that
+can serve as a guide.31 Rigorous research on Global Guidelines
+by clinicians in resource-constrained settings can identify
+best practices, and when combined with efforts to increase
+the affordability of cancer treatment, our proposed approaches can better enable patients and their families to
+beneﬁt from cancer treatments without suffering potentially
+avoidable ﬁnancial hardship. Implementation methods may
+include audit and feedback strategies, creating measures,
+and working with key opinion leaders. Therefore, ASCO will
+develop an implementation framework for the purposes of
+knowledge transfer while continuing its environmental
+scoping of other such guidelines.
+
+OPPORTUNITIES
+
+The development of Global Guidelines is also sometimes
+challenged by limited evidence from the settings where the
+guidelines are intended to be applied. The limited evidence
+is partially attributed to a lack of resources needed to
+conduct research although this may be changing. Through
+Conquer Cancer, The ASCO Foundation, ASCO offers International Innovation Grants, which fund research in
+innovative cancer control solutions for low-resource
+practice environments. Fifty-two grants have been awarded since 2014. Research topics include the use of telehealth
+and mobile apps, screening and education for general
+practitioners, palliative care, and cervical cancer.30 Conquer
+Cancer also offers the Global Oncology Young Investigator
+Award, which funds research by early-career investigators
+to encourage and promote quality research in global oncology and to develop next-generation researchers to address global health needs. Thirty-four grants have been
+
+Given ASCO’s truly global reach, across 170 countries, there
+are tremendous opportunities for ASCO to help elevate
+oncology care standards globally. The ASCO CGI organizes
+live, in-country training courses in LMICs on a range of
+cancer control topics, and the relevant guidelines are incorporated into faculty talks and disseminated to the audience. ASCO also supports the City Cancer Challenge, an
+initiative that aims to improve access to care in participating cities.32 As part of this initiative, local technical
+teams may adapt treatment guidelines, including ASCO and
+other guidelines, into city- or country-speciﬁc oncology
+guidelines tailored to the resources available in that location. ASCO will continue to develop Global Guidelines as it
+deepens relationships with its international membership
+and other stakeholders in standing against cancer worldwide. It is the view of ASCO that health care providers and
+health care system decisionmakers should be guided by the
+recommendations for the highest stratum of resources
+available.
+
+AFFILIATIONS
+
+CORRESPONDING AUTHOR
+
+1
+
+American Society of Clinical Oncology; e-mail: guidelines@asco.org.
+
+Hameed Latif Hospital, Lahore, Pakistan
+2
+American Society of Clinical Oncology, Alexandria, VA
+3
+Sylvester Comprehensive Cancer Center, University of Miami, Miami,
+FL
+4
+Dana-Farber Cancer Institute MGH, Boston, MA
+
+4 | © 2024 by American Society of Clinical Oncology
+
+ASCO Global Guidelines Methods
+
+AUTHOR CONTRIBUTIONS
+Conception and design: Gilberto Lopes
+Administrative support: Sarah Temin, Sarah Bachmann
+Collection and assembly of data: All authors
+Data analysis and interpretation: All authors
+Manuscript writing: All authors
+Final approval of manuscript: All authors
+Accountable for all aspects of the work: All authors
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS
+OF INTEREST
+The following represents disclosure information provided by authors of
+this manuscript. All relationships are considered compensated unless
+otherwise noted. Relationships are self-held unless noted. I 5
+Immediate Family Member, Inst 5 My Institution. Relationships may
+not relate to the subject matter of this manuscript. For more information
+about ASCO’s conﬂict of interest policy, please refer to www.asco.org/
+rwc or ascopubs.org/go/authors/author-center.
+Open Payments is a public database containing information reported by
+companies about payments made to US-licensed physicians (Open
+Payments).
+Gilberto Lopes
+This author is a member of the JCO Global Oncology Editorial Board. Journal
+policy recused the author from having any role in the peer review of this
+manuscript.
+
+Stock and Other Ownership Interests: Lucence Diagnostics, Xilis, Biomab,
+Morphometrix, CDR-Life
+Honoraria: Boehringer Ingelheim, Blueprint Medicines, AstraZeneca, Merck,
+Janssen
+Consulting or Advisory Role: Pﬁzer, AstraZeneca
+Research Funding: Merck Sharp & Dohme (Inst), EMD Serono (Inst),
+AstraZeneca (Inst), AstraZeneca, Blueprint Medicines (Inst), Tesaro (Inst),
+Bavarian Nordic (Inst), NOVARTIS (Inst), G1 Therapeutics (Inst),
+Adaptimmune (Inst), BMS (Inst), GlaxoSmithKline (Inst), AbbVie (Inst),
+Rgenix (Inst), Pﬁzer (Inst), Roche (Inst), Genentech (Inst), Lilly (Inst), Janssen
+(Inst), Lucence, Xilis, E.R. Squibb Sons, LLC
+Travel, Accommodations, Expenses: Boehringer Ingelheim, Pﬁzer, E.R.
+Squibb Sons, LLC, Janssen, Seagen, Celgene, Ipsen, Pharmacyclics, Merck,
+AstraZeneca
+Other Relationship: Mirati Therapeutics
+Temidayo Fadelu
+Research Funding: Celgene (Inst), Cepheid (Inst)
+No other potential conﬂicts of interest were reported.
+
+ACKNOWLEDGMENT
+We thank all the Expert Panel cochairs, members, and other ASCO
+volunteers and staff who have contributed to the publication and
+dissemination of ASCO Global Guidelines.
+
+REFERENCES
+1. National Cancer Institute: Understanding Cancer. Cancer Statistics. 2024. https://www.cancer.gov/about-cancer/understanding/statistics
+2. World Health Organization: WHO Cancer Fact Sheet. 2022. https://www.who.int/en/news-room/fact-sheets/detail/cancer
+3. World Health Organization: Noncommunicable diseases fact sheet. 2023. https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases
+4. Chen S, Cao Z, Prettner K, et al: Estimates and projections of the global economic cost of 29 cancers in 204 countries and territories from 2020 to 2050. JAMA Oncol 9:465-472, 2023
+5. Society AC: The Global Cancer Burden. American Cancer Society. https://www.cancer.org/about-us/our-global-health-work/global-cancer-burden.html
+6. Somerﬁeld MR, Bohlke K, Browman GP, et al: Innovations in American Society of Clinical Oncology practice guideline development. J Clin Oncol 34:3213-3220, 2016
+7. The ADAPTE Collaboration: The ADAPTE Process: Resource Toolkit for Guideline Adaptation. Version 2.0. 2009. http://g-i-n.net
+8. ASCO: ASCO Regional Councils. https://society.asco.org/get-involved/volunteering-committees/regional-councils
+9. Anderson BO, Shyyan R, Eniu A, et al: Breast cancer in limited-resource countries: An overview of the breast health global initiative 2005 guidelines. Breast J 12:S3-S15, 2006
+10. Al-Sukhun S, Temin S, Chavez-MacGregor M, et al: ASCO resource-stratiﬁed guidelines: Methods and opportunities. JCO Glob Oncol 10.1200/JGO.18.00113
+11. Horton S, Gauvreau CL: Cancer in low- and middle-income countries: An economic overview, in Gelband H, Jha P, Sankaranarayanan R, et al (eds): Cancer: Disease Control Priorities (Volume 3) (ed
+3). Washington, DC, The International Bank for Reconstruction and Development/The World Bank, 2015
+12. Al Sukhun S, Temin S, Barrios CH, et al: Systemic treatment of patients with metastatic breast cancer: ASCO resource–stratiﬁed guideline. JCO Glob Oncol 10.1200/GO.23.00285
+13. Lopes G, Stern MC, Temin S, et al: Early detection for colorectal cancer: ASCO resource-stratiﬁed guideline. JCO Glob Oncol 10.1200/JGO.18.00213
+14. Costas-Chavarri A, Nandakumar G, Temin S, et al: Treatment of patients with early-stage colorectal cancer: ASCO resource-stratiﬁed guideline. JCO Glob Oncol 10.1200/JGO.18.00214
+15. Chiorean EG, Nandakumar G, Fadelu T, et al: Treatment of patients with late-stage colorectal cancer: ASCO resource-stratiﬁed guideline. JCO Glob Oncol 10.1200/JGO.19.00367
+16. Arrossi S, Temin S, Garland S, et al: Primary prevention of cervical cancer: American Society of clinical oncology resource-stratiﬁed guideline. JCO Glob Oncol 10.1200/JGO.2016.008151
+17. Jeronimo J, Castle PE, Temin S, et al: Secondary prevention of cervical cancer: ASCO resource-stratiﬁed clinical practice guideline. JCO Glob Oncol 10.1200/JGO.2016.006577
+18. Shastri SS, Temin S, Almonte M, et al: Secondary prevention of cervical cancer: ASCO resource-stratiﬁed guideline update. JCO Glob Oncol 10.1200/GO.22.00217
+19. Chuang LT, Temin S, Camacho R, et al: Management and care of women with invasive cervical cancer: American Society of clinical oncology resource-stratiﬁed clinical practice guideline. JCO Glob
+Oncol 10.1200/JGO.2016.003954
+20. Chuang LT, Temin S, Berek JS, et al: Management and care of patients with invasive cervical cancer: ASCO resource-stratiﬁed guideline rapid recommendation update. JCO Glob Oncol 10.1200/
+GO.22.00027
+21. Vanderpuye VD, Clemenceau JRV, Temin S, et al: Assessment of adult women with ovarian masses and treatment of epithelial ovarian cancer: ASCO resource-stratiﬁed guideline. JCO Glob Oncol
+10.1200/GO.21.00085
+22. Osman H, Shrestha S, Temin S, et al: Palliative care in the global setting: ASCO resource-stratiﬁed practice guideline. JCO Glob Oncol 10.1200/JGO.18.00026
+23. Mohile SG, Dale W, Somerﬁeld MR, et al: Practical assessment and management of vulnerabilities in older patients receiving chemotherapy: ASCO guideline for geriatric oncology. J Clin Oncol 36:
+2326-2347, 2018
+24. Dale W, Klepin HD, Williams GR, et al: Practical assessment and management of vulnerabilities in older patients receiving systemic cancer therapy: ASCO guideline update. J Clin Oncol 41:
+4293-4312, 2023
+25. Loblaw DA, Prestrud AA, Somerﬁeld MR, et al: American Society of Clinical Oncology clinical practice guidelines: Formal systematic review-based consensus methodology. J Clin Oncol 30:
+3136-3140, 2012
+26. IAEA: IAEA DIrectory of RAdiotherapy Centres (DIRAC). https://dirac.iaea.org/
+27. ASCO: ASCO Guidelines Methodology Manual. Alexandria, VA, American Society of Clinical Oncology, 2022. https://society.asco.org/practice-patients/guidelines/guideline-methodology
+28. ASCO: International Cancer Corps. https://society.asco.org/get-involved/volunteering-committees/international-cancer-corps
+29. ASCO: International Development & Education Award. 2024. https://society.asco.org/career-development/grants-awards/funding-opportunities/international-development-education-award
+30. ASCO: Grants & Awards: View All Recipients. https://society.asco.org/career-development/grants-awards/grant-award-recipients
+31. DeBoer RJ, Ndumbalo J, Meena S, et al: Development of a theory-driven implementation strategy for cancer management guidelines in sub-Saharan Africa. Implement Sci Commun 1:24, 2020
+32. (C/Can) CCC: City Cancer Challenge. https://citycancerchallenge.org/
+
+JCO Global Oncology
+
+ascopubs.org/journal/go | 5
+
+

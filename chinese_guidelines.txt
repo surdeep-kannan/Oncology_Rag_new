@@ -1,0 +1,2812 @@
+Guideline
+
+Page 1 of 28
+
+Chinese Society of Clinical Oncology (CSCO) Breast Cancer
+Guidelines 2022
+Zefei Jiang1, Jianbin Li1, Jiayi Chen2, Yueping Liu3, Kun Wang4, Jianyun Nie5, Xiaojia Wang6,
+Chunfang Hao7, Yongmei Yin8, Shusen Wang9, Min Yan10, Tao Wang1, Ying Yan11, Xiaoyuan Chen12,
+Erwei Song13; CSCO BC guideline working group
+1
+
+The Fifth Medical Center of PLA General Hospital, Beijing, China; 2Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of
+
+Medicine, Shanghai, China; 3The Fourth Affiliated Hospital of Hebei Medical University, Shijiazhuang, China; 4Guangdong Provincial Peoples
+Hospital, Guangzhou, China; 5The 3rd Affiliated Hospital of Kunming Medical University, Kunming, China; 6Cancer Hospital Affiliated to the
+University of Chinese Academy of Sciences, Hangzhou, China; 7Tianjin Medical University Cancer Institute & Hospital, Tianjin, China; 8Jiangsu
+Provincial Peoples Hospital, Nanjing, China; 9Sun Yat-sen University Cancer Center, Guangzhou, China; 10Henan Provincial Cancer Hospital,
+Shijiazhuang, China; 11Peking University Cancer Hospital & Institute, Beijing, China; 12Tsinghua Clinical Research Institute (TCRI), School of
+Medicine, Tsinghua University, Beijing, China; 13Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China
+Correspondence to: Zefei Jiang. Senior Department of Oncology, the Fifth Medical Center of PLA General Hospital, Beijing, China.
+Email: jiangzefei@csco.org.cn.
+
+Abstract: Developing guidelines for the diagnosis and treatment of common cancers in China based on the
+evidence-based practice, the availability of diagnosis and treatment products, and the up-to-date advances
+in precision medicine is one of the basic tasks of the Chinese Society of Clinical Oncology (CSCO). In
+recent years, the availability of medical resources has become a major concern in clinical guidelines, which
+is particularly important for developing countries or socioeconomically diverse countries and territories.
+China is the world’s largest developing country, with a large territory and uneven economic and academic
+developments. The CSCO guidelines must take into account the differences in regional development, the
+availability of medicines and diagnostic methods, and the social value of cancer treatment. Therefore, for
+each clinical problem and intervention in the CSCO guidelines, the levels of evidence should be graded
+according to the currently available evidences and expert consensuses, and the grades of recommendations
+should be based on the availability and cost-effectiveness of the products. Protocols with high evidence
+level and good availability are used as the Level I recommendations; protocols with relatively high evidence
+level but slightly lower expert consensus or with poor availability are used as the Level II recommendations;
+and protocols that are clinically applicable but with low evidence level are regarded as the Level III
+recommendations. Based on the findings of clinical research at home and abroad and the opinions of CSCO
+experts, the CSCO guidelines determine the levels of recommendations for clinical application. The CSCO
+Guidance Working Group firmly believes that evidence-based, availability-concerned, and consensus-based
+guidelines will be more feasible for clinical practice. Again, any comments from our readers are greatly
+appreciated and will be considered in updates of these guidelines, so as to maintain the accuracy, fairness, and
+timeliness of the CSCO guidelines.
+Keywords: Chinese Society of Clinical Oncology Breast Cancer (CSCO BC); guideline; accessibility;
+recommendation
+Received: 08 April 2022; Accepted: 21 April 2022; Published: 30 April 2022.
+doi: 10.21037/tbcr-22-21
+View this article at: https://dx.doi.org/10.21037/tbcr-22-21
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 2 of 28
+
+Introduction
+Breast cancer has been one of the most common diagnosed
+cancers both in China and worldwide. Choosing an optimal
+guideline for breast cancer in China based on the clinical
+practice, the availability of treatment products, and the upto-date evidences has become a major concern for Chinese
+Society of Clinical Oncology Breast Cancer (CSCO BC)
+committee.
+CSCO BC guideline has taken all the differences in
+regional development, the availability of medicines, and the
+social value of cancer treatment into account since its first
+publication in 2017. In this guideline, the guideline working
+group determine the levels of recommendations for clinical
+application according to the currently evidences, expert
+consensuses, and the availability as well as cost-effectiveness
+in China. For example, in CSCO BC guideline, regimens
+with high evidence level and good availability are regarded
+as the Level I recommendations; for these with relatively
+high evidence level but slightly lower expert consensus or
+poor availability are used as the Level II recommendations;
+and protocols with low evidence level while are clinically
+applicable are regarded as the Level III recommendations.
+We firmly believe that will be more feasible for clinical
+practice in China.
+Here in this article, we would like to report the latest
+version and updates in CSCO BC guideline so as to
+maintain the accuracy, fairness, and timeliness of this
+guideline.
+Preoperative neoadjuvant treatment of breast
+cancer
+Patients who meet one of the following conditions may
+choose preoperative neoadjuvant treatment: (I) large tumor
+size; (II) positive axillary lymph nodes; (III) HER2-positive;
+(IV) triple-negative; and (V) with a desire of breastconserving surgery, which, however, cannot be achieved due
+to the large proportion of tumor among breast.
+Neoadjuvant treatment can be considered for primary
+breast masses sized >5 cm; for primary breast masses sized
+2–5 cm, other biological markers should be detected before
+a decision of neoadjuvant treatment is made.
+Neoadjuvant treatment of HER2-positive breast cancer
+Clinical studies have proved that neoadjuvant treatment with
+trastuzumab plus chemotherapy significantly increase the
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Translational Breast Cancer Research, 2022
+
+pathologic complete response (pCR) rate in HER2-positive
+breast cancer patients, laying a foundation for trastuzumab
+as a standard agent in the neoadjuvant treatment of HER2positive breast cancer. In an era of dual-targeted therapy, the
+expert group generally recognizes that dual-targeted therapy
+can be considered during the neoadjuvant treatment in all
+patients who qualify for single-targeted therapy.
+The NeoSphere study (1) showed that adding pertuzumab
+to trastuzumab and chemotherapy (TH) could further
+increase the pCR rate in HER2-positive patients. The
+PEONY study (2) confirmed the effectiveness and safety of
+the THP (paclitaxel + trastuzumab + pertuzumab) regime
+in Asian populations. Therefore, THP can be used as a
+neoadjuvant treatment in HER2-positive patients. However,
+in the above study, surgery was performed after 4 cycles of
+neoadjuvant treatment with THP, and the dual-targeted
+therapy was suspended after surgery and then continued
+after 3 cycles of FEC therapy. Thus, the clinical feasibility
+of this protocol was quite questionable. The KRISTINE
+study (3) confirmed the effectiveness and safety of TCbHP
+regimen in neoadjuvant treatment. The TRAIN-2 study (4)
+showed that the TCbHP regimen could achieve the same
+pCR rate compared to an anthracycline-based regimen,
+but with significantly lower toxicities such as neutropenia.
+Therefore, TCbHP can be the preferred regimen in
+preoperative treatment. However, 6 cycles of THP therapy
+may also be considered for some patients, such as those
+aged >60 years with a small tumor burden and generally
+intolerant to platinum-based combination regimens. Based
+on the findings of research on AC→TH (anthracycline
+combined with cyclophosphamide followed by sequential
+taxanes combined with trastuzumab)regimen in the singletargeted era, some experts agree that AC→THP can be
+used as an optional regimen for neoadjuvant therapy, which,
+however, has not been validated in well-designed clinical
+studies.
+Trastuzumab combined with taxane-based chemotherapy
+has become the basic regimen in neoadjuvant chemotherapy
+for HER2-positive breast cancer. The TCbH (docetaxel,
+carboplatin combined with trastuzumab) regimen has
+been demonstrated to be effective and safe in preoperative
+neoadjuvant therapy and postoperative adjuvant therapy and
+thus can be recommended for neoadjuvant therapy.
+The PHEDRA study was designed to explore the
+efficacy and safety of pyrotinib in combination with
+trastuzumab and docetaxel (pyrotinib group) versus
+placebo in combination with trastuzumab and docetaxel
+(control group) in the neoadjuvant treatment of HER2-
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 3 of 28
+
+Table 1 Recommendations of neoadjuvant therapy for HER2-positive breast cancer
+Level I recommendations
+
+Level II recommendations
+
+(I) TCbHP (1A)
+
+(I) Anti-HER2 monoclonal antibody combined with taxane-based regimens (2B)
+
+(II) THP ×4 (1B)
+(III) THP ×6 (2A)
+
+• Such as TCbH (2B) and AC→THP (2B)
+(II) Scientific and rationally designed clinical trials
+• Such as H + TKI and anti-HER2 ADC
+
+T, taxene; A, anthracycline; C, cyclophosphamide; Cb, carboplatin; H, trastuzumab; P, pertuzumab; TKI, tyrosine kinase inhibitor; ADC,
+antibody drug conjugate.
+
+positive early or locally advanced breast cancer. The results
+showed that the pCR rate was 41% in the pyrotinib group,
+compared with 22% in the control group, demonstrating
+a statistically significant difference (superiority) and
+confirming that the neoadjuvant regimen of “pyrotinib +
+trastuzumab”, a combination of large and small molecules,
+can provide a clear benefit for patients with HER2-positive
+early-stage breast cancer (Table 1).
+The pre-planned treatment cycles must be completed
+during the neoadjuvant therapy for HER2-positive breast
+cancer. Surgery is performed only after the full course
+of neoadjuvant therapy is completed. The postoperative
+adjuvant treatment is performed (or not) based on
+the implementation of neoadjuvant therapy and the
+achievement of postoperative pCR. Pathological evaluation
+is an important tool for evaluating the efficacy of preoperative neoadjuvant chemotherapy and the pCR achieved
+after surgery. It is valuable for evaluating the effectiveness
+of neoadjuvant therapy and determining postoperative
+adjuvant treatment options. There are two definitions of
+pCR: (I) generally, it means the achievement of no residual
+histological evidence of malignant tumor in the primary
+breast cancer, with or without the presence of carcinoma
+in situ; and (II) more strictly, it means the achievement of
+no histological evidence of malignant tumors in the primary
+breast lesion or in metastatic regional lymph nodes, with or
+without the presence of carcinoma in situ.
+For patients who have reached pCR after a full course
+of neoadjuvant therapy, the initial targeted therapy may
+continue in the postoperative adjuvant therapy. For patients
+who only use trastuzumab for neoadjuvant therapy, dualtargeted therapy can also be considered based on the
+outcomes of postoperative adjuvant therapy. Clinical studies
+have shown that the dual-targeted therapy with trastuzumab
+and pertuzumab is superior to trastuzumab alone. In the
+KATHERINE study (5), for patients who failed to achieve
+pCR after preoperative treatment with trastuzumab,
+
+© Translational Breast Cancer Research. All rights reserved.
+
+adjuvant therapy with T-DM1 further improved the
+prognosis. However, so far there is no definite evidence
+that T-DM1 is superior to HP therapy; thus, subsequent
+treatments should be rationally selected in patients who fail
+to achieve pCR after dual-targeted neoadjuvant therapy:
+(I) if the tumor regression is obvious after a full course of
+treatment (e.g., Miller & Payne grades 3 and 4), continuing
+the use of dual-targeted therapy is preferred; and (II) if the
+tumor regression is not obvious (e.g., Miller & Payne grades
+1 and 2), switching to T-DM1 may be a more feasible
+option.
+In the ExteNET study (6), patients with stage II–III
+HER2-positive breast cancer started adjuvant treatment
+with oral neratinib for 1 year within 2 years of completing
+adjuvant trastuzumab. Compared with the placebo group,
+the neratinib group had significantly increased invasive
+disease-free survival (iDFS) rate. For patients who do not
+achieve pCR after neoadjuvant therapy, HP or T-DM1 is
+preferred in adjuvant targeted therapy. Sequential neratinib
+can be considered after the completion of adjuvant targeted
+therapy with HP; however, there is still a lack of direct data
+on whether sequential neratinib is feasible in patients who
+choose T-DM1 (Table 2).
+Neoadjuvant treatment for triple-negative breast cancer
+(TNBC)
+The treatment regimen and cycles are decided before
+neoadjuvant chemotherapy according to different
+treatment aims. In principle, in patients who respond to the
+combination of anthracycline and taxanes, the neoadjuvant
+chemotherapy should be completed as planned, and the
+timing and procedure of surgery should be discussed timely.
+However, the chemotherapy regimen may be changed
+for those operable patients who respond poorly to the
+neoadjuvant chemotherapy. For instance, some patients
+may respond poorly to AT, in whom NP may be applied
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 4 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 2 Recommendations of adjuvant therapy after neoadjuvant therapy
+
+Preoperative anti-HER2
+treatment with trastuzumab
+alone
+
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+pCR
+
+HP (2A)
+
+Trastuzumab (1B)
+
+−
+
+NonpCR
+
+(I) T-DM1 (1B)
+
+−
+
+Sequential neratinib after
+HP (2A)
+
+(II) HP (2A)
+Preoperative anti-HER2
+treatment with trastuzumab
+and pertuzumab
+
+pCR
+
+HP (1A)
+
+Trastuzumab (2B)
+
+−
+
+NonpCR
+
+(I) T-DM1 (1B)
+
+−
+
+Sequential neratinib after
+HP (2A)
+
+(II) HP (2A)
+
+H, trastuzumab; P, pertuzumab; pCR, pathological complete response; nonpCR, non-pathological complete response.
+
+Table 3 Recommendations of neoadjuvant therapy for triple negative breast cancer
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+(I) Combination of anthracycline and taxanes:
+
+(I) AC→T (2A)
+
+Chemotherapy combined with PD-1
+inhibitors
+
+(i)
+
+TAC (1A)
+
+(ii) AT (2A)
+(II) TP (2A)
+
+(II) AC→TP (2A)
+(III) Participates in rigorously-designed
+clinical trial
+
+T, taxene; A, anthracycline; C, cyclophosphamide; P, platinum.
+
+instead. If the response to sequential treatment is still
+poor, the treatment strategy should be adjusted to seek
+surgical opportunities. For patients who do not reach pCR
+after completing neoadjuvant treatment, 6 to 8 cycles of
+capecitabine may be given after surgery.
+The results of the neoCART study (7) showed that a
+6-cycle TP regimen can further improve the pCR rate of
+neoadjuvant therapy in TNBC patients compared with an
+8-cycle AC→T regimen; however, platinum-containing
+regimens are not routinely recommended due to the lack of
+data from phase III clinical trials. Nevertheless, platinumcontaining regimens may be considered for young TNBC
+cancer patients with a family history of breast cancer,
+especially when there is a BRCA mutation.
+The KEYNOTE 522 study (8) suggested that, in TNBC
+patients, the addition of PD-1 inhibitors on the basis of TPAC in neoadjuvant therapy significantly increased the pCR
+rate, and the continued use of PD-1 inhibitors after surgery
+further improved the event-free survival (EFS) (Table 3).
+In TNBC patients, subsequent therapy should be
+selected according to whether pCR is achieved after
+neoadjuvant therapy. According to the CREATE-X study,
+if pCR is not achieved after a full course of neoadjuvant
+chemotherapy, 6–8 cycles of capecitabine can be given after
+surgery; for patients with a BRCA mutation, treatment
+
+© Translational Breast Cancer Research. All rights reserved.
+
+with olaparib can also be considered after neoadjuvant
+therapy (9).
+PD-1 inhibitors are considered for adjuvant therapy
+only in patients who were treated with PD-1 inhibitors
+in neoadjuvant therapy. TNBC patients who have been
+treated with PD-1 inhibitors in neoadjuvant therapy can
+continue to use PD-1 inhibitors for a full year after surgery,
+regardless of whether they achieve pCR after surgery.
+Patients should be strictly monitored for adverse effects
+during the use of PD-1 inhibitors (Table 4).
+Neoadjuvant endocrine therapy for hormone
+receptor-positive breast cancer
+Preoperative endocrine therapy is feasible for the following
+populations: (I) patients who require preoperative treatment
+but are not suitable for chemotherapy; (II) patients who
+are temporarily unsuitable for surgery; and (III) hormonedependent patients who do not need immediate surgery.
+For postmenopausal hormone receptor-positive patients,
+the third-generation aromatase inhibitors (including
+anastrozole, letrozole, and exemestane) are recommended
+for neoadjuvant endocrine therapy; fulvestrant may be
+considered in some patients who are not suitable for
+aromatase inhibitors (e.g., with a bone density T-score
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 5 of 28
+
+Table 4 Recommendations of adjuvant therapy after neoadjuvant therapy
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+pCR
+
+−
+
+−
+
+Continue the use of PD-1 inhibitors for a full year in
+patients who have been treated with PD-1 inhibitors
+during neoadjuvant therapy (2B)
+
+nonpCR
+
+Capecitabine (1A)
+
+Olaparib (in the presence
+of a BRCA mutation) (1B)
+
+Continue the use of PD-1 inhibitors for a full year in
+patients who have been treated with PD-1 inhibitors
+during neoadjuvant therapy (2B)
+
+PCR, pathological complete response; nonpCR, non-pathological complete response.
+
+Table 5 Recommendations of neoadjuvant endocrine therapy for HR positive breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Postmenopausal
+
+• AI (1A)
+
+Fulvestrant (2B) (participates in rigorously-designed clinical trials)
+
+• AI + CDK4/6 inhibitors (2A)
+Premenopausal
+
+−
+
+• OFS + AI (1A)
+• OFS + AI + CDK4/6 inhibitors (2B)
+
+AI, aromatase inhibitor; OFS, ovarian function suppression.
+
+of <−2.5). For premenopausal hormone receptor-positive
+patients, ovarian function suppression plus aromatase
+inhibitors may be applied. Some patients with locally
+advanced breast cancer requiring neoadjuvant endocrine
+therapy may be treated with endocrine therapy combined
+with CDK4/6 inhibitors or participate in clinical trials.
+Generally, the response to preoperative endocrine therapy
+should be evaluated every 2 months. If the treatment is
+effective and tolerable, it can last for up to 6 months. Patients
+will undergo surgical treatment after the preoperative
+endocrine therapy is completed. Postoperative treatments are
+then chosen based on the postoperative pathology.
+Few clinical studies have compared the values of
+preoperative endocrine therapy versus preoperative
+chemotherapy in premenopausal patients. In principle,
+preoperative endocrine therapy is not recommended for
+premenopausal patients (except for clinical studies) (Table 5).
+Postoperative adjuvant treatment for breast
+cancer
+Adjuvant treatment for HER2-positive breast cancer
+As shown in the APHINITY study (10), compared with the
+trastuzumab-containing regimen, the dual-targeted therapy
+containing pertuzumab and trastuzumab reduced the risk
+of recurrence, especially in lymph node-positive patients.
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Therefore, for patients at high risk of recurrence, especially
+for patients with positive axillary lymph nodes, dual-targeted
+therapy with pertuzumab and trastuzumab is recommended.
+However, experts disagree that dual-targeted therapy
+should be considered in all patients who are suitable for
+single-targeted adjuvant therapy. For patients with negative
+axillary lymph nodes, other risk factors (e.g., large tumor
+size, negative ER status, histological grade 3, and high
+Ki-67 expression) should also be considered before
+an optimal treatment protocol is made. The NSABP
+B-31/-N9831 study (11) demonstrated that AC→TH was
+superior to conventional AC→T. The BCIRG006 study
+demonstrated that TCbH was also superior to AC→T and
+thus could be used as another option for adjuvant treatment.
+After a 10-year long-term follow-up, the study showed
+TCbH and AC→TH had similar long-term efficacy;
+however, the incidence of cardiac insufficiency was lower in
+the TCbH group. Therefore, TCbH may be selected for
+patients with higher requirement on cardiac safety.
+Studies have shown that the 5-year risk of recurrence/
+metastasis in HER2-positive T1abN0M0 patients is more
+than 5 times that of HER2-negative patients. Therefore,
+patients with HER2-positive and lymph node-negative
+small tumors are still at high risk of recurrence compared
+with those with HER2-negative small tumors. For this
+group of patients, chemotherapy can be further reduced on
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 6 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 6 Recommendations of initial adjuvant therapy for HER2 positive breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+Positive axillary lymph nodes
+
+• AC→THP (1A)
+
+• AC→TH (2A)
+
+TC + H (2B)
+
+• TCbHP (1A)
+
+• TCbH (2A)
+
+• AC→TH (2A)
+
+• AC→THP (2A)
+
+• TCbH (2A)
+
+• TCbHP (2A)
+
+Negative axillary lymph nodes: tumor sized
+>2 cm but without other risk factors; or,
+tumor sized ≤2 cm
+
+TC + H (2A)
+
+TH (2B)
+
+−
+
+Positive hormone receptors and no
+chemotherapy is required; or, cannot
+tolerate chemotherapy
+
+−
+
+H + endocrine therapy (2A)
+
+−
+
+Negative axillary lymph nodes, tumor sized
+>2 cm, and with high risk factors such as: (I)
+ER-negative; (II) high Ki67 expression
+
+TC + H (2B)
+
+T, taxene; A, anthracycline; C, cyclophosphamide; Cb, carboplatin; H, trastuzumab; P, pertuzumab.
+
+Table 7 Recommendations of intensive adjuvant therapy for HER2 positive breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Positive lymph nodes and after adjuvant therapy with H
+
+Sequential neratinib (1A)
+
+−
+
+Positive lymph nodes and after adjuvant therapy with HP
+
+−
+
+Sequential neratinib (2A)
+
+H, trastuzumab; P, pertuzumab.
+
+top of trastuzumab. Previous studies suggest that patients
+with early-stage breast cancer treated with TC + H had
+2-year DFS and 2-year OS rates as high as 97.8% and
+99.2% (12), and the APT study (13) suggested that patients
+with HER2-positive small tumors (≤3 cm) had a 3-year
+iDFS rate of 98.7% with the wTH regimen. Therefore,
+TC + H or wTH regimens may be considered for low-risk
+patients with T1N0 HER2-positive tumors (Table 6).
+The ExteNET study (6) explored another anti-HER2
+dual-targeted treatment strategy in patients with stage II–
+III HER2-positive breast cancer started adjuvant treatment
+with oral neratinib for 1 year within 2 years of completing
+adjuvant trastuzumab. Compared with the placebo group,
+the neratinib group had significantly increased iDFS rate.
+When intensive targeted therapy is required in HER2positive patients, the indication for dual-targeted therapy
+should be considered first. For patients who have completed
+trastuzumab-based adjuvant therapy and whose disease
+has not progressed but have high-risk factors, sequential
+neratinib may be considered (Table 7).
+A s d r u g s s u c h a s tra s tu z u ma b a nd p ertu zumab
+may increase cardiotoxicity, its concurrent use with
+anthracyclines is not recommended; however, these drugs
+can be used concurrently with adjuvant radiotherapy and
+
+© Translational Breast Cancer Research. All rights reserved.
+
+adjuvant endocrine therapy. For hormone receptor-positive
+patients, endocrine therapy combined targeted therapy
+can be considered in low-risk patients who do not need
+chemotherapy or in patients who need chemotherapy but
+cannot tolerate it.
+Adjuvant treatment for TNBC
+Principles of adjuvant chemotherapy include: (I) the
+purpose of adjuvant chemotherapy for early breast cancer is
+to cure the disease; therefore, the chemotherapy should be
+performed in a standardized manner, including the standard
+regimen. drugs, dosages, treatment cycles, and courses. (II)
+The selection, dosing, and application of chemotherapy
+drugs and the management of chemotherapy-associated
+toxicities are particularly complicated. Factors such as
+toxicity, individual differences, and comorbidities must
+be considered. A chemotherapy regimen may be selected
+according to the patient’s risk, tolerance, and personal
+wishes as well as the background of a clinical trial.
+Meanwhile, a protocol for preventing nausea/vomiting
+and bone marrow suppression should be established.
+(III) Special attention should be paid to the order of
+administration, infusion time, and dose intensity of
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 7 of 28
+
+Table 8 Recommendations of initial adjuvant therapy for triple negative breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+In the presence of any of the following
+conditions: positive lymph nodes; tumor sized
+>2 cm
+
+• AC→T 3 (1A)
+
+• TAC (1B)
+
+• FEC→T (2B)
+
+• ddAC-ddT (1A)
+
+• TP (2A)
+
+• AC→TP (2B)
+
+• AC (1A)
+
+• AC→T (2A)
+
+−
+
+• TC ×4 (1A)
+
+• TC ×6 (2A)
+
+Patients at low risk of recurrence: tumor sized
+≤2 cm and with negative lymph nodes
+
+T, taxene; A, anthracycline; C, cyclophosphamide; P, platinum; E, epirubicin; F, fluorouracil.
+
+chemotherapy drugs during chemotherapy. The drug
+instructions and the incompatibility of drugs must be
+strictly followed. In general, do not reduce the number
+cycles in a standard chemotherapy regimen unless there are
+special circumstances.
+For some patients with TNBC, if there are known BRCA
+mutations, platinum (e.g., cisplatin and carboplatin) may be
+added on top of anthracyclines and taxanes. Most experts
+believe that platinum should be considered in advance in
+neoadjuvant therapy for these patients. In the HR-negative
+subgroup, the AC→paclitaxel 3-week regimen achieved
+better DFS than AC adjuvant chemotherapy. Therefore,
+AC→T chemotherapy is currently recommended for
+patients at relatively high risk of recurrence.
+The role of platinums in the adjuvant treatment of
+TNBC remains controversial. The PATTERN study (14)
+showed that platinum-containing regimens improved 5-year
+DFS by 6.2% (86.5% vs. 80.3%) and reduced the risk of
+recurrence by 35% compared with FEC→T regimens,
+and those with younger age and higher tumor grade were
+found to benefit more from platinum-based therapy in an
+exploratory subgroup analysis.
+Some clinical studies have revealed that 4-cycle AC
+regimen, as a shorter and simpler treatment, was equivalent
+to CMF regimen in terms of efficacy; in addition, the
+toxicities were not significantly different between these
+two regimens. Thus, AC can be used as a basic regimen
+for some intermediate- and low-risk patients who require
+adjuvant chemotherapy.
+The US9735 study (15) compared the efficacy of TC
+versus AC in the adjuvant chemotherapy of breast cancer.
+The proportions of intermediate- and low-risk patients
+were high in this study. It was found that TC brought
+improvements in DFS and overall survival (OS). Therefore,
+for some intermediate- and low-risk patients who require
+adjuvant chemotherapy, especially when there is a hidden
+risk of anthracycline cardiotoxicity, adjuvant chemotherapy
+
+© Translational Breast Cancer Research. All rights reserved.
+
+with TC is also preferred.
+The PLAN B study (16), a clinical trial evaluating the
+role of an adriamycin-free TC regimen versus conventional
+A→T sequential therapy for the treatment of clinically
+high-risk or genomically intermediate-to-high-risk HER2negative early breast cancer, and the results showed that
+both TC and EC→T regimens achieved a 5-year diseasefree survival (DFS) rate of 90%, meeting the expected noninferiority criteria. TC has a similar survival outcome with
+EC→T, and the 6-cycle TC regimen can be used as one of
+the adjuvant treatment options for HER2-negative earlystage breast cancer (Table 8).
+The SYSUCC-001 study (17), a Chinese clinical
+research on the adjuvant treatment of early-stage TNBC,
+investigated the value of standard adjuvant chemotherapy
+followed by 1 year of capecitabine metronomic therapy.
+During a median follow-up of 56.5 months, the 5-year DFS
+rate was significantly higher in the capecitabine group than
+in the control group. Therefore, standard chemotherapy
+followed by capecitabine metronomic therapy for 1 year can
+lower the risk of recurrence in TNBC patients.
+The OlympiA study (18) enrolled high-risk patients
+with HER2-negative BRCA1/2 mutations, and the results
+suggested that sequential olaparib reduced the risk of
+recurrence or death by 42% in patients after completion of
+neoadjuvant or adjuvant therapy, with an absolute benefit
+of 8.8%. However, there are no approved indications
+for olaparib use in China. Therefore, the use of olaparib
+treatment should be cautious for patients with TNBC with
+BRCA1/2 mutations after completion of adjuvant therapy
+(Table 9).
+Adjuvant endocrine therapy for hormone receptor-positive
+breast cancer
+Adjuvant endocrine therapy is particularly important for
+HR (ER/PR)-positive breast cancer patients. For the
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 8 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 9 Recommendations of intensive adjuvant therapy for triple negative breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+In the presence of any of the following conditions: (I) positive lymph nodes; (II) tumor sized >2 cm
+Without BRCA mutations
+
+−
+
+Chemotherapy followed by sequential capecitabine for 1 year (2A)
+
+With BRCA mutations
+
+−
+
+Chemotherapy followed by sequential olaparib for 1 year (1B)
+
+−
+
+Chemotherapy followed by sequential capecitabine for 1 year (2B)
+
+Negative lymph nodes and tumor
+sized 1–2 cm
+
+criteria of hormone receptor positive, please refer to the
+“Molecular typing”. The biological behavior of weakly
+ER-positive breast cancer (with a positive rate of 1–9%)
+is similar to that of ER-negative breast cancer. Therefore,
+adjuvant chemotherapy should not be abandoned in these
+patients. After adjuvant chemotherapy is completed,
+adjuvant endocrine therapy can be considered as
+appropriate (19). However, for premenopausal breast cancer
+patients with an ER positivity of 1–9%, ovarian function
+suppression combined with oral endocrine drugs is not
+recommended. Concurrent adjuvant chemo-endocrine
+therapy is not recommended. Endocrine therapy may be
+started after the chemotherapy cycle is over. Radiotherapy
+and endocrine therapy can be carried out either sequentially
+or concurrently.
+Ovarian function is a key indicator in the selection of
+adjuvant endocrine therapy. No matter whether the patient
+is receiving chemotherapy or not, the patient’s menstrual
+status must be inquired before the commencement of
+systemic treatment, which helps to determine the patient’s
+ovarian function status and informs the development
+of all-course adjuvant treatment regimen(s). Definition
+of menopause: menopause can be divided into natural
+menopause and artificial menopause. Generally, it refers to
+the permanent cessation of menstruation, which indicates
+that the estrogen synthesized by the ovaries continuously
+decreases. Women will be considered menopausal if they
+meet any of the following criteria:
+(I) Bilateral oophorectomy;
+(II) Age ≥60 years;
+(III) Age <60 years; amenorrhea for 12 or more months;
+having not received chemotherapy, tamoxifen,
+toremifene, or ovarian suppression within the past
+12 months; follicle-stimulating hormone (FSH) and
+estradiol levels within the postmenopausal range;
+(IV) If taking tamoxifen or toremifene and age
+<60 years, FSH and plasma estradiol levels should
+be in post-menopausal range in two consecutive
+
+© Translational Breast Cancer Research. All rights reserved.
+
+measurements.
+Adjuvant endocrine therapy strategies for
+postmenopausal breast cancer patients
+The 10-year follow-up data from the ATAC study showed
+that 5-year AI treatment significantly improved DFS and
+lowered the risk of recurrence compared to 5-year TAM
+treatment, which confirmed the role of AI as a standard
+regimen for adjuvant treatment of early breast cancer in
+postmenopausal patients. The BIG-198 study (20) validated
+the above results and further demonstrated that there was
+no significant difference in treatment response between
+5-year TAM/AI switching strategy and AI 5-year therapy.
+Therefore, the 5-year AI therapy is recommended as the
+initial adjuvant endocrine therapy for postmenopausal
+patients; for patients having medical contraindications to AI
+use, TAM may be considered for initial adjuvant endocrine
+therapy.
+The MA17 study (21) included patients whose initial
+adjuvant endocrine therapy was TAM, which was switched
+to AI after 2–5 years, and the total duration of adjuvant
+endocrine therapy was at least 5 years. The results of
+these studies confirmed the feasibility and effectiveness of
+switching to AI for 2–5 years after initial adjuvant treatment
+with TAM (for patients who were pre-menopausal upon the
+commencement of initial treatment and were then confirmed
+as postmenopausal during treatment or for patients who
+initially chose TAM after menopause) (Table 10).
+According to the results of the BIG1-98 study, the
+switching strategy was more suitable for patients who could
+not tolerate the initial regimen. During the treatment with
+AI or TAM, patients should be instructed to properly deal
+with adverse drug reactions. Switch between AI and TAM if
+either drug cannot be tolerated. For instance, if AI cannot
+be tolerated during the initial treatment, TAM can be used
+instead.
+The MonarchE study (22) included patients with 4 or
+more positive lymph nodes and patients with 1–3 positive
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 9 of 28
+
+Table 10 Recommendations of initial adjuvant endocrine therapy for HR positive postmenopausal breast cancer patients
+Treatment phase
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+Patients at low risk of recurrence:
+
+(I) AI for 5 years + Abemaciclib
+for 2 years (1A)
+
+(I) TAM for 5 years +
+abemaciclib for 2 years
+
+TAM for 5 years (2B)
+
+(I) ≥4 positive lymph nodes
+
+(II) 1–3 positive lymph nodes but
+(II) AI for 5 years (2A)
+with other risk factors including:
+(i)
+
+(II) Sequential TAM for
+2–3 years sequential AI for
+2–3 years (2A)
+
+G3
+
+(ii) Tumor sized ≥5 cm
+(iii) Ki-67 ≥20%
+Patients at low risk of recurrence:
+(I) Negative lymph nodes
+(II) 1–3 positive lymph nodes and
+meeting any of the following
+conditions
+(i)
+
+(I) AI for 5 years (1A)
+(II) Patients who initially receive
+tamoxifen as adjuvant therapy
+may switch to AI 5-year
+treatment during the treatment
+course (1A)
+
+TAM for 2–3 years, sequential AI
+for 2–3 years (2A)
+
+TAM for 5 years (2B)
+
+G1–2
+
+(ii) Tumor sized <5 cm
+(iii) Ki-67 <20%
+AI, aromatase inhibitor; TAM, tamoxifen.
+
+lymph nodes but with high-risk factors (histology grade
+3, tumor sized ≥5 cm, and/or Ki67 ≥20%) and found that
+after completion of (neo)adjuvant chemotherapy, the
+addition of abemaciclib for 2 years on top of endocrine
+therapy further decreased the risk of recurrence, with a
+2-year absolute survival benefit of 3.5%. Therefore, for
+the patient population eligible for the MonarchE study,
+the combination of 2-year abemaciclib on top of standard
+endocrine therapy may be feasible.
+The initial adjuvant endocrine therapy with AI can be
+discontinued after 5 years of use in postmenopausal lowrisk breast cancer patients. “Low risk” is defined as patients
+who meet all of the following conditions: postoperative
+pT ≤2 cm; G1; negative lymph nodes; without peritumoral
+vascular invasion; ER- and/or PR-positive; and HER2negative. After initial 5 years of adjuvant AI therapy, if the
+patient tolerates it well and meets any of the following
+conditions, extending the endocrine therapy may be
+considered: (I) positive lymph nodes; (II) G3; (III) with
+other risk factors (e.g., Ki67 >30%) that require adjuvant
+chemotherapy.
+As found in the MA17R study, patients received 5
+additional years of AI after initial treatment with TAM for
+3–5 years followed by 5 years of AI treatment (i.e., the
+duration of AI treatment reached 10 years), the risk of
+
+© Translational Breast Cancer Research. All rights reserved.
+
+recurrence was further reduced compared to the placebo
+group. In the NSABP-B42 trial, it was found that in patients
+who had received 5 years of AI or in patients who had
+received 2.5 years of TAM and then switched to AI for
+2.5 years, an additional 5 years of AI treatment significantly
+lowered the risk of breast cancer recurrence. These evidences
+supported the clinical application of extended AI therapy.
+No randomized controlled trial has explored the role
+of 5 years of AI followed by 5 years of TAM or AI in
+postmenopausal patients. However, since some previous
+studies have demonstrated that switching to AI for another
+5 years after 5 years of TAM treatment can be beneficial,
+switching to 5-year TAM treatment may be feasible in
+patients who require extended therapy but cannot tolerate
+AI treatment (Table 11).
+Adjuvant endocrine therapy strategies for
+premenopausal breast cancer patients
+The NATO and Stockholm studies have confirmed that,
+for patients who were HR-positive after surgery, adjuvant
+treatment with TAM for 5 years significantly prolonged DFS
+and OS compared with no endocrine therapy or TAM for
+2 years. On the basis of the standard postoperative adjuvant
+treatment, the SOFT study (23) compared the efficacies
+between OFS + TAM and TAM alone for 5 years. During
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 10 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 11 Recommendations of intensive adjuvant endocrine therapy for HR positive postmenopausal breast cancer patients
+Treatment phase
+
+Level I recommendations
+
+Level II recommendations
+
+After initial 5 years of adjuvant AI therapy, if the patient tolerates it well and
+meets any of the following conditions, extending the endocrine therapy may
+be considered: (I) positive lymph nodes; (II) G3; (III) with other risk factors
+that require adjuvant chemotherapy
+
+Continue the use of AI (2A)
+
+Switch to TAM (2B)
+
+AI, aromatase inhibitor; TAM, tamoxifen.
+
+Table 12 Recommendations of initial adjuvant endocrine therapy for HR positive premenopausal breast cancer patients
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+≥4 positive lymph nodes
+
+(I) OFS + AI for 5 years +
+abemaciclib for 2 years (1A)
+
+(I) OFS + TAM + abemaciclib
+for 2 years (1B)
+
+TAM for 5 years (2B)
+
+(II) OFS + AI for 5 years (2A)
+
+(II) OFS + TAM for 5 years (2A)
+
+1–3 positive lymph nodes, along with
+one of the following risk factors: (I) G3;
+(II) Ki-67 ≥20%; (III) tumor sized ≥5 cm
+
+(I) OFS + TAM for 5 years +
+abemaciclib for 2 years (1A)
+
+(I) OFS + AI for 5 years +
+abemaciclib for 2 years (1B)
+
+(II) OFS + TAM (2A)
+
+(II) OFS + AI for 5 years (2A)
+
+1–3 positive lymph nodes but without
+other risk factors; or, negative lymph
+node but with one of the following risk
+factors: (I) G2 or G3; (II) tumor sized
+>2 cm; (III) high Ki-67 expression
+
+OFS + TAM for 5 years (1A)
+
+OFS + AI for 5 years (2A)
+
+TAM (2B)
+
+Negative lymph nodes and meeting
+any of the following conditions: (I) G1;
+(II) tumor sized ≤2 cm; (III) low Ki-67
+expression
+
+TAM for 5 years (1A)
+
+−
+
+−
+
+TAM for 5 years (2B)
+
+OFS, ovarian function suppression; AI, aromatase inhibitor; TAM, tamoxifen.
+
+the 8-year follow-up, the OFS combinations significantly
+prolonged the DFS of premenopausal patients, with the
+DFS benefit increased by 7% in the OFS + AI subgroup;
+compared with the TAM monotherapy group, the 8-year
+distant recurrence-free interval (DRFI) increased by 2.8%
+in the OFS + AI group. Most of the patients in the predesignated postoperative non-adjuvant chemotherapy
+subgroup were lymph node negative, G1, and T <2 cm, and
+subgroup analysis showed that there was limited benefit from
+OFS plus endocrine therapy. Therefore, it is recommended
+that the basic strategy of postoperative adjuvant endocrine
+therapy for these patients is 5-year TAM treatment (Table 12).
+Strategies used for ovarian suppression include druginduced ovarian function suppression [e.g., GnRH
+agonists (GnRHa) such as goserelin and leuprolide] and
+surgery. Ovarian radiotherapy has been available but it is
+not routinely recommended. Be wary of the possibility of
+incomplete drug-induced ovarian function suppression;
+however, it is not recommended to routinely monitor
+
+© Translational Breast Cancer Research. All rights reserved.
+
+hormone levels during the use of GnRHa.
+The pre-set chemotherapy subgroup in the SOFT study
+and the analysis of the clinical characteristics of patients
+benefiting from chemotherapy combined with OFS in the
+2007 meta-analysis of OFS showed that patients with positive
+lymph nodes, higher tumor grade [2–3] and large size (>2 cm)
+were more likely to benefit from the OFS combinations. For
+patients receiving chemotherapy, the distant recurrence rate
+was reduced by 2.6% in the TEXT study and by 3.4% in the
+SOFT study, which confirmed the benefit of 5-year OFS + AI
+treatment. Further comprehensive quantitative analysis (24)
+revealed that factors associated with the absolute benefit of
+OFS + AI included age <35 years, ≥4 positive lymph nodes,
+and histological grade 3. Thus, patients with these factors are
+more likely to benefit from OFS + AI treatment.
+No relevant research has been carried out in patients
+who are pre-menopausal at the time of initial treatment but
+will enter menopause within 2 to 3 years. The expert group
+proposes the following options for this population:
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 11 of 28
+
+Table 13 Recommendations of intensive adjuvant endocrine therapy for HR positive premenopausal breast cancer patients
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Patients who have completed the initial 5-year
+TAM treatment and require extended therapy
+
+(I)
+
+Extended adjuvant TAM for up to
+10 years in premenopausal patients (1A)
+
+−
+
+(II)
+
+AI can be used sequentially for
+5 years in patients whose menopause
+is confirmed (1A)
+
+Patients who have completed the initial 5 years
+of OFS + TAM, and the therapy is well tolerated
+
+Sequential AI treatment for menopausal
+patients for 5 years (2A)
+
+Premenopausal patients treated with
+TAM for 5 years (2B)
+
+Patients who have completed the initial 5 years
+of OFS + AI, and the therapy is well tolerated
+
+3–5-year AI treatment for menopausal
+patients (2A)
+
+Premenopausal patients treated with
+TAM for 5 years (2B) or OFS + AI for
+5 years (2B)
+
+TAM, tamoxifen; OFS, ovarian function suppression; AI, aromatase inhibitor.
+
+(I)
+
+For patients with 4 or more positive lymph nodes
+or had a histological grade 3 tumor, ovariectomy
+followed by AI may be considered.
+(II) For G2 patients with 1–3 positive lymph nodes, TAM
+can be selected as the initial adjuvant treatment, and
+5-year AI can be used instead after menopause.
+In the NSABP B-14 study, for ER-positive and lymph
+node-negative breast cancer patients, the 5-year TAM
+group showed no survival superiority over the 10-year TAM
+group. Two large randomized controlled trials [ATLAS (25)
+and aTTom] demonstrated that 10-year TAM was superior
+to 5-year TAM in lowering breast cancer recurrence
+rate. For patients who have already selected TAM for the
+initial treatment and have not yet entered menopause after
+5 years of TAM treatment, it is recommended to extend the
+TAM treatment for another 5 years (up to 10 years) if such
+extension is required.
+The risk of long-term recurrence persists even after
+5 years of OFS combined with oral endocrine drugs. No
+study has explored the results of extended endocrine therapy
+in these patients, and no randomized controlled trial has
+compared the efficacies of the extended endocrine therapy
+following 5 years of OFS + endocrine drugs versus 10-year
+TAM treatment. Nevertheless, based on the evidence
+for the benefit of extended endocrine therapy, extended
+endocrine therapy can be recommended for patients who
+can tolerate it (Table 13).
+Adjuvant radiotherapy after breast cancer surgery
+A c c o r d i n g t o B I G 3 - 0 7 / T R O G 0 7 . 0 1 s t u d y, t h e
+hypofractionated schedule and the conventional fractionated
+schedule were equivalent in terms of local-regional
+
+© Translational Breast Cancer Research. All rights reserved.
+
+recurrence and DFS, and they had similar side effects of
+radiotherapy. The study defined intermediate-high risk
+as <50 or ≥50 years with one of the following conditions:
+palpable mass, multifocal, sized ≥1.5 cm, intermediatehigh-grade lesions, central necrosis, comedo necrosis, and
+<10 mm from the cutting edge. Considering that the longterm efficacy and safety of hypofractionated radiotherapy
+regimen in invasive carcinomas have been widely recognized
+and from the perspective of saving medical resources
+and increasing the affordability, the experts make equal
+recommendations for the conventional fractionated
+radiotherapy regimen and the hypofractionated radiotherapy
+regimen for WBI of ductal carcinoma in situ (DCIS).
+Postoperative WBI can reduce the risk of recurrence
+of DCIS and invasive carcinoma by about 50% in DCIS
+patients. In addition, retrospective studies have confirmed
+that many polygenic models including DCISionRT, Rst,
+and DCIS Score can accurately distinguish the risk of
+local recurrence after breast-conserving surgery for DCIS,
+and patients with a low polygenic risk score have limited
+benefits from radiotherapy. However, there is still a lack
+of high-level evidence to guide radiotherapy decisions
+based on polygenic scores. We encourage DCIS patients
+to receive assessment using polygenic risk score models
+on top of a variety of clinicopathological prognostic
+factors including age, histological grade, and resection
+margins. Among estrogen receptor-positive intraductal
+carcinoma patients who are receiving endocrine therapy,
+postoperative radiotherapy may be omitted in DCIS
+patients with low risk of recurrence or in patients with
+contraindications to radiotherapy after a thorough
+consideration of the risks and benefits of radiotherapy
+and adequate communication with the patients or their
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 12 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 14 Recommendations of adjuvant radiotherapy for patients after breast-conserving surgery
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+DCIS
+
+WBI ± tumor bed boost (2B)
+
+APBI (2A)
+
+Invasive carcinoma
+(negative axillary lymph nodes)
+
+WBI (1A) ± tumor bed boost (1B)
+
+(I) APBI (2A)
+(II) Whole-breast one-week hyperfractionated
+schedule (2A)
+(III) WBI ± tumor bed boost + regional lymph node
+radiotherapy (2B)
+
+Positive axillary lymph nodes, with
+axillary lymph node dissection
+
+WBI ± tumor bed boost + regional
+lymph node radiotherapy (1B)
+
+WBI ± tumor bed boost (2B)
+
+1–2 positive sentinel lymph nodes,
+without axillary lymph node dissection
+
+WBI + tumor bed boost (1A)
+
+WBI + tumor bed boost + regional lymph node
+radiotherapy (including axilla) (2B)
+
+≥3 positive sentinel lymph nodes,
+without axillary lymph node dissection
+
+−
+
+WBI + tumor bed boost + regional lymph node
+radiotherapy (including axilla) (2B)
+
+DCIS, ductal carcinoma in situ; WBI, whole breast irradiation; APBI, accelerated partial breast irradiation.
+
+families (Table 14).
+The long-term follow-up in clinical studies have
+confirmed that postoperative radiotherapy still has the
+advantage of higher local control rate over endocrine
+therapy alone in elderly patients who are ≥70 years, with
+a stage of T1N0M0, and being HR-positive and HER2negative, although it did not affect OS and DFS in these
+patients. With the availability of more novel polygenic
+prediction models, radiotherapy regimens for patients
+with early-stage low-risk breast cancer can be selected in a
+more precise manner. For patients meeting the inclusion
+criteria in the above study, postoperative radiotherapy
+may be avoided or reduced on top of endocrine therapy
+after a thorough consideration of the risks and benefits of
+radiotherapy and adequate communication with the patients
+or their families.
+For patients who only require WBI on the affected breast,
+the recommended WBI radiotherapy includes: conventional
+fractionation: 6 Gy/8 fractions; or, hypofractionation:
+40–42.5 Gy/15–16 fractions. While these two schedules
+are equally effective and have comparable cosmetic effects
+and side effects, the hypofractionated radiotherapy can save
+medical resources and lower the medical expenditure. Thus,
+the hypofractionated radiotherapy is recommended as the
+preferred schedule.
+Accelerated partial breast irradiation (APBI): patients
+may be selected according to the American Society for
+Radiation Oncology (ASTRO) recommendations (26).
+IMRT or interstitial brachytherapy may be applied for
+APBI, with IMRT being the preferred technique for
+
+© Translational Breast Cancer Research. All rights reserved.
+
+external irradiation. The recommended fractionation
+regimens include: 38.5 Gy/10 fractions, twice daily; or,
+30 Gy/(5 fractions × 2 weeks). However, the minimum
+and most effective doses for APBI need to be further
+investigated. APBI-OPAR, the first published head-to-head
+comparison of two dose gradients of ABPI, enrolled patients
+with either DCIS or invasive breast cancer; during the 4-year
+follow-up, the cosmetic effect of the 5.5 or 6.0 Gy/fraction,
+qd ×5 treatment modality was significantly better than that
+in the RAPID study but inferior to that in the APBI-IMRTFlorence study. However, the prognostic efficacy of this
+modality needs to be further explored in long-term followup. We encourage eligible patients to actively participate in
+prospective clinical studies exploring the APBI fractionation
+modalities in China and abroad.
+Regional lymph node radiation: in patients who have
+received complete axillary lymph node dissection (basically
+defined as axillary lymph node dissection at stations 1 and 2),
+the regional lymph node dissection typically includes the
+supraclavicular/subclavian areas on the affected side and the
+Internal mammary lymph nodes (between the first and the
+third intercostal spaces).
+According to the FAST-FORWARD study (27), the
+hyperfractionated breast radiotherapy (26 Gy in 5 fractions
+over 1 week) was non-inferior to the hypofractionated
+regimen (40 Gy in 15 fractions over 3 weeks) in terms of
+the 5-year risk of ipsilateral intramammary recurrence and
+radiotherapy side effects. Since a shortened treatment course
+has many benefits including higher efficiency of medical
+resources utilization, increased accessibility of radiotherapy,
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 13 of 28
+
+Table 15 Recommendations of adjuvant radiotherapy for patients after mastectomy
+Stratification
+
+Level I recommendations
+
+After axillary lymph node dissection, patients
+meet any of the following conditions: (I) T3–4;
+(II) positive axillary lymph nodes
+
+Chest wall radiotherapy + regional lymph node
+radiotherapy (1–2A)
+
+−
+
+Positive sentinel lymph nodes, without axillary
+lymph node dissection
+
+Chest wall radiotherapy + regional lymph node
+radiotherapy (including axilla) (2B)
+
+−
+
+and reduced patient burden, our current guidelines
+recommend that the hyperfractionated radiotherapy (26 Gy
+in 5 fractions over 1 week) be considered for patients who
+meet the enrollment criteria of the FAST-FORWARD
+study. The target dose should be carefully assessed and the
+organ-threatening dose strictly limited when using a oneweek regimen, with reference to the FAST-FORWARD
+study protocol: PTV: D95% >95% of the prescribed dose,
+D5% <105% of the prescribed dose, D2% <107% of the
+prescribed dose, and maximum dose <110% of the prescribed
+dose; ipsilateral lung: V8Gy <15%; heart: V1.5Gy <30% and
+V7Gy <5%. Notably, this dosage covers only the whole
+breast and needs to be tailored based on individual risk
+of recurrence. For patients requiring a tumor bed boost,
+additional dose may be delivered according to the FASTFORWARD study protocol.
+The indications of postoperative radiotherapy after
+breast reconstruction should follow those after mastectomy
+for patients in the same stage. The complication rate after
+autologous reconstruction is lower than that after prosthetic
+reconstruction. For patients undergoing two-step tissue
+expander/implant (TE/I), whether the replacement of the
+tissue expander by a permanent breast implant should be
+done before or after postoperative radiotherapy remain
+controversial, depending on the skills and experience of the
+multidisciplinary team (Table 15).
+In patients receiving combined regional lymph node
+radiotherapy, the recommended dose of the postoperative
+adjuvant radiotherapy for whole breast/chest wall
+irradiation at the affected and for irradiation of regional
+lymph node areas remains 50 Gy/25 fractions, and a
+tumor bed boost of 10–16 Gy/5–8 fractions is required for
+patients after breast-conserving surgery. A single-center
+prospective phase III trial in China has confirmed that
+postoperative hypofractionated radiotherapy (including
+supraclavicular lymph nodes and chest wall) can achieve
+similar efficacy as conventional fractionated radiotherapy
+in breast cancer patients after mastectomy (28). As more
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Level II recommendations
+
+evidence has demonstrated the radiobiological equivalence
+of hypofractionated regimens to conventional fractionated
+regimens, our current guidelines recommend that combined
+regional lymph node hypofractionated radiotherapy
+regimens, preferably with precision radiotherapy techniques
+including IMRT, may be considered under the premise of
+strictly limiting the organ-threatening dose and ensuring
+dose coverage and dose uniformity in the target area. When
+the equivalent uniform dose (EUD) is calculated, tumor
+control probability (TCP) and normal tissue complication
+probability (NTCP, which is more complicated) should
+also be considered. This guideline also encourages patients
+to actively participate in prospective clinical studies on the
+regional lymph node hypofractionated radiotherapy on top
+of precision radiotherapy techniques.
+Salvage treatment for advanced breast cancer
+Salvage treatment for HER2-positive breast cancer
+Trastuzumab-sensitive populations include: (I) trastuzumabnaïve; (II) showing response to neoadjuvant therapy; (II)
+having recurrence 1 year after the end of adjuvant therapy;
+and (IV) drug withdrawal after effective salvage treatment.
+For these patients, trastuzumab-based therapy is preferred.
+A reasonable combination treatment protocol should
+be selected according to the patient’s HR status and the
+previous neoadjuvant/adjuvant therapies.
+The CLEOPATRA study (29) confirmed that the
+combination of docetaxel with dual-targeted therapy
+with pertuzumab and trastuzumab was more effective
+than the combination of docetaxel with single-targeted
+therapy with trastuzumab in prolonging PFS And OS.
+Thus, the combination of docetaxel with dual-targeted
+therapy with pertuzumab and trastuzumab has become the
+preferred treatment for HER2 positive patients failing to
+respond to trastuzumab and taxanes. The CHAT study
+confirmed that, for patients who could tolerate dual-drug
+chemotherapy, trastuzumab combined with docetaxel
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 14 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 16 Recommendations of salvage treatment for HER2-positive breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+Trastuzumab-sensitive
+
+(I) THP (1A)
+
+(I) H + chemotherapy (2A)
+(chemotherapy includes: taxanes,
+vinorelbine, and capecitabine)
+
+H + P + other chemotherapy drugs
+(2B)
+
+(II) TXH (2A)
+
+(II) Pyrotinib + capecitabine (2A)
+
+Trastuzumab-resistant
+
+(I) Pyrotinib + capecitabine (1A) (I) T-Dxd (1A)
+
+(I) Neratinib + capecitabine (2A)
+
+(II) T-DM1 (1B)
+
+(II) Lapatinib + capecitabine (2B)
+(III) TKI combined with other
+chemotherapy drugs (2B)
+(IV) HP combined with other
+chemotherapy drugs (2B)
+(V) Margetuximab + chemotherapy
+(2B)
+
+TKI-resistant
+
+−
+
+(I) Anti-HER2 antibody-drug
+conjugates (ADCs)
+(e.g., T-Dxd and T-DM1) (2A)
+
+Other unused anti-HER2-targeted
+agents
+
+(II) HP combined with other
+chemotherapy drugs (2A)
+(III) Another TKI + chemotherapy (2A)
+(IV) Rigorously-designed clinical trial
+T, taxene; X, capecitabine; H, trastuzumab; P, pertuzumab; TKI, tyrosine kinase inhibitor.
+
+plus capecitabine was more efficient than trastuzumab
+combined with docetaxel, especially in patients requiring
+maintenance treatment (30). Trastuzumab may also be
+combined with capecitabine in patients who failed the
+taxane treatment (Table 16).
+According to the PHENIX study (31), in patients who
+failed the treatment with taxanes and trastuzumab, pyrotinib
+combined with capecitabine was more effective than
+capecitabine monotherapy in increasing overall response
+rate (ORR) and PFS. Similarly, the PHOEBE study (32)
+showed that in MBC patients who have previously received
+trastuzumab, paclitaxel, and/or anthracycline, pyrotinib
+combined with capecitabine achieved better PFS than
+lapatinib combined with capecitabine. Therefore, the
+experts recommend pyrotinib combined with capecitabine
+for the treatment of patients who have failed to respond to
+trastuzumab and taxanes.
+According to the NALA study (33), neratinib in
+combination with capecitabine significantly prolonged PFS
+compared with lapatinib in combination with capecitabine
+in patients with metastatic HER2-positive breast cancer
+who had received ≥2 prior targeted therapies, making it one
+
+© Translational Breast Cancer Research. All rights reserved.
+
+of the current options after the failure of multiple lines of
+anti-HER2 therapy.
+The SOPHIA study (34) included patients with advanced
+breast cancer who had received at least two prior lines of
+anti-HER2-targeted therapy but no more than three total
+lines. All subjects had previously received trastuzumab and
+pertuzumab, and approximately 90% had received prior
+T-DM1 therapy. The results showed that patients receiving
+margetuximab and chemotherapy had a median increase of
+1.8 months in OS compared to those receiving trastuzumab
+and chemotherapy (21.6 vs. 19.8 months). Among the
+approximately 85% of patients carrying a CD16A 158F
+allele, the median OS was prolonged by 4.3 months in the
+margetuximab arm (23.7 vs. 19.4 months).
+The results of the HER2CLIMB study (35) showed
+that in patients with locally advanced unresectable or
+metastatic HER2-positive breast cancer, the tucatinib plus
+X regimen demonstrated superior efficacy (a significant
+46% reduction in the risk of disease progression or death
+and a 34% reduction in the risk of death) compared with
+the trastuzumab plus capecitabine (XH) regimen. In this
+trial, 47% of patients had brain metastases at study entry.
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+For these patients, tucatinib further improved PFS and
+significantly reduced the risk of disease progression or death
+by 52%.
+According to the DESTINY-Breast03 study (36), T-Dxd
+significantly improved PFS and reduced the risk of disease
+progression or death by 72% compared to T-DM1 after
+trastuzumab treatment failure; thus, T-Dxd has become
+a new standard second-line treatment after trastuzumab
+failure. Anti-HER2 ADCs have shown notable clinical
+benefits in MBC patients, especially in second-line or above
+settings. Although T-Dxd is not yet available in China,
+patients are encouraged to actively participate in domestic
+and international clinical trials of ADCs.
+Subsequent targeted therapy after TKI failure still lacks
+the support of high-quality clinical trials. According to
+real-world data and expert opinions, it is recommended
+that the decision-making should be based on the previous
+treatments, with currently available options including
+T-D M 1 , H + P du a l -ta rg eted thera p y p l u s oth er
+chemotherapy, T-Dxd, and switching to another TKI (37).
+Anti-HER2 monoclonal antibodies (H) include
+trastuzumab, biosimilar medications, and inetetamab, which
+have been available in China.
+TKIs include pyrotinib, lapatinib, neratinib, and
+tucatinib.
+Salvage treatment for triple-negative advanced breast cancer
+The preferred chemotherapy regimens include single-agent
+chemotherapy and combination chemotherapy. Compared
+with the single-agent chemotherapy, the combination
+chemotherapy usually has a higher objective response rate
+and longer DFS. However, combination chemotherapy is
+more toxic and has limited survival benefits. Therefore,
+combination chemotherapy is only feasible for patients who
+need to shrink the tumor or relieve symptoms within a short
+period of time. In contrast, single-agent chemotherapy is
+preferred for patients in whom drug tolerability and quality
+of life are the top concerns.
+For recurrent/metastatic breast cancer patients who have
+failed prior anthracycline-containing preoperative/adjuvant
+therapy, taxane-based regimens are typically preferred, and
+both single-agent and combination regimens can be selected
+for the first-line treatment. Other optional drugs may
+include capecitabine, gemcitabine, vinorelbine, liposomal
+doxorubicin, and liposomal paclitaxel.
+There is currently no standard chemotherapy regimen
+for patients with recurrent/metastatic breast cancer
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Page 15 of 28
+
+who have failed preoperative/adjuvant treatments with
+anthracyclines and taxanes. The optional drugs may include
+capecitabine, vinorelbine, gemcitabine, platinum, eribulin,
+UTD1, another type of taxane (e.g., albumin paclitaxel), and
+liposomal doxorubicin. Either single-agent or combination
+regimens can be considered.
+Taxanes (anthracyclines) failure is defined as disease
+progression during the salvage treatment with taxanes
+(anthracyclines) (after at least two cycles) or tumor
+recurrence/metastasis within 12 months after completing
+the adjuvant therapy. Patients who are feasible for retreatment with taxanes include: (I) showing response
+to taxane-based neoadjuvant therapy; (II) experiencing
+recurrence one year after the end of taxane-based adjuvant
+therapy; and (III) drug withdrawal after effective salvage
+treatment with taxanes (Table 17).
+In the KEYNOTE-355 study (38), chemotherapy
+combined with a PD-1 inhibitor significantly improved
+PFS compared with chemotherapy alone in patients whose
+tumors expressed PD-L1 and had a combined positive score
+(CPS) of ≥10, suggesting the potential role of immune
+checkpoint inhibitors in the treatment of TNBC. However,
+different studies had different drug combinations, target
+populations, and predictors, and immune checkpoint
+inhibitors are not currently approved to treat breast cancer
+in China. Therefore, the expert group encourages patients
+to actively participate in clinical studies but reminds that
+caution must be exercised when using these drugs in clinical
+settings.
+The OlympiAD study (39) showed that, for patients with
+HER2-negative advanced breast cancer with BRCA 1/2
+germline mutations, olaparib significantly prolonged
+PFS (7 vs. 4.2 months, compared with chemotherapy).
+Therefore, the expert group generally agrees that patients
+with BRCA1/2 germline mutations can receive treatment
+with olaparib or actively participate in relevant clinical
+trials.
+The 304 study (24) showed that for patients with
+advanced breast cancer for whom anthracyclines and
+taxanes have failed, eribulin was superior to vinorelbine in
+prolonging PFS and increasing ORR, with similar incidence
+of adverse events. Thus, eribulin has become a new option
+after anthracycline and taxane failure in patients with
+advanced breast carcinoma.
+The BG01-1312L study (40) showed that for patients
+with advanced breast cancer for whom anthracyclines and
+taxanes have failed, UTD1 combined with capecitabine was
+superior to capecitabine alone in prolonging PFS and OS,
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 16 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 17 Recommendations of salvage treatment for triple negative breast cancer
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+Taxanes-sensitive
+
+(I) Taxane monotherapy
+
+(I) Monotherapy
+
+(I) Olaparib# (2A)
+
+Taxanes failure
+
+•
+
+Albumin paclitaxel (1A)
+
+•
+
+Capecitabine (2A)
+
+(II) Liposomal paclitaxel (2A)
+
+•
+
+Docetaxel (2A)
+
+•
+
+Vinorelbine (2A)
+
+(III) Liposomal doxorubicin (2B)
+
+•
+
+Paclitaxel (2A)
+
+•
+
+Gemcitabine (2A)
+
+(IV) Chemotherapy + PD-1 inhibitors (2B)
+
+(II) Combination therapy
+
+•
+
+Etoposide (2B)
+
+•
+
+TX (1A)
+
+•
+
+GT (1A)
+
+•
+
+Albumin paclitaxel + PD-1 inhibitor
+(2A)
+
+•
+
+TP (2A)
+
+•
+
+Taxanes + bevacizumab (2B)
+
+(I) Monotherapy
+
+(II) Combination therapy
+
+(I) Monotherapy
+
+(I) Olaparib# (2A)
+
+•
+
+Eribulin (1A)
+
+•
+
+Albumin paclitaxel* (2A)
+
+(II) Liposomal doxorubicin (2B)
+
+•
+
+Vinorelbine (2A)
+
+•
+
+Sacituzumab govitecan (2A)
+
+(III) Liposomal paclitaxel (2B)
+
+•
+
+Gemcitabine (2A)
+
+•
+
+Etoposide (2B)
+
+(IV) Chemotherapy + PD-1 inhibitors (2B)
+
+•
+
+Capecitabine (2A)
+
+(II) Combination therapy
+
+(II) Combination therapy
+•
+
+NP (1A)
+
+•
+
+GP (1A)
+
+•
+
+NX (2A)
+
+•
+
+Utidelone + capecitabine (2A)
+
+•
+
+Capecitabine + bevacizumab (2B)
+
+•
+
+Albumin paclitaxel + other
+chemotherapy drugs (2B)
+
+*, consider switching to albumin paclitaxel if docetaxel or paclitaxel fails; #, recommended in the presence of BRCA1/2 mutations. T,
+taxene; G, gemcitabine; N, vinorelbine; X, capecitabine; P, platinum.
+
+which offered a new treatment chance after anthracycline
+and taxane failure in patients with advanced breast carcinoma.
+In the ASCENT study (41), patients with advanced
+TNBC who had received prior second- or later-line
+chemotherapy were randomized to receive sacituzumab
+govitecan-hziy or single-agent chemotherapy (including
+capecitabine, eribulin, vinorelbine, or gemcitabine, upon
+the investigator’s choice), respectively. It was found that
+sacituzumab govitecan-hziy reduced the risk of disease
+progression by 59% and the risk of death by 52% in
+patients with refractory TNBC that was resistant to multiline treatments. In April 2020, the US Food and Drug
+Administration (FDA) granted accelerated approval to
+sacituzumab govitecan for adult patients with metastatic
+TNBC. Thus, the new anti-Trop-2 ADC brings additional
+treatment options to patients with advanced TNBC.
+It is extremely difficult to cure a recurrent/metastatic
+breast cancer. A more realistic strategy is to prolong survival
+
+© Translational Breast Cancer Research. All rights reserved.
+
+via less radical treatments. The optimal first-line treatments
+may include endocrine therapy and chemotherapy (or
+combined with molecularly-targeted therapy). Rational
+maintenance treatment may be considered in patients who
+have exhibited good therapeutic response. For patients
+who respond well to a given combination chemotherapy
+regimen but cannot tolerate the combined therapy due to
+severe adverse reactions, use of a single agent in the initial
+therapy for maintenance treatment may be considered
+to maximize disease control. An ideal maintenance
+chemotherapy protocol should be an effective single-agent
+therapy (e.g., oral chemotherapy drugs such as capecitabine
+and vinorelbine) that is relatively low-toxic and convenient
+for long-term use. HR-positive patients can also choose
+endocrine therapy for maintenance.
+For patients with recurrent/metastatic breast cancer, if
+there is no response after three consecutive chemotherapy
+regimens or if the patient’s ECOG performance status
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+score is ≥3, chemotherapy is no longer recommended and
+gentle endocrine therapy and molecularly-targeted therapy
+can be considered. Alternately, only the best supportive
+care can be offered; or, the patients may be encouraged to
+participate in clinical trials. Here “no response” refers to
+that the patient has never obtained any benefit (or even
+remission) from a specific chemotherapy regimen. It does
+not include cases that remission has been obtained after
+chemotherapy but disease progression occurs after drug
+discontinuation.
+Savage therapy for HR-positive advanced breast cancer
+The previous treatment regimen and disease burden must
+be considered when selecting a first-line endocrine therapy
+for recurrent and metastatic breast cancer. Endocrine
+therapy should be continued as possible in patients who
+have benefited from the treatment until disease progresses;
+however, the tolerance to long-term drug use should also be
+assessed. In principle, a combination of endocrine therapy
+and chemotherapy is not recommended. For HR-positive/
+HER2-positive patients who are not suitable for salvage
+chemotherapy, endocrine combined with HER2-targeted
+therapy may be considered as the first-line treatment. In the
+first-line endocrine therapy for advanced breast cancer, the
+third-generation AIs achieved significantly longer PFS and
+higher ORR compared with TAM. For postmenopausal,
+HR-positive patients who have not received endocrine
+therapy or those who have failed adjuvant endocrine therapy
+with TAM, the third-generation AIs are recommended
+as the first-line endocrine therapy. In the PALOMA-2
+study (42), compared with letrozole monotherapy,
+letrozole combined with a CDK4/6 inhibitor (palbociclib)
+significantly prolonged PFS; notably, about 43% of the
+subjects were endocrine therapy-naive, and about 47% had
+received adjuvant TAM treatment.
+According to the PALOMA-3 study (43), in patients
+experiencing PD despite prior endocrine therapy (with AI or
+TAM), including patients with PD during adjuvant endocrine
+therapy or within 12 months after stopping treatment or
+those who experiencing PD during endocrine therapy for
+tumor relapse and metastasis, the combination of palbociclib
+with fulvestrant significantly prolonged PFS compared with
+fulvestrant alone, although the improvement in OS was
+not statistically significant; in the subgroup with sensitivity
+to previous endocrine therapy, however, the OS was
+significantly prolonged by 10 months. Approximately 70%
+of patients in the MONARCH2 study (44) experienced PD
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Page 17 of 28
+
+after AI therapy, and the findings confirmed that abemaciclib
+in combination with fulvestrant significantly prolonged PFS
+compared with fulvestrant alone. The MONARCHplus
+study (45), which included two groups of patients who
+failed TAM or AI treatment, showed that abemaciclib in
+combination with either non-steroidal AI or fulvestrant
+significantly improved PFS and ORR. Accordingly, NMPA
+has approved the use of abemaciclib in combination with AI
+as the first-line endocrine therapy in postmenopausal BC
+patients and also approved the combination of abemaciclib
+with fulvestrant for patients experiencing disease progression
+after previous endocrine therapy. The DAWNA-1 study (46)
+enrolled 361 patients (from 39 centers) with HR-positive/
+HER2-negative advanced breast cancer after failure of
+endocrine therapy. These subjects were randomized 2:1
+to receive dalpiciclib plus fulvestrant or placebo plus
+fulvestrant. The investigator-assessed PFS was 8.5 months
+longer in the dalpiciclib plus fulvestrant group, along with
+a 58% reduction in the risk of disease progression or death.
+Therefore, dalpiciclib plus fulvestrant has been approved
+for use as a treatment option after AI failure. Clinical
+studies have demonstrated the value of CDK4/6 inhibitors
+combined with endocrine therapy in treating HR-positive
+advanced breast cancer; however, the mechanism of action,
+dosage, indications, and adverse effects are not completely
+consistent across different CDK 4/6 inhibitors. Thus, CDK
+4/6 inhibitors and their combinations need to be selected
+rationally according to the included population of clinical
+studies and the specific conditions of patients.
+In the ACE study (47), for postmenopausal HR-positive/
+HER2-negative advanced breast cancer patients who
+had previously failed tamoxifen and/or non-steroidal AI
+treatment, the combination of HDAC inhibitor chidamide
+with exemestane significantly prolonged PFS (7.4 vs.
+3.8 months, versus exemestane); also, it was superior to
+exemestane in terms of ORR and clinical benefit rate.
+Chidamide has been approved in China for the indication
+of breast cancer. The expert group recommends that
+chidamide combined with AI can be used in advanced breast
+cancer patients who have failed on previous endocrine
+treatment (Table 18).
+AIs can be used in patients who experience recurrence
+more than 12 months after end of adjuvant AI therapy. For
+patients with recurrence ≤12 months after end of adjuvant
+treatment or progression after first-line endocrine therapy
+with AI, use of another AI with different mechanism of
+action (e.g., switch a non-steroidal AI with a steroidal AI)
+may be helpful, which, however, has not been investigated
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 18 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 18 Recommendations of salvage endocrine treatment for HR positive breast cancer
+Stratification
+
+Level I recommendations
+
+Without endocrine therapy (I) AI + abemaciclib (1A)
+(II) AI+ palbociclib (1A)
+
+Level II recommendations
+
+Level III recommendations
+
+(I) AI (1A)
+
+TAM (2B)
+
+(II) Fulvestrant (2A)
+(III) Fulvestrant + CDK4/6 inhibitors
+(2A)
+
+TAM failure
+
+Non-steroidal AI failure
+
+(I) AI + abemaciclib (1A)
+
+(I) AI (2A)
+
+(II) AI + chidamide (1A)
+
+(II) Fulvestrant (2A)
+
+(III) AI + palbociclib (1B)
+
+(III) Fulvestrant + CDK4/6 inhibitors
+(1B)
+
+(I) Fulvestrant + abemaciclib (1A)
+
+(I) Steroid AI + CDK4/6 inhibitor (2A)
+
+(I) Steroidal AI (2B)
+
+(II) Steroidal AI + chidamide (1A)
+
+(II) Fulvestrant (2A)
+
+(II) Fulvestrant + steroidal AI
+
+(III) Fulvestrant + dalpiciclib (2A)
+
+(III) Steroid AI + everolimus (IB)
+
+(III) TAM or toremifene (2B)
+
+(IV) Fulvestrant + palbociclib (1B)
+Steroidal AI failure
+
+(I) Fulvestrant + abemaciclib (1A)
+
+(I) Fulvestrant (2A)
+
+(I) Non-steroidal AI (2B)
+
+(II) Fulvestrant + dalpiciclib (2A)
+
+(II) Non-steroid AI + CDK4/6 inhibitor
+(2A)
+
+(II) TAM or toremifene (2B)
+
+(III) Fulvestrant + palbociclib (1B)
+CKD4/6 inhibitor failure
+
+(IV) Progesterone (2B)
+
+−
+
+(III) Progesterone (2B)
+
+(I) Chidamide + ET (2A)
+
+(I) Progesterone (2B)
+
+(II) Another CDK4/6 inhibitor + ET (2A)
+
+(II) Toremifene (2B)
+
+(III) Participates in rigorously-designed
+clinical trial
+AI, artificial intelligence; TAM, tamoxifen; ET, endocrine therapy.
+
+in large randomized controlled clinical studies. Drugs
+should be reasonably selected based on the patients’
+general conditions and the availability of drugs in China.
+If the disease progresses despite AI treatment, other drugs
+including progesterone (medroxyprogesterone or megestrol),
+toremifene, and TAM may also be used in the endocrine
+therapy for advanced breast cancer. Although there are no
+relevant evidences from large randomized controlled clinical
+studies, these drugs may be reasonably selected based on the
+patients’ general conditions and the availability of drugs in
+China.
+Breast cancer bone metastasis
+Bone emission computed tomography (ECT) and other
+examinations should be performed to identify any possible
+bone metastasis in breast cancer patients who suffer
+from symptoms such as bone pain or have any of the
+following conditions: (I) hypercalcemia, elevated alkaline
+phosphatase, and elevated lactate dehydrogenase; (II)
+© Translational Breast Cancer Research. All rights reserved.
+
+abnormally elevated tumor markers (e.g., CEA and CA153);
+and/or (III) suspicious bone metastasis on other imaging
+modalities (1). However, abnormal tracer uptake on bone
+scan cannot ensure the diagnosis of bone metastases.
+ECT is recommended for the routine screening of breast
+cancer patients with suspicious bone metastasis symptoms
+including bone pain, pathologic fracture, increased alkaline
+phosphatase level, and hypercalcemia. It can also be used for
+routine examinations in patients with locally advanced breast
+cancer (above T3N1M0) and/or recurrent/metastatic breast
+cancer. If ECT reveals abnormal tracer uptake, CT using a
+bone window setting should be performed. If the original
+osteolytic lesion is transformed into bone calcification and
+the newly added lesions also show bone calcification, the
+treatment should be evaluated as effective. If the newly
+added lesions with increased tracer uptake exhibit the
+appearance of osteolytic lesions, it can be evaluated as “PD”.
+Magnetic resonance imaging (MRI) is more sensitive but
+less specific than CT. MRI has definite advantages over CT
+in identifying neurovascular compression, vertebral body
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+Page 19 of 28
+
+Table 19 Recommendations of bone modifying agents for breast cancer
+Level I recommendations
+
+Level II recommendations
+
+Level III recommendations
+
+Zoledronic acid (1A); denosumab (1A);
+ibandronic acid (2A)
+
+Loading-dose ibandronic acid (2A); pamidronate
+disodium (1B)
+
+Clodronate disodium (2B)
+
+involvement, and spinal stability. It is an important tool for
+deciding the appropriateness of surgery and radiotherapy for
+bone metastases. However, abnormal MRI findings alone is
+not sufficient to make a diagnosis of bone metastasis, which
+should be based on other examinations/tests. Pathological
+examination of bone biopsy samples can help diagnose
+breast cancer bone metastases. For clinically suspicious bone
+metastases, especially in patients with a single bone lesion,
+bone biopsy should be performed to confirm the diagnosis.
+PET-CT is highly sensitive and specific in detecting the
+abnormal signals of breast cancer bone metastasis. However,
+the value of PET/CT in diagnosing bone metastasis still
+requires further investigations. Currently, it is not routinely
+recommended in clinical settings.
+Clinically, skeletal-related events (SREs) include
+pathological fractures (vertebral fractures, non-vertebral
+fractures, and compression or deformation of the vertebral
+body), spinal cord compression, bone radiotherapy (for bone
+pain or for the prevention/treatment of pathological fractures
+or spinal cord compression), and bone surgery. SREs such
+as bone pain and bone injury are common complications of
+breast cancer bone metastasis and can seriously undermine
+quality of life. Among them, spinal cord compression is
+a cancer-related emergency requiring multidisciplinary
+consultations (including the inputs of orthopedic experts).
+Corticosteroids and dehydration treatment should be
+applied to promptly relieve the compression and reduce the
+limb dysfunction and even paraplegia caused by spinal cord
+compression (see Expert Consensus on Breast Cancer Bone
+Metastasis) (48) (Table 19).
+The main goals of treatment for breast cancer bone
+metastases are to prevent and treat bone-related events,
+relieve pain, restore function, improve quality of life,
+control tumor progression, and prolong survival. The
+treatment of breast cancer bone metastasis should be based
+on systemic therapies including chemotherapy, endocrine
+therapy, molecularly targeted therapy, and immunotherapy.
+Factors affecting the choice of systemic treatment include:
+(I) the HR status and HER2 status; (II) age and menstrual
+status; and (III) whether the disease progresses slowly.
+Breast cancer bone metastasis generally is not directly lifethreatening. Endocrine therapy is preferred in patients
+© Translational Breast Cancer Research. All rights reserved.
+
+with HR-positive tumors that progress slowly and show
+no primary endocrine resistance. For patients with ERand PR-negative tumors, short postoperative DFI, rapid
+disease progression, or HR-positive tumors and with
+primary endocrine resistance, single-agent chemotherapy
+is preferred in patients with a single bone metastasis or
+asymptomatic visceral metastasis, whereas combination
+chemotherapy should only be considered for patients with
+bone metastases requiring rapid symptom control or those
+with symptomatic visceral metastases. For patients with
+HER2-positive bone metastases, the treatment principle is
+the same as that for patients with metastases to other sites—
+combination with an HER2-targeted therapy is preferred.
+The purposes of surgical treatment are to improve the
+patients’ quality of life by resolving nerve compression,
+alleviating pain, and restoring limb functions. Patients
+with bone metastasis must be closely followed up. A proper
+decision-making on the surgery on the long bones with
+potentially pathological fractures is critically important to
+improve the patients’ quality of life if an effective surgical
+treatment is performed before fracture and/or before
+spinal cord compression. Surgical procedures for breast
+cancer bone metastases include simple internal fixation,
+debridement plus internal fixation, lesion resection plus
+artificial joint replacement, decompression after spinal
+cord compression, and reconstruction for increasing spinal
+stability. Fixation can be selectively applied for pathological
+fracture or spinal cord compression, especially in breast
+cancer bone metastasis patients with an expected survival
+time of >3 months. Prophylactic fixation can be selectively
+applied in breast cancer bone metastasis patients meeting
+one or more of the following criteria: femoral metastasis
+sized >2.5 cm; metastasis to the neck of femur bone; bone
+cortical destruction >50%% and/or with an expected
+survival time of >3 months. After the bone metastases
+have been with multidisciplinary treatments, orthopedists
+should be timely consulted to determine the timing of
+surgery. Mirels classification is useful for assessing the risk
+of pathological fracture of long bones and determining the
+surgical indications.
+The main purposes of radiotherapy in patients with breast
+cancer bone metastasis is to relieve bone pain and reduce
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 20 of 28
+
+the risk of pathological fractures. Its combinations with
+bone-modifying agents or molecularly-targeted antitumor
+agents can effectively improve the treatment effectiveness.
+Radiotherapy includes external-beam irradiation and
+radionuclide therapy. External-beam irradiation is a
+common effective method during the palliative therapy for
+bone metastases. The main indications of external-beam
+irradiation include: symptomatic bone metastases, for which
+the treatment is to alleviate pain and restore functions;
+and, selectively used for the prophylactic radiotherapy of
+metastasis to weight-bearing bones (e.g., spine and femur);
+and palliative radiotherapy after simple internal fixation,
+decompression, and reconstruction of spinal stability. The
+doses of external-beam irradiation include 40 Gy/20 fractions,
+20 Gy/5 fractions, and 8 Gy/fraction. These doses have
+comparable efficacy in acute analgesia, and pain relief can be
+achieved for 23–35 weeks, although the dose of 8 Gy/session
+has a relatively high re-treatment rate. Clinically, appropriate
+radiotherapy fractionation should be selected according to
+the expected survival time and the tolerance dose of normal
+tissues related to the metastases. Single 8 Gy fraction is
+recommended for palliative radiotherapy in patients with
+limited life expectancy. Effective external-beam irradiation
+can achieve symptom relief in 50–80% of bone metastasis
+patients and achieve complete response in approximately 1/3
+of patients; notably, such effect can last a long period of time.
+Stereotactic radiotherapy (SRT) has been increasingly used
+in bone metastases, with the advantage of providing a steep
+dose falloff around the target, which ensures the sparing
+of the normal tissue and/or the critical structures near the
+target. With the main indication being spinal metastatic
+lesions, SRT is more advantageous for patients with
+recurrent symptoms that require retreatment. Radionuclide
+therapy is useful in easing diffuse pain due to bone metastasis;
+however, in some patients, radionuclide therapy may result
+in high incidence of bone marrow suppression, which can
+only be restored slowly (about 12 weeks) and thus affect the
+implementation of chemotherapy. Therefore, the clinical use
+of radionuclide therapy should only be performed in carefully
+selected cases at the right time.
+Breast cancer brain metastasis
+Brain metastasis includes parenchymal and meningeal
+metastases. The clinical manifestations of brain parenchymal
+metastasis mainly include increased intracranial pressure and
+neurological dysfunction. The main symptoms and signs
+of increased intracranial pressure are headache, vomiting,
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Translational Breast Cancer Research, 2022
+
+and optic disc edema, which may be accompanied by
+increased blood pressure, visual disturbances, disturbances
+of consciousness, and incontinence. Due to the different
+locations of brain metastases, different symptoms and signs
+such as mental symptoms, epileptic seizures, aphasia, and
+visual field damage may occur.
+The risk of brain metastasis is rising in patient with
+advanced breast cancer, mainly due to the following two
+reasons: (I) the availability of more effective systemic
+treatment of breast cancer has prolonged the survival of
+patients; and (II) the application of brain MRI has enabled
+the detection of more patients with asymptomatic brain
+metastases. The incidence of brain metastasis differs in
+patients with different types of breast cancer. Generally,
+the risk of brain metastasis is relatively high in patients
+with TNBC or HER2 positive breast cancer, suggesting
+the importance of monitoring the occurrence of brain
+metastasis in these patients. In addition, studies have shown
+that high histological grade High proliferative activity of
+the primary tumor, young age, high tumor burden, and
+BRCA gene mutations are also high-risk factors for brain
+metastasis. The most common site of brain metastases is the
+cerebrum. Less often, cancer spreads to the cerebellum and
+brain stem.
+Meningeal metastasis is often associated with meningeal
+irritation, which is manifested as headache, vomiting,
+stiff neck, cognitive impairment, confusion, and epileptic
+seizures. It may be accompanied by cranial nerve damage
+and increased intracranial pressure. If the tumor also
+spreads along spinal membrane, spinal cord and spinal nerve
+root stimulation can occur, which is manifested as radicular
+pain and segmental sensory disturbance.
+There are many ways to diagnose brain metastases, but
+with different roles. Contrast-enhanced MRI of the head
+is more sensitive for small lesions, edema, and meningeal
+metastases than contrast-enhanced CT and should be used
+as the preferred imaging method for the diagnosis of brain
+metastases. Contrast-enhanced CT can be performed in
+patients with contraindications for cranial MRI. PET/
+CT can reflect the difference in metabolic status between
+tumors and normal tissues, which is helpful for tumor
+diagnosis. However, it is not sensitive for small metastases
+in the brain. Thus, the clinical diagnosis of small metastases
+should also be based on the findings of contrast-enhanced
+MRI or contrast-enhanced CT of the head. Patients
+with central nerve metastasis-associated symptoms but
+without intracranial space-occupying lesions on MRI/CT
+should undergo lumbar puncture, which not only allows
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+the measurement of cerebrospinal fluid pressure (CSFP)
+but also enables the routine, biochemical, and cytological
+examinations of the cerebrospinal fluid (CSF). However,
+CSF examination in patients with intracranial hypertension
+may increase the risk of brain herniation.
+The treatment of brain metastases from breast cancer
+should follow a multidisciplinary treatment model, and
+the aim of treatment is to metastatic lesions, improve
+patient symptoms, improve quality of life, and maximize
+the survival time of patients. The treatments of breast
+cancer brain metastasis include surgery, radiotherapy,
+chemotherapy, and symptomatic/supportive treatment. The
+general treatment principle is: surgery and/or radiotherapy
+for brain metastases is preferred after comprehensive
+whole body assessment, and meanwhile a rational systemic
+treatment protocol can also be considered. Radiotherapy
+mainly includes whole-brain radiotherapy (WBRT) and
+SRT. For HER2-positive asymptomatic patients with
+limited number of brain metastases, systemic therapy can
+also be given first.
+For patients with recurrence after local treatment of
+brain metastases, re-operation or SRT may be considered if
+there is no history of intracranial radiotherapy, the general
+condition is good, and the extracranial lesions are well
+controlled. WBRT (SRT with hippocampal protection) may
+also be considered, along with the use of memantine. If the
+size of the metastasis exceeds the indications of SRT and
+is not suitable for re-operation, WBRT can be considered.
+For patients experience relapse after WBRT, SRT can be
+considered. If relapse occurs after SRT, SRT or WBRT can
+be repeated. In short, the treatment strategy for recurrence
+after local treatment of brain metastases should consider
+the patient’s physical condition, the control of extracranial
+lesions, the patient’s quality of life, and the possible benefit
+from treatment.
+Many studies have confirmed that less than 10% of
+patients presented with brain metastases within 5 mm
+of the hippocampus and no patient presented with a
+metastasis in the hippocampus itself. Among patients who
+had achieved the same degree of disease control in the
+RTOG 0933 study, WBRT with hippocampal avoidance
+reduced cognitive function decline by 30% compared with
+traditional WBRT. In the RTOG 0614 study, WBRT
+combined with memantine reduced cognitive function
+decline by 22%. In the NRG-CCG01 study, WBRT with
+hippocampal avoidance decreased cognitive function decline
+by 58% compared with conventional WBRT. Therefore,
+WBRT with hippocampal avoidance, combined with
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Page 21 of 28
+
+memantine if appropriate, is recommended for patients with
+good systemic condition, satisfactory control of extracranial
+lesions, and a distance of not less than 1cm between the
+lesion and the hippocampus, because such a protocol has
+high efficiency and low toxicity.
+While there is no standard treatment for meningeal
+metastases, radiotherapy, intrathecal injection therapy,
+systemic therapy, and supportive therapy are all possible
+options based on the prognostic prediction and after
+multidisciplinary consultations. WBRT can be used for
+patients with extensive nodular lesions or symptomatic
+linear meningeal metastases, whereas focal radiotherapy
+is commonly indicated the treatment of localized,
+symptomatic meningeal metastases. Once cancer cells are
+detected in cerebrospinal fluid, intrathecal injection therapy
+can be considered, with attention to adverse effects.
+Generally, the effectiveness of medications is far from
+satisfactory in treating breast cancer brain metastasis. Studies
+have shown that chemotherapy drugs including capecitabine,
+topotecan, and temozolomide may achieve certain responses
+in patients with brain metastases. In a phase II clinical study,
+lapatinib combined with capecitabine showed preliminary
+anti-tumour activity on intracranial and extracranial lesions.
+The median OS reached 17 months in patients treated with
+lapatinib combined with capecitabine followed by WBRT,
+and WBRT after drug treatment did not affect the overall
+efficacy. The HER2CLIMB study showed that tucatinib
+combined with trastuzumab and capecitabine significantly
+improved overall survival in patients with brain metastases
+compared to trastuzumab combined with capecitabine only.
+Other anti-HER2 small-molecule tyrosine kinase inhibitors
+(e.g., neratinib) have also shown certain activities against
+brain metastases. The PERMEATE study (49) investigated
+the efficacy and safety of pyrotinib in combination with
+capecitabine in the treatment of HER2-positive breast
+cancer brain metastases; it was found that the ORR of CNS
+was up to 74.6% in patients with brain metastases without
+local radiotherapy and was 42.1% in patients with brain
+metastases that progressed again after local radiotherapy,
+providing new evidence for the use of pyrotinib in patients
+with brain metastases.
+Symptomatic and supportive treatment is one of the
+main treatments for breast cancer brain metastases as it
+can improve the quality of life of patients and help the
+implementation of radiotherapy and drug treatment.
+For patients with intracranial hypertension, mannitol,
+glucocorticoids (e.g., dexamethasone), diuretics, and other
+drugs should be routinely used to alleviate the symptoms
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 22 of 28
+
+Translational Breast Cancer Research, 2022
+
+Table 20 Treatment of breast cancer brain metastases
+Stratification
+
+Level I recommendations
+
+Level II recommendations
+
+For patients presenting
+with a limited number of
+brain metastases
+
+(I) Well-controlled extracranial disease,
+KPS ≥60 points
+
+(I) SRT may be considered for lesions sized
+≤3.5 cm (1B)
+
+(i)
+
+Surgical resection (1A); postoperative SRT to the
+resection cavity
+
+(II) SRT may be considered for inoperable lesions
+(1B)
+
+(ii) Direct SRT for patients who do not need surgery
+or with biopsy-confirmed metastases
+
+(III) Anti-HER2 therapy can be considered firstly in
+HER2-positive patients with controllable local
+symptoms (2A)
+
+(II) Poorly-controlled extracranial disease, with low
+KPS score
+(i)
+
+(IV) WBRT (with hippocampal avoidance)
+
+Whole-brain radiotherapy (WBRT) (2A)
+
+(ii) Supportive care (2A)
+For patients with diffuse
+brain metastases
+
+WBRT (with hippocampal avoidance) (1A)
+
+Anti-HER2 therapy can be considered firstly in HER2positive patients with controllable local symptoms
+(2A)
+
+Meningeal metastasis
+
+Radiotherapy (2A)
+
+Intrathecal injection (2B)
+
+SRT, stereotactic radiotherapy; WBRT, Whole-brain radiotherapy.
+
+of cerebral edema. For patients with intractable brain
+edema after radiotherapy, bevacizumab may be given
+to attenuate brain edema. It is usually administered at
+7.5 mg/kg once every 2 weeks for a median of 4 cycles.
+Patients with epilepsy should be treated with antiepileptic
+drugs (Table 20).
+Management of breast cancer patients during
+pandemic of coronavirus disease 2019 (COVID-19)
+In 2020, the COVID-19 pandemic posed huge challenge to
+the standardized diagnosis and treatment of breast cancer.
+In the context of COVID-19, medical professionals have to
+adjust the diagnosis and treatment plans based on research
+evidence and expert experience. With the normalization of
+COVID-19 prevention and control worldwide, the expert
+group made the following recommendations for breast
+cancer treatment based on the original strategies and realworld data (50).
+Patient manage during the preoperative neoadjuvant
+treatment
+During the preoperative neoadjuvant therapy for HER2positive patients, combination with albumin paclitaxel may
+be considered on top of trastuzumab plus patuximab. For
+TNBC, chemotherapy (e.g., albumin paclitaxel) may be
+
+© Translational Breast Cancer Research. All rights reserved.
+
+applied alone or in combination with weekly carboplatin,
+during which the treatment response should be closely
+observed, and the medications should be timely adjusted
+according to the blood cell amounts
+Patient manage during the postoperative adjuvant treatment
+The indications for adjuvant chemotherapy should be strictly
+followed, and unnecessary chemotherapy should be avoided.
+For patients who need chemotherapy, carefully weigh the pros
+and cons and try to choose a chemotherapy regimen with low
+risk of granulocytopenia. Strictly calculate the chemotherapy
+dose and never exceed the maximum recommended dose.
+Prophylactic WBC-raising measures should be strictly
+implemented during chemotherapy, for which long-acting
+granulocyte colony-stimulating factor is recommended.
+In terms of adjuvant endocrine therapy for HR-positive
+patients, oral AIs are preferred for postmenopausal women,
+oral tamoxifen is the treatment of choice for low-risk
+premenopausal patients, and a once-every-3-month longacting agent may be used in high-risk patients who need
+ovarian function suppression.
+Management of recurrent/metastatic breast cancer
+For HR-positive patients experiencing recurrence/
+metastasis, endocrine therapy is preferred as it helps reduce
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+the risk of infection. Endocrine therapy combined with
+targeted drugs can improve the efficacy, and therefore such
+combinations can be considered if conditions allow. For
+safety considerations, however, the use of such combinations
+must be strictly indicated. Use drugs with low pulmonary
+toxicity whenever possible.
+For patients with HER2-positive recurrent/metastatic
+breast cancer, taxanes combined with trastuzumab is the
+preferred first-line treatment and may be continued if a
+clinical response is achieved. When second- or later-line
+therapies are required for patients with HER2-positive
+advanced breast cancer, use orally-administered targeted
+drugs whenever possible, which can be administered alone
+or in combination with oral chemotherapy drugs.
+For patients with advanced TNBC, single-agent
+chemotherapy can be used, which is more convenient
+for safety management and regimen adjustment. Oral
+chemotherapy drugs such as capecitabine and vinorelbine
+can also be considered. In patients who cannot continue
+to receive infusion chemotherapy, switching to oral
+chemotherapy may be feasible.
+Patient management in special periods
+Whole-process case management is particularly important
+in the context of COVID-19 pandemic or during other
+major public health emergencies. The general principle is
+to minimize the impact of COVID-19 on tumor treatment,
+protect tumor patients from virus infection, and maximize
+the continuity of anti-tumor therapy.
+COVID-19 vaccination in patients with breast
+cancer
+Strong evidence shows COVID-19 vaccination is one of the
+most effective means in preventing SARS-CoV-2 infection,
+alleviate the symptoms of COVID-19, and lower the casefatality rate. It is a key measure to establish herd immunity.
+However, while breast cancer patients are also part of the
+“herb”, controversies remain no direct evidence on whether
+breast cancer patients can receive COVID-19 vaccination
+and on the timing of vaccination. Surveys in China and
+abroad have shown that the vast majority of breast cancer
+patients are willing to be vaccinated against COVID-19. By
+referring to academic articles on COVID-19 and the safety
+data of other vaccines, the CSCO BC expert group reached
+a consensus on COVID-19 vaccination after consultations
+and voting (51). The main recommendations are as follows.
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Page 23 of 28
+
+Necessity for COVID-19 vaccination among breast cancer
+patients
+The vast majority of breast cancer patients do not have
+immunity against SARS-CoV-2; even worse, they may
+be susceptible to COVID-19 due to the compromised
+immune status. After careful consideration of the safety and
+effectiveness of COVID-19 vaccination, most of the experts
+believe that when condition allows, breast cancer patients
+should timely receive COVID-19 vaccine.
+COVID-19 vaccination in patients with breast cancer
+Unvaccinated patients with pathologically confirmed breast
+cancer should undergo surgery first, followed by selective
+vaccination according to the recovery status; if only the
+first dose of COVID-19 vaccine has been administered, it
+is recommended that the patient receive the surgery 1 week
+after the first dose or 1 week before the second dose. The
+interval between surgery and vaccination should be more
+than 1 week. In addition, nearly half of the experts believe
+that the decision to vaccinate is not associated with the
+surgical procedure; rather, more attention should be paid on
+the physical recovery after surgery.
+Timing of COVID-19 vaccination in patients with
+early-stage breast cancer
+COVID-19 vaccination should be suspended in patients who
+are receiving neoadjuvant chemotherapy or neoadjuvant
+chemotherapy plus targeted therapies; for patients receiving
+neoadjuvant endocrine therapy, COVID-19 vaccination
+may be initiated after careful assessment.
+It is recommended to suspend COVID-19 vaccination in
+breast cancer patients undergoing adjuvant chemotherapy,
+and the vaccination may be initiated one month after
+completion of adjuvant chemotherapy. For breast cancer
+patients who have already received their first dose of
+COVID-19 vaccine, the vaccination can be completed as
+planned; however, concurrent chemotherapy should be
+avoided.
+COVID-19 vaccination after assessment is recommended
+for patients receiving postoperative adjuvant targeted
+therapy alone or combined with adjuvant endocrine
+therapy. COVID-19 vaccination is recommended for
+patients receiving adjuvant endocrine therapy. COVID-19
+vaccination is not recommended for breast cancer patients
+receiving postoperative adjuvant radiotherapy.
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Page 24 of 28
+
+Timing of COVID-19 vaccination among patients with
+advanced breast cancer
+The physical status and immune function of patients with
+recurrent/metastatic breast cancer are quite different
+from those in the early-stage patients, and the decision to
+vaccinate or not should be based on criteria different from
+those for early-stage breast cancer patients.
+COVID-19 vaccination may be considered during oral
+capecitabine treatment after careful assessment.
+COVID-19 vaccination is not recommended for patients
+who are orally administered with pyrotinib, CDK4/6
+inhibitors, or chidamide.
+COVID-19 vaccination is also not recommended for
+patients using PD-1/PD-L1 inhibitors.
+Timing of COVID-19 vaccination for patients
+participating in clinical trials
+For patients participating in a clinical trial, it is recommended
+that decision on COVID-19 vaccination should be made on
+the basis of the specific protocols of clinical trials and the
+stages of the research. If a patient has already received the
+first dose of COVID-19 vaccine before entering the subject
+screening period, he or she can complete the vaccination as
+planned and then the suitability or eligibility for the study
+will be re-considered. If the patient has already entered the
+subject screening period, it is recommended to suspend
+COVID-19 vaccination. COVID-19 vaccination should
+be avoided as much as possible during the initial phase of a
+clinical trial, so as to avoid any impact on the interpretation
+of study results. Patients achieving stable disease after
+treatment and entering the maintenance phase of the study
+or the follow-up period may receive the COVID-19 vaccine.
+Artificial intelligence (AI)-assisted
+decision-making on diagnosis and treatment
+AI represents a new direction in the era of precision
+medicine. Big data, deep learning, advances in computing
+technology, and new healthcare model have offered
+opportunities for the development of AI in medicine. AI has
+been applied in medical imaging, pathology, and decision
+support systems.
+Intelligent imaging helps tumor diagnosis and response
+evaluation
+Intelligent imaging technologies have played certain roles
+© Translational Breast Cancer Research. All rights reserved.
+
+Translational Breast Cancer Research, 2022
+
+in lesion diagnosis, response evaluation, and even molecular
+type prediction. When applied to distinguish benign and
+malignant lesions based on plain and enhanced images, the
+intelligent imaging was only inferior to senior radiologists
+with 20 years of experience. It was also found that the threedimensional (3D) imaging information integrating clinical
+information and dynamically enhanced imaging information
+can be used as a biomarker to identify molecular subtypes
+of breast cancer, especially when applied for the prediction
+of TNBC. Al-assisted diagnosis can help doctors diagnose
+diseases more quickly and accurately, thus improving the
+efficiency and accuracy of diagnoses.
+AI-based pathology accelerates the qualitative and
+quantitative identification of tumors
+AI-based pathology has been applied in a variety of tumors
+(e.g., breast cancer), mainly for cytological screening,
+differentiation of malignant from benign lesions,
+morphological quantitative analysis, and histological
+classification. It was found that the HER2 scoring results
+for breast cancer specimens were highly agreed between
+an AI-based pathology system and human pathologists.
+In terms of molecular pathology, AI-based analysis of the
+massive genetic information has become an indispensable
+element for the development of precision medicine. AIbased pathology reduces the workload of pathologists;
+more importantly, it makes up for the shortcomings of
+the subjective analysis performed by human pathologists,
+improves the qualitative and quantitative identification of
+tumors, increases the accuracy of pathological diagnoses,
+and offers patients with personalized treatment opinions
+and improved cancer prognosis prediction. Thus, it
+promotes the development of precision pathology.
+Intelligent decision-making enriches the clinical
+decision-making models
+R&D of intelligent decision-making systems is to integrate
+the learning and analysis capabilities of AI tools and the
+experience of human experts, thus optimizing decisionmaking process. The CSCO BC collaboration team
+compared the decision-making performance between an
+AI system and professional doctors in 2,000 cases (52) and
+found that the IBM-system Watson for Oncology (WFO)
+had good feasibility and effectiveness in decision-making
+for breast cancer treatment. It helped clinicians save
+time and effort, and its auxiliary applications can further
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+Translational Breast Cancer Research, 2022
+
+improve the standardization of decision-making by human
+doctors.
+Meanwhile, intelligent decision-making systems with
+independent intellectual property rights have also emerged
+in China. The phase III clinical study of breast cancer
+intelligent decision-making based on CSCO BC big data
+and CSCO BC guidelines suggested that the intelligent
+decision-making system based on CSCO guidelines
+on breast cancer diagnosis and treatment had good
+performance in decision-making for different types of breast
+cancer at different stages. In 2019, the CSCO AI system (53)
+was officially released, and its nationwide application has
+dramatically promoted the development of intelligent
+decision-making systems in China. As an important medium
+for disseminating CSCO BC guidelines and promoting
+standardized diagnosis and treatment, CSCO AI has
+integrated five key functions including intelligent decisionmaking, evidence support, toxicity alert, cost estimation,
+and patient follow-up. In 2021, based on the original
+functions, CSCO AI adds new functions including patient
+toxicity management, clinical study enrollment reminders,
+and bone metastasis diagnosis and treatment reminders,
+thus promoting the clinical application of the intelligent
+system.
+We will also regularly collect clinical information and user
+feedback to further optimize the CSCO AI system, establish
+and improve a medical ecosystem comprised of intelligent
+decision-making, toxicity alert, disease management, and
+resource sharing, integrate case management systems, and
+provide assistance to the full-course management of Chinese
+breast cancer patients.
+AI represents a future. Intelligent systems can not only
+help clinicians save time and energy but also will further
+improve the precise diagnosis and treatment of tumors.
+Therefore, the expert group encourages the implementation
+of AI-related clinical research and the R&D of AI systems
+with independent intellectual property rights in China.
+Acknowledgements
+CSCO BC guideline working groups: Zefei Jiang, Erwei
+Song, Cuizhi Geng, Yueyin Pan, Xiaojia Wang, Haibo
+Wang, Shuseng Wang, Xiang Wang, Jiong Wu, Yongmei
+Yin, Qingyuan Zhang, Junwen Bai, Jiayi Chen, Qianjun
+Chen, Wenyan Chen, Xiaoyuan Chen, Zhanhong Chen,
+Zhimin Fan, Peifen Fu, Rui Ge, Baoliang Guo, Chunfang
+Hao, Yingjian He, Feng Jin, Man Li, Nanlin Li, Xiaomei Li,
+Hongyuan Li, Xu Liang, Ning Liao, Jian Liu, Qiang Liu,
+
+© Translational Breast Cancer Research. All rights reserved.
+
+Page 25 of 28
+
+Shu Liu, Yi Liu, Yueping Liu, Yunjiang Liu, Zhenzhen Liu,
+Jie Ma, Xueli Mo, Jianyun Nie, Quchang Ouyang, Wenxing
+Qin, Jing Shi, Chuangui Song, Gang Sun, Tao Sun, Kun
+Wang, Mopei Wang, Shu Wang, Tao Wang, Xin Wang,
+Biyun Wang, Jiandong Wang, Yongsheng Wang, Ling Xu,
+Min Yan, Ying Yan, Hua Yang, Junlan Yang, Peng Yuan,
+Xuan Zeng, Fang Zhang, Jian Zhang, Jun Zhang, Haiqing
+Zhang, Jianguo Zhang, Shaohua Zhang, Jianbin Li.
+Funding: None.
+Footnote
+Conflicts of Interest: The authors have completed the
+ICMJE uniform disclosure form (available at https://tbcr.
+amegroups.com/article/view/10.21037/tbcr-22-21/coif).
+ZJ serves as the Editor-in-Chief of Translational Breast
+Cancer Research. JL serves as an unpaid Managing Editor
+of Translational Breast Cancer Research. ES, XW, YY, JC,
+SW and YL serve as unpaid editorial board members of
+Translational Breast Cancer Research from March 2022 to
+February 2024. CH, KW, JN serve as unpaid editorial board
+members of Translational Breast Cancer Research from May
+2021 to April 2023. The authors have no other conflicts of
+interest to declare.
+Ethical Statement: The authors are accountable for all
+aspects of the work in ensuring that questions related
+to the accuracy or integrity of any part of the work are
+appropriately investigated and resolved.
+Open Access Statement: This is an Open Access article
+distributed in accordance with the Creative Commons
+Attribution-NonCommercial-NoDerivs 4.0 International
+License (CC BY-NC-ND 4.0), which permits the noncommercial replication and distribution of the article with
+the strict proviso that no changes or edits are made and the
+original work is properly cited (including links to both the
+formal publication through the relevant DOI and the license).
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+1.
+
+Gianni L, Pienkowski T, Im YH, et al. 5-year analysis
+of neoadjuvant pertuzumab and trastuzumab in patients
+with locally advanced, inflammatory, or early-stage
+HER2-positive breast cancer (NeoSphere): a multicentre,
+open-label, phase 2 randomised trial. Lancet Oncol
+2016;17:791-800.
+
+Transl Breast Cancer Res 2022;3:13 | https://dx.doi.org/10.21037/tbcr-22-21
+
+

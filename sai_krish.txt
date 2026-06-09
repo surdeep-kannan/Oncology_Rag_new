@@ -1,0 +1,50 @@
+Q51: Which cancer type has the highest burden in India as of 2018?
+Q52: Define the exposome in cancer research.
+Q53: What are the essential tests for the diagnostic workup of buccal mucosa cancer?
+Q54: What does TNM stand for in oncology?
+Q55: What is the timing for voice restoration with a secondary TEP after radiation?
+Q56: How do glutathione S-transferases (GSTM1 null) affect laryngeal cancer risk?
+Q57: What are the common clinical presentations of cholangiocarcinoma?
+Q58: Is surgery with an involved margin followed by radiation an acceptable approach for laryngeal cancer?
+Q59: What is mitotic count conversion in the 5th edition WHO classification?
+Q60: What are the components of the MOVING framework for health promotion?
+Q61: Which cancer registry in India had the highest incidence of laryngeal cancer in men between 2009 and 2011?
+Q62: What is Adenosquamous Carcinoma?
+Q63: How does the survival for pediatric salivary gland tumors compare to adults?
+Q64: What are the indications for neoadjuvant chemotherapy in head and neck cancer?
+Q65: Define the Problem List in distress management.
+Q66: What is the recommended screening test for cervical cancer secondary prevention?
+Q67: What is the gold standard for identifying pulmonary nodules in pediatric patients?
+Q68: How is Basaloid squamous cell carcinoma (BSCC) characterized in the nasopharynx?
+Q69: What is the leading cause of premature death in North America as of current reports?
+Q70: Describe the radiotherapy dose used for palliative treatment in advanced laryngeal cancer.
+Q71: What is the primary risk factor for bladder cancer?
+Q72: What specific imaging modality is preferred for evaluating cartilage invasion in laryngeal cancer?
+Q73: What is Verrucous Carcinoma (VC)?
+Q74: In the Cancer Continuum, what percentage of cancer deaths are preventable by addressing modifiable risk factors?
+Q75: What are the hallmarks of Basaloid-type high-grade dysplasia?
+Q76: What is Genetic Testing specifically looking for in cancer patients?
+Q77: What is the global incidence of hypopharyngeal cancer in Indian males compared to the world average?
+Q78: What is Spindle cell squamous carcinoma (SCSC) and where is its most common site?
+Q79: Describe the EORTC induction chemotherapy protocol for hypopharyngeal cancer.
+Q80: What are the criteria for Stage IVB laryngeal cancer?
+Q81: What is the gold standard multiagent chemotherapy for pediatric Rhabdomyosarcoma?
+Q82: Define surveillance in survivorship care.
+Q83: What is the impact of aflatoxin exposure reduction on liver cancer in China?
+Q84: What imaging scale is used to screen facial nerve function in salivary gland tumors?
+Q85: What is the role of NANOG in laryngeal lesions?
+Q86: Describe the primary treatment for T1N0 glottic carcinoma.
+Q87: What is Sialoblastoma and when is it usually diagnosed?
+Q88: How does accelerated radiotherapy compare to conventional radiotherapy in early disease?
+Q89: What are the common symptoms of stomach cancer worldwide?
+Q90: What is Laryngeal Crepitus in an ENT examination?
+Q91: In pediatric neuroblastoma, what signifies Stage L1?
+Q92: What role does Betel Quid chewing play in cancer epidemiology in India?
+Q93: Describe the components of Sandwich therapy in locally advanced breast cancer.
+Q94: What is Intraductal Carcinoma (IDC) of the salivary gland?
+Q95: What are the primary goals of treatment for carcinoma of the larynx?
+Q96: How is a T3 esophageal tumor defined?
+Q97: What is the Combined Positive Score (CPS) range for predicting immunotherapy response?
+Q98: What is the recommended palliative treatment for esophageal obstruction?
+Q99: What is the significance of perineural invasion in oral cancer prognosis?
+Q100: What is the primary treatment for Stage IVC laryngeal cancer?

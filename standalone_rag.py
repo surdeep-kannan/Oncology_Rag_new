@@ -33,16 +33,14 @@ def main():
         
     print(f"Found {len(results)} chunks. Loading Llama3-Med42-8B GGUF model for CPU...")
     
-    # 3. Download and load Llama 3 GGUF version (Specifically for CPU execution)
-    repo_id = "mradermacher/Llama3-Med42-8B-GGUF"
-    filename = "Llama3-Med42-8B.Q4_K_M.gguf"
-    
-    model_path = hf_hub_download(repo_id=repo_id, filename=filename)
+    # 3. Load Llama 3 GGUF version with extreme memory optimizations
+    gguf_path = "/home/surdeep/.cache/huggingface/hub/models--mradermacher--Llama3-Med42-8B-GGUF/snapshots/7e2883406aaaee888cefbba8a50420062b484fee/Llama3-Med42-8B.Q8_0.gguf"
     
     llm = Llama(
-        model_path=model_path,
+        model_path=gguf_path,
         n_ctx=2048,          # Context window
         n_threads=4,         # Number of CPU threads
+        n_batch=128,
         verbose=False
     )
     
@@ -50,7 +48,7 @@ def main():
     print("\nPreparing prompt...")
     context_str = "\n\n".join([f"Source [{i+1}]: {c.get('content', '')}" for i, c in enumerate(results)])
     
-    prompt = f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+    prompt = f"""<|start_header_id|>system<|end_header_id|>
 
 You are a professional medical assistant. Use the following retrieved context to answer the user's question. 
 If the answer is not in the context, say you don't know based on the provided documents.
@@ -69,7 +67,7 @@ If the answer is not in the context, say you don't know based on the provided do
         echo=False
     )
     answer = response["choices"][0]["text"].strip()
-    
+
     print(answer)
     print("\n" + "="*50)
     

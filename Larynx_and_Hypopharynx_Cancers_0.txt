@@ -1,0 +1,1781 @@
+1
+
+CHAPTER
+
+1. Introduction
+Laryngeal cancer is the second most common Head and Neck Cancer with >1,59,000 new cases and
+90,000 cancer deaths world wide and it forms 2% of all cancers. Laryngeal cancers are more common (9:1)
+among men with a higher incidence in South Asia. Conservative surgery or radiotherapy (RT) offers equal
+cure rates in its early stage although radiation therapy (RT) is more popular worldwide. For intermediate
+and advanced staged tumors, total laryngectomy with post operative RT was the standard of care until
+the Veterans Administration Larynx Study in 1991and other subsequent organ preservation trials which
+established the role of combination of chemotherapy with radiation in the upfront treatment of locally
+advanced laryngeal cancers (stage III and early IV a). Hypopharyngeal cancers although managed in the same
+lines, are more aggressive and liable for treatment failure and low survival. The incidence of hypopharyngeal
+cancers is relatively high in India (approximately 11% against 1% worldwide, among males)1-4.
+1.1 Epidemiology1-4: The age adjusted incidence rates of laryngeal and hypopharyngeal cancers from
+population based cancers registries (PBCR) in India and the international comparison is as follows. Source:
+Three Year report of Population Based Cancer Registration (2009-2011), Incidence and Distribution of
+Cancer 2013, Report of 25 PBCR’s in India, Indian Council of Medical Research 2013).
+Larynx (ICD_10: C32)
+Males: East Khasi Hills District (11.1) had the highest Age adjusted rate (AAR) followed by Aizawl District
+(9.5) and Kamrup urban District, in Assam (8.2).
+
+Fig. - 1
+
+1
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+International Comparison
+Males: Basque Country, Spain was the top with an AAR of 16.1. East Khasi Hills District of Meghalaya
+had an AAR of 11.1 from India.
+GLOBOCAN estimates of world Age standardised incidence rate (ASR) for the year 2008 give the highest
+AAR of 8.3 per 100,000 for Central and Eastern Europe in males.
+
+Fig. - 2
+
+Hypopharynx (ICD-10 C12-C13)
+Males: The AARs of East Khasi Hills District of Meghalaya (21.5) and the state of Meghalaya as a whole
+(17.4) were higher followed by Aizawl District (15.4) of Mizoram.
+Females: Kamrup Urban District (Assam) showed the highest AAR (3.6) followed by Cachar District
+(Assam) (2.6).
+
+Fig. - 3
+
+2
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Fig. - 4
+
+International Comparison
+Males: East Khasi Hills had the highest AAR (21.5) among all the Indian and International PBCRs. The
+top five positions were occupied by five Indian PBCR’s
+Females: Kamrup Urban District (Assam) had the highest AAR (3.6) followed by four more Indian PBCRs
+among all the Indian and International PBCRs.
+
+Fig. - 5
+
+3
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Fig. - 6
+
+4
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+2
+
+CHAPTER
+
+Management of Laryngeal Cancers
+
+2.1 Diagnostic Workup
+Larynx is anatomically divided into
+1. Supraglottic larynx
+2. Glottis
+3. Subglottis
+
+Approach to laryngeal Carcinoma5-44
+Detailed history should include hoarseness, difficulty in breathing, (stridor), choking spells (aspiration),
+difficulty in swallowing (dysphagia) or pain while swallowing (odynophagia), foreign body sensation and ear
+ache. Presence of tracheostomy tube or nasogastric tube needs to be documented. Proper documentation
+of performance and nutrition status is needed.
+Detailed clinical examination of primary and neck should be carried out in addition to a general examination.
+ENT evaluation includes indirect laryngoscopy (IDL) examination and endoscopic evaluation. Check list
+for ENT examination are the following
+•• Primary site
+•• Nature of growth
+•• Extension into sub sites of larynx
+•• Mobility of vocal cord
+•• Involvement of Anterior commissure
+•• Extension to Oropharynx
+•• Extension into Hypopharynx including post cricoid
+•• Airway evaluation
+•• Laryngeal crepitus
+•• Function of larynx
+Larynx Function: Points to be noted include
+•• Tracheostomy for airway obstruction.
+•• Aspiration requiring hospitalisation up to 6 weeks
+•• Poor (non-serviceable) Voice
+•• Dysphagia requiring nasogastric tube insertion / gastrostomy feeding procedures
+5
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Table 1. Investigations for laryngeal cancer
+Ideal
+••
+••
+••
+••
+••
+••
+*
+**
+
+Essential
+
+X - ray Chest PA view
+Complete blood count , Renal function test, Liver function
+test
+Direct laryngoscopy and biopsy
+CT Scan of neck*
+MRI is useful only in selected patients**
+CT Thorax or PET scan is not recommended in the initial
+evaluation
+
+••
+••
+••
+••
+
+CT Scan can be avoided in patients with T1a mid cord lesion without
+involvement of anterior commissure when radiotherapy is planned.
+MRI is more sensitive in determining cartilage involvement but CT Scan is
+more specific. MRI is better in assessing soft tissue involvement10
+
+*
+*
+
+X-ray Chest PA
+CT Scan*
+Blood counts
+Endoscopy and biopsy
+
+CT Scan is essential for planning surgical conservation10-12 and
+usually high resolution scan with 1 mm slices are required.
+CT Scan is advised based on the economic status, stage of the
+disease, intend of treatment and expertise available
+
+The basic details to be evaluated in the CT scan are the following
+••
+••
+••
+••
+••
+••
+••
+••
+
+Site of the disease
+Larynx
+Anterior commissure
+Post cricoid region
+Other sub sites of larynx
+Cartilages involvement & extent of involvement
+Thyroid gland
+Carotid artery involvement
+
+••
+••
+••
+••
+••
+••
+••
+••
+
+Tumor volume
+Pre-epiglottic space
+Paraglottic space
+Extensions
+Oropharynx or oesophagus
+Extra laryngeal spread
+Pre vertebral fascia involvement
+Lymph Node
+
+2.2 Staging
+Table 2 (a, b & c)
+Table 2a. 2010 American Joint Committee on Cancer Staging 13
+PRIMARY TUMOR (T)
+TX
+
+Primary tumor cannot be assessed
+
+T0
+
+No evidence of primary tumor
+
+Tis
+
+Carcinoma in situ
+
+SUPRAGLOTTIS
+T1
+
+Tumor limited to one subsite of supraglottis with normal vocal cord mobility
+
+T2
+
+Tumor invades mucosa of more than one adjacent subsite of supraglottis or region
+outside the supraglottis (e.g., mucosa of base of tongue, vallecula, medial wall of pyriform sinus) without fixation of the larynx
+
+T3
+
+Tumor limited to larynx with vocal cord fixation and/or invades any of the following:
+postcricoid area, preepiglottic tissues, paraglottic space, and/r minor thyroid cartilage
+erosion (e.g., inner cortex)
+
+6
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+T4a
+
+Tumor invades through the thyroid cartilage and/or invades tissues beyond the larynx
+(e.g., trachea, soft tissues of neck including deep extrinsic muscles of the tongue, strap
+muscles, thyroid, or esophagus)
+
+T4b
+
+Tumor invades prevertebral space, encases carotid artery, or invades mediastinal
+structures
+
+GLOTTIS
+T1
+
+Tumor limited to one (T1a) or both (T1b) vocal cord(s) (may involve anterior or posterior commissure) with normal mobility
+
+T2
+
+Tumor extends to supraglottis and/or subglottis, and/or with impaired vocal cord
+mobility
+
+T3
+
+Tumor limited to the larynx with vocal cord fixation, and/or invades paraglottic space,
+and/or minor thyroid cartilage erosion (e.g., inner cortex)
+
+T4a
+
+Tumor invades through the thyroid cartilage and/or invades tissues beyond the larynx
+(e.g., trachea, soft tissues of neck including deep extrinsic muscles of the tongue, strap
+muscles, thyroid, or esophagus)
+
+T4b
+
+Tumor invades prevertebral space, encases carotid artery, or invades mediastinal
+structures
+
+SUBGLOTTIS
+T1
+
+Tumor limited to the subglottis
+
+T2
+
+Tumor extends to vocal cord(s) with normal or impaired mobility
+
+T3
+
+Tumor limited to larynx with vocal cord fixation
+
+T4a
+
+Tumor invades cricoid or thyroid cartilage and/or tissues beyond the larynx (e.g.,
+trachea, soft tissues of neck including deep extrinsic muscles of the tongue, strap
+muscles, thyroid, or esophagus)
+
+T4b
+
+Tumor invades prevertebral space, encases carotid artery, or invades mediastinal
+structures
+
+Table 2b
+NODAL DISEASE (N)
+NX
+
+Regional lymph nodes cannot be assessed
+
+N0
+
+No regional lymph node metastasis
+
+N1
+
+Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension
+
+N2
+
+Metastasis in single ipsilateral lymph node, more than 3 cm but no more than 6 cm
+in greatest dimension; or in multiple ipsilateral lymph nodes, none more than 6 cm in
+greatest dimension; or in bilateral or contralateral lymph nodes, no more than 6 cm in
+greatest dimension
+
+N2a
+
+Metastasis in single ipsilateral lymph node, more than 3 cm but no more than 6 cm in
+greatest dimension
+
+N2b
+
+Metastasis in multiple ipsilateral lymph nodes, none more than 6 cm in greatest
+dimension
+
+N2c
+
+Metastasis in bilateral or contralateral lymph nodes, none more than 6 cm in greatest
+dimension
+
+N3
+
+Metastasis in a lymph node more than 6 cm in greatest dimension
+
+7
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Table 2c. Overall Stage Grouping
+Stage 0
+Stage I
+Stage II
+Stage III
+Stage IVA
+Stage IVB
+Stage IVC
+
+Tis
+T1
+T2
+T3
+T1-T3
+T4a
+T1-T4a
+Any T
+T4b
+Any T
+
+N0
+N0
+N0
+N0
+N1
+N0-N1
+N2
+N3
+Any N
+Any N
+
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M1
+
+2.3 Treatment
+Goals of treatment
+Multidisciplinary team for treatment includes radiation oncologist, surgical oncologist, medical oncologist,
+radiologist, pathologist, speech therapist, nutrition specialist and clinical psychologist
+Major goals of treatment of carcinoma larynx are the following
+1. To maximize cure
+2. Preserve the function of Larynx
+3. Preserve the quality of voice
+4. Maintain good quality of life
+5. Palliation of symptoms in patients with incurable disease
+The management is divided into
+A.	Management of Early Laryngeal Disease (Stage I, II)
+B. Management of Moderately Advanced Laryngeal disease (Stage III, IVa)
+C.	Management of Very Advanced Laryngeal Disease (Stage IVb, IVc)
+2.4 Stage-wise treatment
+A. Management of early laryngeal disease (Stage I, II)
+Intention of treatment is to achieve maximum cure with good quality of voice. The options are based on
+patient preference and expertise available. Treatment modality is either radiotherapy or surgery. There is
+no significant difference in outcome between radiotherapy or surgery. Quality of voice is generally better
+with Radiotherapy.
+Treatment options for early laryngeal diseaseT1-2N05-8
+Glottic Carcinoma (T1-2 N0)
+1. External beam radiotherapy		
+
+or
+
+2. Transoral laser microsurgery / open partial laryngectomy.
+8
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Patients who undergo surgery should have negative margins. Surgery with involved margin followed by
+post-operative radiotherapy is not an acceptable approach. In early glottis carcinoma (T1, T2N0) disease,
+there is no need to address the lymph nodes.
+Choice is based on expertise available in the Centre
+Supraglottic Larynx (T1-2N0)
+1. External beam radiotherapy		
+
+or
+
+2. Transoral laser microsurgery / open partial laryngectomy.
+Proper evaluation of neck should be done in patients who are undergoing surgery, & because of a higher
+propensity for bilateral lymph node involvement a prophylactic bilateral neck dissection may be needed.
+Radiotherapy (RT) is generally preferred because laryngeal function can be better preserved and neck
+nodes can be more easily tackled by this modality.
+Subglottis (T1-2N0)
+External beam radiotherapy.
+B. Management of moderately advanced laryngeal disease (Stage III, IV)
+Management of advanced laryngeal cancer is a therapeutic challenge. Stage III and Stage IV constitute
+advanced laryngeal cancer. The aim of treatment of Stage III (sometimes referred to as Intermediate
+stage) and Stage IVa disease is to achieve cure and preserve laryngeal function13-26. Palliative treatment is
+generally offered for patients with Stages IVb and IVc.
+Treatment option for locally advanced laryngeal cancer
+T1-2N1 (Stage III)
+1. Concurrent chemo radiation* (CCRT)
+2. Anti Epidermal Growth EGFR monoclonal antibody27-29 + RT	
+3. Radical Radiation (Altered Fractionation)9
+4. Conservation Surgery + Neck dissection +/- RT or CT+RT (margin positive / Extra Capsular Spread
+(ECS)).
+T1-2N2 (Stage IVa)
+1. Concurrent chemo radiation* (CCRT)
+2. Anti EGFR monoclonal antibody + RT
+3. Radical RT
+4. Conservation Surgery + Neck dissection + RT or CT+RT (margin positive / Extra Capsular Spread
+(ECS)).
+Ideal treatment is concurrent chemoradiation. Proper patient selection is the corner stone of treatment. Patient should have
+good performance status (0,1) with good renal function. Anti EGFR antibody + RT should be considered only if the patient
+not fit for chemo RT either by poor performance status or impaired renal function.
+
+9
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+T3N0-1 (Stage III), T3N2 (Stage IVa)
+There are two treatment options for this group of patients without laryngeal dysfunction.
+Organ preservation approach.
+Surgery +/- adjuvant radiotherapy RT or Concurrent chemo radiation (CCRT +RT), If margin is positive
+or perinodal extension).
+1. Organ preservation approach
+Organ preservation should be considered for all patients who have good laryngeal function and intact
+laryngeal framework. The treatment options are:
+i.
+
+Concurrent chemo radiation (CCRT) is the standard treatment. .
+
+If the patient cannot tolerate concurrent chemoradiation
+ii.	Anti EGFR monoclonal antibody with Radical Radiotherapy
+iii. Induction chemotherapy followed by radical radiotherapy- assess the response after
+chemotherapy16-24
+iv.	Radical Radiotherapy by altered fractionation.
+2. Surgery +/- Adjuvant radiotherapy based on clinical and histopathological features
+i.
+
+Conservation laryngeal surgery in highly selected patients.
+
+ii.	Total Laryngectomy (TL) / near total laryngectomy (NTL) - where adequate margins can be achieved
+with preservation of atleast one innervated cricoarytenoid joint.
+Proper patient selection is of prime importance for concurrent chemoradiation. If patients are not suitable
+for CTRT surgical options should be offered. Hemilaryngectomy & Transoral laser microsurgery should be
+done with extreme caution only in those centres with expertise and documented track record of success.
+NTL ± Neck Dissection (ND) adjuvant RT or CT-RT is a viable alternative in trained hands when the
+disease is lateralized to one side without interarytenoid involvement. Patients with laryngeal dysfunction
+are candidates for total laryngectomy followed by post-operative radiotherapy / chemoradiotherapy.
+
+Evaluation after concurrent chemoradiation: Ref Annexure 2
+Treatment of T4aN0-2 (Stage IVa)
+
+Moderately Advanced disease with or without cartilage involvement
+Standard treatment for T4a disease with cartilage involvement is total laryngectomy37-39 and bilateral
+elective neck dissection (Level II-IV in clinically node negative neck and Level II-V in a clinically node
+positive neck) and adjuvant therapy. Voice Rehabilitation should be offered to all suitable patients. Voice
+Rehabilitation: Ref Annexure 3.
+If expertise is available, conservation laryngeal surgery (supracricoid laryngectomy with cricohyoidopexy or
+cricohyoidoepigottopexy) or near total laryngectomy (NTL) with adjuvant radiotherapy may be considered
+in highly selected group of patients.
+Adjuvant therapy in Stage IVa is usually radiotherapy. Adjuvant chemoradiation is indicated in those with
+margin positive or nodes with extra capsular spread40-42. Good performance status is a prerequisite for
+adjuvant chemo radiation.
+10
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Concurrent chemo RT may be suitable for a patient with good performance status, adequate laryngeal
+function and a disease that has not penetrated the thyroid cartilage and a patient who refuses surgery.
+Adjuvant Therapy: Ref Annexure 1
+A practical approach43,44 for bulky T4a cancers with involvement of adjacent hypopharynx without
+laryngeal penetration would be a sequential regime where neoadjuvant chemotherapy (Taxane based
+multidrug therapy) is given and response assessed. If there is more than 50% response the treatment is
+consolidated with concurrent chemoradiation however if the response is stable disease or progression
+total laryngectomy should be considered.
+C. Management of Very Advanced Laryngeal Cancer (IVb, IVc)
+Treatment of T4b or N3 (Stage IVb)
+In general these patients are treated with palliative intent. Treatment with curative intent may be considered
+in patients with good performance status. Situations where radical approach is considered in stage IVB
+disease are
+1. T1-4a primary with operable N3 node in a patient with good performance status. Primary surgery and
+post operative adjuvant therapy or standard chemo radiotherapy may be considered or neoadjuvant
+chemotherapy followed by chemoradiation (those with partial response to NACT can be triaged to
+surgery and adjuvant arm).
+2. Selected T4b disease where nodal burden is low. Standard Chemo RT or induction chemo therapy
+followed by chemoradiation may be considered (sequential regime).
+Elective neck dissection may be considered for patients with N3 disease with operable residual disease
+after chemo radiation provided primary is in clinical remission.
+In the remaining subset of patients with good performance status individualised decisions may be taken
+from the following options
+1. Induction chemotherapy and response assessment followed by chemoradiation (Sequentialchemoradiotherapy in responders without laryngeal cartilage penetration)
+2. Total laryngectomy and post operative adjuvant may be an alternative strategy in border line operable
+cases.
+Stage IVC
+Patients with stage IV C disease are candidates for palliative treatment. Decision regarding local
+radiotherapy or systemic treatment is based on the clinical situation.
+
+11
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Summary of Composite staging and treatment options in Laryngeal cancer (Table 3a & b)
+Table 3
+Stage T1
+
+Stage T2
+
+Stage T3
+
+Stage T4a
+
+Stage T4b
+
+N0
+
+I
+
+II
+
+III
+
+IVA
+
+IVB
+
+N1
+
+III
+
+III
+
+III
+
+IVA
+
+IVB
+
+N2
+
+IVA
+
+IVA
+
+IVA
+
+IVA
+
+IVB
+
+N3
+
+IVB
+
+IVB
+
+IVB
+
+IVB
+
+IVB
+
+M1
+
+IVC
+
+IVC
+
+IVC
+
+IVC
+
+IVC
+
+ Early Disease -RT/Surgery (outcomes are equal)
+ T3 disease -concurrent chemo radiation
+M1 palliative treatment
+ Stage III- Concurrent Chemo RT
+
+ T4a Surgery --® Post op RT (cartilage involvement)
+ T4b Palliative treatment /radical approach in selected cases
+ Stage IVb Radical approach in selected patients
+
+Follow up
+Objectives of follow up are
+1. Detect early recurrences
+2. Evaluation and management of morbidity
+3. Detection of second primary.
+Clinical examination including ENT evaluation is done once in 3 months for the first two years. Once in
+4-6 months from third to fifth year. Yearly follow up after 5 years. TSH evaluation should be done after
+6 months of radiation and periodically.
+Summary
+Before embarking on treatment, proper evaluation of performance and nutrition status is very essential.
+Intention of treatment in early disease is to achieve maximum cure with minimum morbidity. Based
+on the tumour factors, treatment can be either radiotherapy or conservative laryngeal surgery in early
+disease. In addition the treatment decision should take into account patients preference expertise
+available, social support, functional status of the larynx, performance of the patient and the affordability
+of the patient. Proper clinical evaluation and CT scan of neck are mandatory in deciding treatment
+options in locally advanced laryngeal cancer. In patients with good performance and normal creatinine
+clearance, concurrent chemo radiation is the standard of care in stage III and IVa disease without cartilage
+involvement and with a functional larynx. Patients with cartilage involvement (T4a) should generally be
+subjected to primary surgery followed by postoperative radiotherapy. Following surgery, Patients with
+high risk features such as margin positive disease, extra capsular spread should receive post operative
+chemo radiation. Patients with good performance status with stage IVb disease may be considered for
+radical approach on an individual basis. Patients with Stage IVc are candidates for palliative approach.
+Practical aspects in Ca Larynx
+1. Proper Biopsy from the primary site for tissue diagnosis is mandatory
+2. Accurate staging is the most important step in the management.
+12
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+3. Performance status, nutritional assessment, social and family support are key factors in deciding
+treatment.
+4. In T1 or T2 vocal cord, proper attention to be taken to rule out minimal T3 disease and subglottic
+extension and thyroid cartilage involvement in anterior commissure disease.
+5. CT scan is mandatory to rule out T3 and T4 disease.
+6. Patients with laryngeal dysfunction are not candidates for organ preservation approaches.
+7. Organ preservation approach should be avoided in patients having cartilage destruction.
+8. Proper patient selection is needed for concurrent chemoradiation in T3 disease.
+9. Organ preservation approach should be considered for all T3 disease with good laryngeal function.
+10. Avoid unnecessary biopsy for patients who have laryngeal edema after chemoradiation.
+11. Avoid unnecessary investigations and costly chemotherapy in patients who are candidates for palliative
+approach.
+12. Patients should be counselled regarding symptoms and signs of relapse after primary treatment.
+
+13
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Consensus statement on practice
+Flow chart 1.
+Comprehensive Algorithm for Management of Laryngeal Cancer
+Hoarseess and other symptoms
+Performance status (PS)
+Nutritional status
+General examination
+1.	ENT Evaluation-endoscopic assesment includes
+primary site evaluation (extent, morbidity of cord, airway)
+and biopsy
+2. Neck: Nec nodes
+
+Squamous cell Carninoma
+Poor GC
+••
+••
+••
+
+T1N0
+T2N0
+
+CT Scan Neck except for T1a mid cord lesion
+X-ray Chest
+CBC, RFT, LFT, Blood sugar
+
+T1-T2N+, T3N0-N+
+
+•• Concurrent Chemo RT(CCRT)
+	Not suitable for CCRT
+•• Cetuximab + RT
+•• Radical RT
+
+Radical RT or
+Transoral
+Laser ablation/Open
+partial layngectomy
+if expertise available
+
+14
+
+Evaluation after
+Treatment
+
+T4aN0/N+
+(Operable)
+
+Surgery
+Followed by
+Post op RT+/chemo
+
+Radical Treatment
+Young Patient
+Good PS
+Low volume
+primary
+
+T4b or N3
+
+M1
+
+Radical/
+Palliative
+Treatment
+
+Palliative
+Treatment
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Flow chart - 2
+Comprehensive Algorithm for follow up of Organ preservation approach in Laryngeal Cancer
+Evaluation after Treatment
+Clinical examination
+Endoscopic evaluation
+
+8 Weeks
+
+Neck Node
+
+Evaluation of Primary disease
+
+Primary Response
+
+Complete Response
+(CR)
+
+Complete response
+(CR)
+
+Partial Response
+12 Weeks
+
+12 Weeks
+
+Laryngeal Edema
+
+CR
+
+Residual
+Disease
+
+CT Neck
+
+CR
+
+Partial Response
+
+Follow up
+2 - 3 month for 1st year
+3 - 4 month for 2nd year
+4 - 6 from 3rd to 5th year
+Yearly after 5th year
+Serial TSH evaluation
+
+Biopsy
+
+CT Neck
+
+Operable
+No Disease
+
+When
+symptoms
+progress
+
+Disease
+
+-ve
+
++ve
+
+CT Scan
+
+Discuss with
+patient about
+pros and cons
+Inoperable
+
+Observation
+
+Inoperable
+
+Surgery
+
+Operable
+
+Salvage
+Neck
+dissection if
+primary in
+remission
+
+Salvage Surgery
+
+Serial Endoscopy
+If dysfunctional larynx
+
+15
+
+Palliative Treatment
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+3
+
+CHAPTER
+
+Management of Hypopharyngeal cancer
+
+3.1 Diagnostic work up
+Hypopharynx is divided into
+Pyriform sinus
+Post-cricoid region
+Posterior pharyngeal wall
+Cancer of Larynx and hypopharynx differs in many aspects as depicted in the table below
+Table 4. Comparison of laryngeal and hypopharyngeal cancer
+Larynx
+
+Hypopharynx
+
+Symptoms
+
+Early
+
+Late
+
+Nutrition
+
+Good
+
+Poor
+
+Laryngeal preservation
+
+Good
+
+Poor
+
+Nodal involvement
+
+Less
+
+High
+
+Systemic disease
+
+Less common
+
+Increased systemic metastasis
+
+Relapse
+
+Less
+
+More
+
+Approach to a patient with hypopharyngeal cancer
+Proper history taking and general examination is important. Documentation of extent of dysphagia,
+performance and nutritional status assessment is absolutely necessary. Evaluation of primary disease
+includes indirect laryngoscopy (IDL) and endoscopic evaluation. Neck should be examined for cervical
+lymph nodes. Detailed clinical examination of primary site and neck should be carried out in addition to
+a general examination and endoscopic evaluation. Check list for ENT examination are the following
+•• Primary site
+•• Nature of growth
+•• Extension into sub sites of hypopharynx
+•• Mobility of vocal cord
+•• Extension to Oropharynx
+•• Extension into oesophagus
+16
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+•• Airway evaluation
+•• Laryngeal crepitus
+•• Function of larynx
+Larynx Function: Points to be noted include
+•• Tracheostomy for airway obstruction.
+•• Aspiration requiring hospitalisation up to 6 weeks
+•• Poor (non-serviceable) Voice
+•• Dysphagia requiring nasogastric tube insertion / gastrostomy feeding procedures
+Table 5. Investigations for hypopharyngeal cancer
+Ideal
+
+Essential
+
+•• X -ray Chest PA view
+
+••
+
+X-ray chest PA
+
+•• Complete blood count , Renal Function test, Liver ••
+function test
+••
+•• Direct laryngoscopy and biopsy
+••
+•• CT Scan of neck
+
+CT Scan*56,10-12
+Blood counts
+Endoscopy and biopsy
+
+•• MRI is useful only in selected patients *
+•• CT Thorax or PET scan is not recommended in the
+initial evaluation **
+* MRI is useful in
+1.
+To document inner perichondrial involvement
+2.
+Patients planned for conservation surgery
+3.
+To delineate prevertebral fascia involvement
+MRI is selected when CT findings are ambiguous
+**Except in T3 and T4 and N+ locally advanced cases with lower neck node
+metastasis (level 4,5) and in cases where a gastric pull up is planned.
+
+* CT Scan is essential for planning surgical conservation5-6 and usually high
+resolution scan with 1 mm slices are required.
+* CT Scan is advised based on the economic status, stage of the disease,
+intend of treatment and expertise available
+
+The basic details to be evaluated in the CT scan are the following
+•• Site of the disease
+••
+••
+••
+••
+••
+••
+••
+
+Tumor volume
+Larynx
+Paraglottic space
+Post cricoid region
+Extensions
+Other sub sites of hypopharynx
+Oropharynx or oesophagus
+
+•• Cartilages involvement &
+involvement
+•• Extra laryngeal spread
+•• Thyroid gland
+•• Pre vertebral fascia involvement
+•• Carotid artery involvement
+•• Lymph Nodes
+
+extent
+
+of
+
+MRI is more sensitive in determining cartilage involvement but CT Scan is more specific. MRI is better in
+assessing soft tissue involvement10,11.
+
+17
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+3.2 Staging
+2010 American Joint Committee on Cancer Staging13 (Table 6a, b & c)
+Table 6a
+PRIMARY TUMOUR (T)
+T1
+
+Tumour limited to one subsite of hypopharynx and 2 cm or less in greatest dimension
+
+T2
+
+Tumour invades more than one subsite of hypopharynx or an adjacent site, or measures more than 2 cm but not
+more than 4 cm in greatest diameter without fixation of the hemilarynx
+
+T3
+
+Tumour more than 4 cm in greatest dimension or with fixation of the hemilarynx or extension to oesophagus
+
+T4a
+
+Tumour invades thyroid/cricoid cartilage, hyoid bone, thyroid gland, or central compartment soft tissue
+
+T4b
+
+Tumour invades the prevertebral fascia, encases the carotid artery, or involves mediastinal structures
+
+Table 6b. LYMPH NODE (N)
+NX
+
+Regional lymph nodes cannot be assessed
+
+N0
+
+No regional lymph node metastasis
+
+N1
+
+Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension
+
+N2
+
+Metastasis in single ipsilateral lymph node, more than 3 cm but no more than 6 cm in greatest dimension; or in
+multiple ipsilateral lymph nodes, none more than 6 cm in greatest dimension; or in bilateral or contralateral lymph
+nodes, no more than 6 cm in greatest dimension
+
+N2a
+
+Metastasis in single ipsilateral lymph node, more than 3 cm but no more than 6 cm in greatest dimension
+
+N2b
+
+Metastasis in multiple ipsilateral lymph nodes, none more than 6 cm in greatest dimension
+
+N2c
+
+Metastasis in bilateral or contralateral lymph nodes, none more than 6 cm in greatest dimension
+
+N3
+
+Metastasis in a lymph node more than 6 cm in greatest dimension
+
+DISTANT METASTASIS (M)
+M0
+
+No distant metastasis (no pathologic M0; use clinical M to complete stage group)
+
+M1
+
+Distant metastasis
+Table 6c. OVERALL STAGE GROUPING
+
+Stage 0
+
+Tis
+
+N0
+
+M0
+
+Stage I
+
+T1
+
+N0
+
+M0
+
+Stage II
+
+T2
+
+N0
+
+M0
+
+Stage III
+
+T3
+
+N0
+
+M0
+
+T1-T3
+
+N1
+
+M0
+
+T4a
+
+N0-N1
+
+M0
+
+T1-T4a
+
+N2
+
+M0
+
+Any T
+
+N3
+
+M0
+
+T4b
+
+Any N
+
+M0
+
+Any T
+
+Any N
+
+M1
+
+Stage IVA
+Stage IVB
+Stage IVC
+
+3.3 Treatment
+Goals of Treatment
+Multidisciplinary team for treatment includes radiation oncologist, surgical oncologist, medical oncologist,
+radiologist, pathologist and speech therapist. Goals of treatment are the following
+•• Maximize cure
+•• Organ preservation when possible
+18
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+•• Provide good quality of life
+•• Palliation of symptoms in patients with incurable disease.
+The management is divided into
+A.	Management of Early Hypopharyngeal Disease (Stage I, II)
+B. Management of Moderately Advanced Hypopharyngeal Disease (Stage III, IVa)
+C.	Management of very Advanced Hypopharyngeal Disease (Stage IVb, IVc)
+3.4 Stage wise treatment
+
+A. Management of Early Hypopharyngeal Disease (Stage I, II)
+Early disease (T1N0, T2N0)
+•• External Beam Radiotherapy
+•• Transoral Laser Microsurgery/open conservation surgery
+The intention is to achieve maximum cure with minimum morbidity. Modality of treatment depends on
+patient’s preference and expertise available. In general radiotherapy (RT) is preferred. Standard dose of
+RT is 66-70 Gy over 6-7 weeks. The target volume is entire neck.
+Surgical treatment includes either transoral laser microsurgery in suitable cases or partial laryngopharyngectomy plus neck dissection- unilateral or bilateral antero-lateral neck (level II-IV) dissection
+depending on the location of the tumour.
+
+B. Management of Moderately Advanced Hypopharyngeal disease (III, IVA)
+Stage III and IVA [T1-2 N1/N2]
+•• Concurrent Chemoradiation
+•• Radical radiotherapy(conventional /altered fractionation radiotherapy)
+•• Partial laryngopharyngectomy + Neck dissection ± Adjuvant treatment
+Stage III and IVA (T3, N0-2)
+These patients can be treated either by
+1. Organ preservation approach
+2. Surgery followed by post-operative radiotherapy
+1. Organ preservation in Ca Hypopharynx
+Organ preservation approach may be considered only in patients with intact laryngeal framework and
+preserved laryngeal function. Basically there are two approaches to organ preservation.
+a) Induction chemotherapy with response based treatment
+b) Concurrent chemoradiation
+
+19
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+a) Induction chemo followed by organ preservation approach depending on response. The response
+of the primary is the most deciding factor in deciding the further treatment. There are two evidence
+based induction protocols available and they are given below. Good compliance is necessary for the
+success of induction chemotherapy protocols.
+Flow chart 3. Hypopharyngeal Ca – European Organisation for Research and Training in Cancers
+(EORTC) protocol41:
+Stage III & IV Ca hypopharynx
+
+Surgery followed by post-op XRT
+
+Chemotherapy - (Cisplatin + 5 Fluro
+Uracil)
+
+*CR/*PR in the primary
+
+Non-responders
+(Not in PR)
+
+Chemotherapy x 1 cycle
+
+Surgery followed by RT
+
+No CR
+
+Complete Remission (CR)
+
+**XRT
+
+*CR – Complete Remission, *PR – Partial Remission ** Radical Radiotherapy
+
+Flow Chart 4. GORTEC 2000 -0135 laryngeal preservation trial protocol
+Non- responders larygectomy
+
+Cisplatin + 5FU x 3
+
+Response
+to induction
+chemotherapy
+Cisplatin +
+5FU +
+Taxane x 3
+
++ post - operative RT
+
+Responder
+RT
+
+Induction chemotherapy protocols are mainly applicable for pyriform sinus tumours. Advanced posterior
+pharyngeal wall and post cricoid are generally managed with concurrent chemoradiation.
+b) Concurrent chemoradiation
+Patient should have good performance status, adequate renal function, good family and social support
+and a functioning larynx without total or near total dysphagia. Patients with dysfunctional larynx and
+absolute dysphagia are better candidates for surgery (if operable)
+20
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+2. Surgery followed by adjuvant radiation or chemoradiation
+Surgery involves either total or near-total laryngectomy with partial pharyngectomy with reconstruction
+of the pharynx either with primary closure or a pharyngoplasty with a flap (pedicled pectoralis major
+myocutaneous flap or free flap either radial artery forearm or anterolateral thigh). Voice rehabilitation
+should be offered to all suitable patients depending on their affordability and availability of services as
+outlined in Annexure 3.
+Stage IVA (T4a, N0-N2) with or without cartilage involvement
+These patients are primarily treated with surgery and not candidates for organ preservation approaches.
+The surgical treatment includes Near-Total Laryngectomy / Total Laryngectomy with partial or total
+(circumferential) pharyngectomy with bilateral neck dissection followed by post-operative radiotherapy36- 39.
+Most of the patients will require pharyngeal reconstruction with vascularised flaps (pharyngeal patch). In
+cases where there is a discontinuity of the pharynx with the oesophagus (circumferential pharyngectomy)
+a tubed skin flap Pectoralis Major Myo Cutaneous (PMMC) /Free Radial Forearm or Antero Lateral
+Thigh (ALT) Flap or visceral interposition (free jejenum / pedicled colon) or a gastric transposition
+may be required depending on the availability of intact cervical oesophageal stump All patients require
+post-operative radiotherapy in stage IVA disease. Indications for adjuvant post operative chemo RT are
+margin positive disease and extra capsular spread. Good Performance status is a prerequisite for adjuvant
+chemo radiation. Patients, who refuse surgery or are medically inoperable, are treated with concurrent
+chemoradiation or radiation. Options of voice rehabilitation (Annexure 3) should to be given to patients
+undergoing total laryngectomy. In patients with uninvolved cartilage, induction chemotherapy followed
+by chemo-radiation for responders and surgery for non-responders is an option.
+C. Management of Very Advanced Hypopharyngeal Disease (IVb, IVc)
+Stage IVB disease- T4B or N3 disease
+In general these patients are treated with palliative intent. Situations where radical approach is considered
+in stage IVB disease are T1–4a primary disease with an operable N3 disease (surgery and post operative
+adjuvant) or low volume T4b disease (chemo RT) in a patients with good performance status. In the
+remaining patients, decisions regarding sequential chemotherapy and upfront surgery with adjuvant
+treatment (in borderline inoperable cases) can be taken on a case to case basis.
+Stage IV-C
+Patients with stage IV C disease are candidates for palliative treatment. Decision regarding local
+radiotherapy or systemic treatment is based on the clinical situation
+
+21
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Table 7. Composite staging and summary of treatment of Hypopharyngeal cancer
+Stage T1
+
+Stage T2
+
+Stage T3
+
+Stage T4a
+
+Stage T4b
+
+N0
+
+I
+
+II
+
+III
+
+IVA
+
+IVB
+
+N1
+
+III
+
+III
+
+III
+
+IVA
+
+IVB
+
+N2
+
+IVA
+
+IVA
+
+IVA
+
+IVA
+
+IVB
+
+N3
+
+IVB
+
+IVB
+
+IVB
+
+IVB
+
+IVB
+
+M1
+
+IVC
+
+IVC
+
+IVC
+
+IVC
+
+IVC
+
+ Surgery ® Post op RT(cartilage involvement)
+ Palliative treatment / *Radical approach in selected
+group of patients
+
+ Early Disease RT/Surgery
+Induction /Concurrent Chemo RT
+M1 palliative treatment
+
+* Young patient with good performance status, low volume primary disease and resectable nodal disease
+
+Practical aspects in Ca Hypopharynx
+1. Biopsy from the primary site is mandatory.
+2. Accurate staging is the most important step in the management.
+3. Performance status, Nutritional status & Family support are key factors in deciding treatment..
+4. CT Scan is mandatory to rule out T3 disease.
+5. Organ preservation approach should be avoided in patients having cartilage destruction.
+6. Patients with laryngeal dysfunction are not candidates for organ preservation.
+7. Organ preservation approach should be considered for all T3 disease with good laryngeal function.
+8. Proper patient selection is needed for concurrent chemoradiation
+9. Avoid unnecessary investigations and costly chemotherapy in patients who are candidates for
+palliative approach
+10. Patients should be counselled regarding symptoms and signs of relapse
+Follow up
+Objectives of follow up are
+1. Detection of early recurrences
+2. Evaluation of morbidity
+3. Detection of second primary.
+Clinical examination including ENT evaluation is done once in 3 months for the first two years follower
+by once in 4-6 months from third to fifth year. Yearly follow up after 5 years. TSH evaluation should be
+done periodically
+
+22
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+CONSENSUS STATEMENT ON PRACTICE
+Flow Chart 5. Comprehensive Algorithm for Management of Hypopharyngeal Cancer
+
+Dysphagia and other symptoms
+Performance status (PS)
+Nutritional status
+General examination
+3.	Ent Evaluation-endoscopic assessment includes primary
+site evaluation (extent, mobility of cord, airway) and
+biopsy
+4. Neck: Neck nodes
+
+Poor GC
+
+Squamous cell Carcinoma
+
+•• CT Scan Neck
+•• X-Ray Chest
+•• CBC, RFT, LFT, Blood Sugar
+
+T1N0
+T2N0
+
+T1-T2N+
+
+•• Concurrent
+Chemo
+	RT
+•• Radical RT
+
+Radical RT/
+Surgery
+Evaluation after
+Treatment
+
+23
+
+T3N0/N+
+
+1. Induction
+chemotherapy
+followed by
+RT/ChemoRT
+2. Concurrent
+Chemo RT
+3. Radical RT
+
+T4aN0/N+
+(Operable)
+
+T4borN3
+
+Surgery
+Followed by
+Post opRT
+
+Radical/Palliative
+Treatment
+
+Radical Treatment
+Young Patient
+Good PS
+Low volume primary
+
+M1
+
+Palliative
+Treatment
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Flow Chart 6. Comprehensive Algorithm for follow up of Organ preservation approach
+Evaluation after Treatment
+Clinical examination
+Endoscopic evaluation
+
+8 Weeks
+
+Neck Node
+
+Evaluation of Primary disease
+
+Complete response
+(CR)
+
+Partial Response
+
+Complete Response
+(CR)
+
+Partial Response
+
+12 Weeks
+
+Laryngeal Edema
+
+12 Weeks
+
+Residual
+Disease
+
+CT Neck
+
+No disease
+
+When
+symptoms
+progress
+
+Biopsy
+
+– ve
+
+Disease
+
+CR
+
+CR
+
+Follow up
+2 - 3 month for 1st year
+3 - 4 month for 2nd year
+4 - 6 from 3rd to 5th year
+Yearly after 5th year
+Serial TSH evaluation
+
+If neck in
+remission
+
+CT Neck
+
+Operable
+
++ ve
+
+Inoperable
+
+CT Scan
+
+Discuss with
+patient about
+pros and cons
+
+Inoperable
+
+Observation
+
+Partial Response
+
+Surgery
+
+Operable
+
+Salvage
+Neck
+dissection if
+primary in
+remission
+
+Salvage Surgery
+
+Serial Endoscopy
+If dysfunctional larynx
+
+24
+
+Palliative Treatment
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+4
+
+CHAPTER
+
+Altered fractionation, salvage surgery and palliation
+
+4.1 Altered vs conventional fractionation regimes
+Accelerated radiotherapy is a reasonable alternative to conventional radiotherapy in early disease8. In
+advanced disease, hyperfractionation is found to be superior in terms of locoregional control and over all
+survival compared to conventional radiotherapy33.
+4.2 Salvage Surgery for failed organ preservation protocols
+Salvage surgery is the only option available to tackle a failed organ preservation protocol ie recurrence
+or an irreversible life threatening post radiation sequelae (eg. severe laryngooesophageal dysfunction
+secondary to chondroradionecrosis or larygopharyngooesophageal fibrosis).The ‘equalising effect’
+of salvage surgeries in organ preservation protocols in attaining comparable figures to the traditional
+upfront surgical (total laryngectomy) protocols for intermediate and advances staged diseases have not
+been adequately quantified. Although in trial settings good results have been reported29 there are ample
+evidence to suggest that salvage surgery especially those performed for early failures carries a higher
+morbidity32-36.
+4.3 Palliation in larynx and hypopharynx cancers45-51
+For patients with late stage disease laryngeal and hypopharyngeal cancer, good nursing care and
+palliative measures such as pain control and interventions to help them eat and breathe are crucial; those
+who are expected to live for a significant period may benefit from palliative surgery, radiotherapy or
+chemotherapy.
+Patients can also be encouraged to participate in ethnically approved clinical trials.
+4.4 Management of acute events
+4.4.1 Acute major airway obstruction
+The onset of laryngeal obstruction may be slow if due to tumour growth, but acute if precipitated by
+haemorrhage or infection. Most patients would have previous radical RT. Lumen patency can be restored
+by interventional procedures e.g. tracheostomy or laser therapy for endoluminal lesions. Other options
+include external beam radiotherapy. Correction of hypoxia with oxygen or 4:1 helium: oxygen mixture,
+which has a lower viscosity than air and can reduce respiratory effort. Dexamethasone at a starting dose
+of 16 mg daily may be helpful. Benzodiazepine can be used to reduce anxiety or panic, e.g. diazepam
+5-10mg IV, midazolam 2.5-5mg IV or SC. Nebulized normal saline helps to facilitate removal of sticky
+sputum. Palliative sedation may be considered if symptoms are refractory to treatment.
+Tracheostomy is considered for appropriate patients in order to maintain airway patency and to allow
+
+25
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+expectoration of secretions. The indications of tracheostomy include bilateral vocal cord paralysis,
+laryngectomy, and tumour occluding the airway. Basic care of tracheostomy includes:
+1. Humidification of inspired air e.g. steam inhalation;
+2. Clearing of secretions by regular deep-breathing exercises and chest physiotherapy;
+3. Suctioning for viscid secretions or mucous plugs.
+Whilst doing tracheostomy care should be taken to place the incision appropriately considering salvage
+procedure in future. The tracheal opening should also be placed between third and fourth ring to facilitate
+a proper near-total shunt in suitable patients. Following tracheostomy care of the skin surrounding the
+stoma should be taken with antiseptic barrier dressing between the tracheostomy tube and skin.
+4.4.2 Acute tracheostomy obstruction
+Tracheostomy can be blocked acutely by bleeding from tracheostomal recurrence or severe crusting of
+secretions. If blockage occurs, the inner tube of tracheostomy should be removed, followed by suctioning
+through the outer tube of. Re-suctioning can be repeated with instillation of 5ml of normal saline into
+the tube if necessary. If obstruction persisted, one can remove and clean or replace the outer tube. If the
+outer tube has to be removed, the tracheal dilator must be available in hand.
+4.4.3 Massive arterial bleeding
+There is a higher risk of massive arterial bleeding in patients with eroding tumours close to carotid
+arteries. Unconsciousness and death may occur rapidly before sedation is allowed. If time allows, patient
+should be sedated with midazolam or diazepam intravenously or intramuscularly. It is important to note
+that drugs given subcutaneously are poorly absorbed in circulatory shutdown. A dark green cloth is helpful
+in camouflaging blood, and to reduce the visual impact on relatives and staff.
+4.5 Management of chronic problems
+4.5.1 Pain control
+Elucidation of underlying causes of pain is important. Pain can result from deep tissue infiltration, cranial
+nerve involvement, tumour ulceration, or the effects of surgery or radiotherapy such as mucositis or
+fibrosis. Psychosocial factors can contribute to pain. Analgesics can be prescribed according to the WHO
+analgesic ladder.
+NSAIDs may be helpful especially in the presence of bone involvement and inflammation. Tricyclic
+antidepressants or anti-convulsants can be given for neuropathic pain, and steroids as an antiinflammatory agent. Antibiotics e.g. metronidazole can be used to cover anaerobic organism infections.
+Local radiotherapy and nerve block may be considered for pain control in appropriate candidates.
+4.5.2 Swallowing disorders and aspiration
+Artificial feeding via a fine-bore nasogastric tube or PEG (percutaneous endoscopic gastrostomy tube) has
+to be considered in appropriate cases. Carers/family members should be educated on the correct method
+of feeding.
+Formal assessment by speech therapist and Video Fluoroscopic Swallowing Study (VFSS) are better
+assessment for aspiration. In presence of aspiration, it is important to maintain a good oral hygiene in
+order to reduce the bacterial colonisation. Specific swallowing strategies include feeding patient at an
+upright position, dividing the food into small boluses, feeding slowly, etc. In patients with immobile hemi
+26
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+pharynx it is helpful to tilt or turn the head towards the paralysed side to open the contralateral normally
+functioning lateral food channel. For those with reduced tongue control, the postural compensation
+techniques or exercises may be helpful. Other measures such as dietary modification with foods of pasty
+consistency may reduce risk of aspiration.
+4.5.3 Fungating wounds
+The aim of treatment is to control pain, odour, prevent bleeding and to provide psychological support.
+Odour and discharge can be reduced by antibiotic (e.g. metronidazole) either topically or systemically,
+adequate ventilation, and the use of special dressing materials. Local RT may have a haemostatic effect
+for wound with bleeding. Palliative Surgery can be anticipated as a measure for treatment of fungating
+wounds in carefully selected patients with optimal results achieved.
+
+27
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+5
+
+CHAPTER
+
+Research Issues
+
+1. Comparisons of radical RT with conservation surgery in early larynx.
+2. Proper identification of patients suitable for concurrent chemoradiation (CCRT).
+3. Induction chemo followed chemoradation vs CCRT for very advanced operable larynx/hypopharynx
+cancers
+4. Altered fractionation vs Chemoradiation
+5. Translational research with Prognostic & Predictive markers
+6. Selection of cases suitable cases for primary surgery/non-surgical organ preservation based on
+functional scoring of larynx, tumor morphometry and volumetry (in cc)
+7. 3 wkly/wkly cisplatin for concurrent CT-RT
+
+28
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+6
+
+CHAPTER
+
+Annexures
+
+Annexure 1: Standard Radiotherapy & Chemotherapy Schedules
+Clinical target volume includes entire neck. Standard dose is 60Gy/30fr. Spinal cord is shielded after 4042Gy. Posterior neck is boosted using electrons if facility is available.
+1.
+
+Radical Dose is 66-70 Gy in 33-35 fr to primary disease and involved nodes and 50 - 54 Gy to
+uninvolved nodal region.
+
+2. Standard post-operative dose is 60 Gy in 30 fr. High risk region with positive margin or extra capsular
+extension should be boosted up to 66 Gy along with concurrent cisplatin
+3. Palliative radiotherapy dose 30 Gy in 10 fr or 20 Gy in 5 fr
+Chemotherapy Schedules along with radiotherapy
+
+Concurrent Chemo radiation
+1. Three weekly: Cisplatin 80 -100 mg / m2 IV (Day1, Day 22, Day 43) along with radical
+radiotherapy
+2. Weekly: Cisplatin 30–40mg/m2 weekly along with radical radiotherapy
+
+Neoadjuvant Chemotherapy followed by radiation / chemoradiaton
+1. Cisplatin 80-100 mg / m2 IV Day 1 and 5 F U 750-1000 mg / m2 IV Day 1 to Day 5 as 24 hr
+infusion x 2 cycles followed by radical radiotherapy or chemoradiation with cisplatin.
+2. Taxane based multidrug therapy is considered usually three weekly. Docetaxel 75mg/m2 D1, Cisplatin
+100mg/m2 D1 and 5FU1000 mg/m2/d D1-4 followed by radical radiotherapy or chemoradiation
+with cisplatin.
+Targeted Therapy
+Cetuximab 400 mg / m2 IV one week before radiotherapy and 250 mg / m2 IV weekly along with radical
+radiotherapy.
+Nimotuzumab 200mg weekly.
+
+29
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Annexure 2: Evaluation after definitive radiation / concurrent chemoradiation for Ca Larynx / Hypopharynx
+Initial evaluation is done after 8-12 weeks. If both primary and neck is in clinical remission, follow up
+is needed. If primary is in remission and residual nodes are present, patient should undergo ipsilateral
+comprehensive neck dissection. If there is residual disease in the primary, salvage surgery should be
+considered with or without neck dissection and is given the flow chart
+Flow Chart 7. Flow chart for evaluation of patients undergoing RT / ChemoRT
+Chemo RT/RT
+8 – 12 weeks
+
+•• Primary in remission
+•• Neck in remission
+
+Follow up
+
+30
+
+•• Primary in remission
+•• Residual neck node
+
+•• Residual disease in the
+primary
+•• ± Neck node
+
+Ipsilateral
+Comprehensive neck
+dissection
+
+Salvage surgery
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+Flow Chart 8. Flow chart for assessing the primary disease after chemo RT / RT
+Endoscopic
+evaluation
+
+Partial
+Remission
+
+Remission
+
+4 more weeks
+
+Follow Up
+
+Residual Disease
+
+Remission
+
+Biopsy
+
+–ve Disease
+
++ve Disease
+
+CT Scan
+
+Salvage Surgery
+
+Discuss with
+patients pros and
+cons
+Serial
+Endoscopy ±
+Biopsy
+
+Salvage Surgery
+
+Protocol for evaluation of Laryngeal edema
+•• Take CT scan of the Neck
+•• If endoscopic evaluation shows only edema and CT Scan shows no disease, patient is advised follow
+up
+•• Avoid repeat biopsy
+•• If patients has laryngeal dysfunction then salvage surgery is contemplated
+Annexure 3: Voice Rehabilitation
+Options of voice rehabilitation should be given to patients undergoing total laryngectomy which
+include37- 39
+1. Immediate Voice restoration - Primary Tracheo-esophageal puncture(TEP) and insertion of tracheoesophageal voice prosthesis during laryngectomy (Indwelling type) or after the fistula has formed
+(indwelling or non indwelling type).
+31
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+2. Secondary Rehabilitation:
+1. Secondary TEP and voice restoration with indwelling or non indwelling tracheo-esophageal
+voice prosthesis 3 – 6 months after radiation.
+2. Oesophageal speech trial and training in suitable cases or Electronic larynx.
+
+32
+
+Consensus Document for Management of Larynx and Hypopharynx Cancers
+
+

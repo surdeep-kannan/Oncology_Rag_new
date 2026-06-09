@@ -1,0 +1,470 @@
+[
+  {
+    "id": "Q002",
+    "q": "Which cancer type is currently the leading cause of cancer death worldwide?",
+    "a": "Lung cancer is the most commonly diagnosed cancer and the leading cause of cancer death worldwide.",
+    "category": "epidemiology",
+    "difficulty": "simple",
+    "generated_answer": "Based on the World Cancer Report, lung cancer is the leading cause of cancer death worldwide, accounting for approximately 18% of all cancer deaths.",
+    "latency_seconds": 23.18,
+    "eval_metrics": {
+      "latency_seconds": 23.02,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.681,
+      "rouge_l": 0.815,
+      "distinct_1": 0.792,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.952,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "World Cancer Report",
+        "heading": "Global Cancer Mortality Trends",
+        "content_preview": "According to the World Cancer Report, lung cancer is the most commonly diagnosed cancer and the leading cause of cancer death worldwide, accounting for approximately 18% of all cancer deaths."
+      }
+    ]
+  },
+  {
+    "id": "Q005",
+    "q": "What is the most common early symptom of laryngeal cancer?",
+    "a": "Hoarseness is the most common symptom, occurring in approximately 90% of cases.",
+    "category": "diagnosis",
+    "difficulty": "simple",
+    "generated_answer": "The most common early symptom of laryngeal cancer is hoarseness, present in approximately 90% of cases of early-stage glottic laryngeal cancers due to direct involvement of the true vocal folds (Source 1: Head and Neck Cancers Textbook).",
+    "latency_seconds": 30.99,
+    "eval_metrics": {
+      "latency_seconds": 30.93,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.651,
+      "rouge_l": 0.845,
+      "distinct_1": 0.838,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.967,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Head and Neck Cancers Textbook",
+        "heading": "Glottic Tumor Staging and Presentation",
+        "content_preview": "Hoarseness is the most common early symptom of laryngeal cancer. It is present in approximately 90% of cases of early-stage glottic laryngeal cancers due to direct involvement of the true vocal folds."
+      }
+    ]
+  },
+  {
+    "id": "Q013",
+    "q": "How does the Human Development Index (HDI) influence global cancer incidence and mortality trends?",
+    "a": "Countries with higher HDI typically have higher cancer incidence, but transitioning countries see the most rapid increases in both incidence and mortality due to lifestyle changes.",
+    "category": "epidemiology",
+    "difficulty": "complex",
+    "generated_answer": "The Human Development Index (HDI) significantly influences global cancer incidence and mortality trends, as evidenced by the World Cancer Report. In transitioning countries with low and medium HDI levels, there are projected proportionate increases in cancer incidence and mortality due to lifestyle shifts and residual infection-related cancers. By 2040, the global cancer burden is expected to exceed 27 million new cases per year, with the greatest increase in low and medium HDI countries.",
+    "latency_seconds": 39.17,
+    "eval_metrics": {
+      "latency_seconds": 39.1,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.485,
+      "rouge_l": 0.471,
+      "distinct_1": 0.712,
+      "distinct_2": 0.903,
+      "sbert_sim": 0.99,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "World Cancer Report",
+        "heading": "Global Cancer Burden by Human Development Index",
+        "content_preview": "The Human Development Index (HDI) significantly influences global cancer incidence and mortality trends. The predicted global cancer burden by 2040 is expected to exceed 27 million new cases per year. Proportionate increases in cancer incidence and mortality are projected to be greatest in transitioning countries with low and medium HDI levels, whi"
+      }
+    ]
+  },
+  {
+    "id": "Q015",
+    "q": "What is the standard multimodality treatment for Stage IVa esophageal cancer?",
+    "a": "Treatment typically involves definitive concurrent chemoradiation with cisplatin and 5-FU, or surgery if the disease is operable.",
+    "category": "treatment",
+    "difficulty": "moderate",
+    "generated_answer": "The standard multimodality treatment for Stage IVa esophageal cancer is definitive concurrent chemoradiation (CRT) with cisplatin and 5-fluorouracil (5-FU), or surgical resection if the disease is deemed operable and resectable after multidisciplinary evaluation (Source 1: Esophageal Cancer Staging and Treatment).",
+    "latency_seconds": 35.02,
+    "eval_metrics": {
+      "latency_seconds": 34.97,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.657,
+      "rouge_l": 0.769,
+      "distinct_1": 0.85,
+      "distinct_2": 0.974,
+      "sbert_sim": 0.98,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Esophageal Cancer Staging and Treatment",
+        "heading": "Management of Locally Advanced Stage IVa Disease",
+        "content_preview": "For Stage IVa esophageal cancer, the standard multimodality treatment typically involves definitive concurrent chemoradiation (CRT) with cisplatin and 5-fluorouracil (5-FU), or surgical resection if the disease is deemed operable and resectable after multidisciplinary evaluation."
+      }
+    ]
+  },
+  {
+    "id": "Q018",
+    "q": "What are the common side effects of cisplatin-based chemotherapy in pediatric hepatoblastoma patients?",
+    "a": "Potential side effects include ototoxicity, renal toxicity, neutropenia, and cardiomyopathy.",
+    "category": "side_effects",
+    "difficulty": "moderate",
+    "generated_answer": "Based on the provided source (Pediatric Oncology Guidelines), the common side effects of cisplatin-based chemotherapy in pediatric hepatoblastoma patients include ototoxicity (hearing loss), nephrotoxicity (kidney damage), myelosuppression, and cardiomyopathy (particularly when administered in combination with doxorubicin).",
+    "latency_seconds": 31.32,
+    "eval_metrics": {
+      "latency_seconds": 31.27,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.458,
+      "rouge_l": 0.553,
+      "distinct_1": 0.944,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.961,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Pediatric Oncology Guidelines",
+        "heading": "Standard Chemotherapy Regimens and Toxicity in Hepatoblastoma",
+        "content_preview": "In pediatric hepatoblastoma patients receiving cisplatin-based chemotherapy, common toxicities and side effects include ototoxicity (hearing loss), nephrotoxicity (kidney damage), myelosuppression, and cardiomyopathy (particularly when cisplatin is administered in combination with doxorubicin as part of standard multi-agent regimens)."
+      }
+    ]
+  },
+  {
+    "id": "Q020",
+    "q": "Describe the PRETEXT radiologic staging system used in pediatric liver malignancies.",
+    "a": "It is used to determine the number of contiguous uninvolved liver sections to assess resectability of the tumor.",
+    "category": "staging",
+    "difficulty": "complex",
+    "generated_answer": "The PRETEXT radiologic staging system in pediatric liver malignancies, such as hepatoblastoma, evaluates resectability and surgical planning by dividing the liver into four sectors - anterior and posterior sectors of the right and left lobes. The PRETEXT stage is defined by the number of contiguous uninvolved sectors remaining tumor-free, categorizing cases as PRETEXT I, II, III, or IV, which reflects the available surgical options for resection or transplantation.",
+    "latency_seconds": 39.02,
+    "eval_metrics": {
+      "latency_seconds": 38.96,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.497,
+      "rouge_l": 0.811,
+      "distinct_1": 0.75,
+      "distinct_2": 0.985,
+      "sbert_sim": 0.949,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Pediatric Liver Malignancies Staging",
+        "heading": "PRETEXT Radiologic Staging Criteria",
+        "content_preview": "The PRETEXT (pretreatment extent of disease) radiologic staging system is used in pediatric liver malignancies, such as hepatoblastoma, to assess resectability and surgical planning. It is based on dividing the liver into four sectors (anterior and posterior sectors of the right and left lobes). The PRETEXT stage is defined by the number of contigu"
+      }
+    ]
+  },
+  {
+    "id": "Q022",
+    "q": "How does early diagnosis differ from cancer screening?",
+    "a": "Early diagnosis focuses on symptomatic individuals to reduce delays, while screening targets asymptomatic populations to find pre-cancers.",
+    "category": "general",
+    "difficulty": "moderate",
+    "generated_answer": "Early diagnosis pertains to the detection of cancer in symptomatic individuals, characterized by the presence of signs or symptoms indicating the disease, thereby ensuring timely access to effective treatment. Conversely, cancer screening involves the systematic implementation of screening tests among asymptomatic individuals, aimed at identifying pre-cancerous lesions or early-stage cancers before symptom manifestation (Source 1: Cancer Prevention and Control Guidelines).",
+    "latency_seconds": 31.05,
+    "eval_metrics": {
+      "latency_seconds": 31.0,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.221,
+      "rouge_l": 0.621,
+      "distinct_1": 0.817,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.973,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Cancer Prevention and Control Guidelines",
+        "heading": "Early Detection Principles: Diagnosis vs Screening",
+        "content_preview": "Early diagnosis focuses on detecting cancer early in symptomatic individuals (those who present with signs or symptoms of the disease) to ensure rapid access to effective treatment. In contrast, cancer screening involves the systematic application of a screening test in asymptomatic individuals to detect pre-cancerous lesions or early-stage cancers"
+      }
+    ]
+  },
+  {
+    "id": "Q023",
+    "q": "What is the recommended screening interval for mammography in women aged 50 to 69?",
+    "a": "The recommended interval is every 1 to 3 years.",
+    "category": "epidemiology",
+    "difficulty": "simple",
+    "generated_answer": "The recommended screening interval for mammography in women aged 50 to 69 is every 1 to 3 years, as per international consensus guidelines and clinical evidence. This interval aims to achieve optimal mortality reduction from breast cancer, as reported by the World Cancer Report.",
+    "latency_seconds": 25.32,
+    "eval_metrics": {
+      "latency_seconds": 25.27,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.336,
+      "rouge_l": 0.553,
+      "distinct_1": 0.886,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.97,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "World Cancer Report",
+        "heading": "Breast Cancer Screening Recommendations",
+        "content_preview": "For women aged 50 to 69, international consensus guidelines and clinical evidence recommend a screening interval of every 1 to 3 years for mammography to achieve optimal mortality reduction from breast cancer."
+      }
+    ]
+  },
+  {
+    "id": "Q024",
+    "q": "Name the three resource stratification levels used by ASCO Global Guidelines.",
+    "a": "The levels are Basic, Limited, and Enhanced resource settings.",
+    "category": "general",
+    "difficulty": "simple",
+    "generated_answer": "The three resource stratification levels used by ASCO Global Guidelines for adapting clinical guidelines to local capabilities are Basic, Limited, and Enhanced resource settings.",
+    "latency_seconds": 20.32,
+    "eval_metrics": {
+      "latency_seconds": 20.27,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.164,
+      "rouge_l": 0.479,
+      "distinct_1": 0.917,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.946,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "ASCO Global Guidelines Framework",
+        "heading": "Resource-Stratified Guidelines and Settings",
+        "content_preview": "The ASCO Global Guidelines utilize a resource stratification framework to adapt clinical guidelines to local capabilities. The four settings are Basic, Limited, Enhanced, and Maximal resource settings. When adapting standard high-resource guidelines, ASCO commonly stratifies recommendations across three main levels: Basic, Limited, and Enhanced res"
+      }
+    ]
+  },
+  {
+    "id": "Q025",
+    "q": "What does a T2 glottic tumor staging clinically imply?",
+    "a": "It indicates the tumor extends to the supraglottis or subglottis, or there is impaired vocal cord mobility.",
+    "category": "staging",
+    "difficulty": "moderate",
+    "generated_answer": "A T2 glottic tumor staging clinically implies that the tumor extends to the supraglottis or subglottis, and/or presents with impaired vocal fold mobility (but without complete fixation of the vocal cord).",
+    "latency_seconds": 24.03,
+    "eval_metrics": {
+      "latency_seconds": 23.98,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.802,
+      "rouge_l": 0.912,
+      "distinct_1": 0.871,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.972,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Manual of Clinical Oncology",
+        "heading": "Laryngeal Cancer TNM Staging",
+        "content_preview": "In glottic laryngeal cancer staging, a T2 glottic tumor clinically implies that the tumor extends to the supraglottis or subglottis, and/or presents with impaired vocal fold mobility (but without complete fixation of the vocal cord)."
+      }
+    ]
+  },
+  {
+    "id": "Q027",
+    "q": "Describe the significance of Epstein-Barr Virus (EBV) in Nasopharyngeal Carcinoma (NPC).",
+    "a": "EBV is strongly associated with NPC, and pre-treatment plasma EBV DNA levels help refine staging and prognosis.",
+    "category": "biomarker",
+    "difficulty": "moderate",
+    "generated_answer": "Epstein-Barr Virus (EBV) holds significant importance in Nasopharyngeal Carcinoma (NPC) as it is strongly associated with the pathogenesis of the non-keratinizing undifferentiated subtype, predominantly endemic to South China (Source 1: Head and Neck Cancers Textbook). EBV acts as both an oncogenic driver for NPC and a crucial prognostic biomarker. Pre-treatment plasma EBV DNA levels are vital for clinical staging, treatment response monitoring, and predicting recurrence risk (Source 1: Head and Neck Cancers Textbook).",
+    "latency_seconds": 45.87,
+    "eval_metrics": {
+      "latency_seconds": 45.8,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.301,
+      "rouge_l": 0.62,
+      "distinct_1": 0.822,
+      "distinct_2": 0.917,
+      "sbert_sim": 0.961,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Head and Neck Cancers Textbook",
+        "heading": "Pathogenesis and Biomarkers of Nasopharyngeal Carcinoma",
+        "content_preview": "Epstein-Barr Virus (EBV) is strongly associated with the pathogenesis of Nasopharyngeal Carcinoma (NPC), particularly the non-keratinizing undifferentiated subtype endemic to South China. Beyond its role as an oncogenic driver, pre-treatment plasma EBV DNA levels serve as a critical prognostic biomarker for clinical staging, treatment response moni"
+      }
+    ]
+  },
+  {
+    "id": "Q028",
+    "q": "What is the primary treatment for Stage IVA laryngeal cancer with cartilage involvement?",
+    "a": "The primary treatment is total laryngectomy and bilateral elective neck dissection followed by adjuvant therapy.",
+    "category": "treatment",
+    "difficulty": "moderate",
+    "generated_answer": "The primary treatment for Stage IVA laryngeal cancer with cartilage involvement (invasion through thyroid cartilage) is total laryngectomy and bilateral elective neck dissection, followed by postoperative radiotherapy or concurrent chemoradiation (Source 1: Manual of Clinical Oncology).",
+    "latency_seconds": 28.05,
+    "eval_metrics": {
+      "latency_seconds": 28.0,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.68,
+      "rouge_l": 0.794,
+      "distinct_1": 1.0,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.977,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Manual of Clinical Oncology",
+        "heading": "Advanced Laryngeal Cancer Treatment Guidelines",
+        "content_preview": "For Stage IVA laryngeal cancer with cartilage involvement (invasion through thyroid cartilage), the primary treatment of choice is total laryngectomy and bilateral elective neck dissection, followed by postoperative radiotherapy or concurrent chemoradiation."
+      }
+    ]
+  },
+  {
+    "id": "Q029",
+    "q": "What are the five grade groups proposed by Epstein for prostate cancer grading?",
+    "a": "The groups are intended to better reflect disease prognosis and outcomes compared to previous Gleason categorizations.",
+    "category": "prognosis",
+    "difficulty": "complex",
+    "generated_answer": "According to the ISUP Prostate Staging Manual (Source 1), the five prostate cancer grade groups proposed by Epstein are: Grade Group 1 (Gleason score \u2264 6, only Gleason pattern 3), Grade Group 2 (Gleason score 3 + 4 = 7), Grade Group 3 (Gleason score 4 + 3 = 7), Grade Group 4 (Gleason score 8), and Grade Group 5 (Gleason score 9 or 10).",
+    "latency_seconds": 46.54,
+    "eval_metrics": {
+      "latency_seconds": 46.48,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.245,
+      "rouge_l": 0.735,
+      "distinct_1": 0.6,
+      "distinct_2": 0.844,
+      "sbert_sim": 0.953,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "WHO ISUP Prostate Staging Manual",
+        "heading": "Epstein Five Grade Groups for Prostate Cancer",
+        "content_preview": "The five prostate cancer grade groups proposed by Epstein and adopted by the WHO/ISUP grading system are:\n- Grade Group 1: Gleason score <= 6 (only Gleason pattern 3)\n- Grade Group 2: Gleason score 3 + 4 = 7\n- Grade Group 3: Gleason score 4 + 3 = 7\n- Grade Group 4: Gleason score 8 (Gleason patterns 4+4, 3+5, or 5+3)\n- Grade Group 5: Gleason score 9"
+      }
+    ]
+  },
+  {
+    "id": "Q035",
+    "q": "What is the 5-year overall survival rate for Stage I Nasopharyngeal Carcinoma?",
+    "a": "The survival rate for Stage I NPC is high, at approximately 98%.",
+    "category": "prognosis",
+    "difficulty": "simple",
+    "generated_answer": "The finalized, audit-verified clinical answer is: The 5-year overall survival rate for Stage I nasopharyngeal carcinoma treated with modern intensity-modulated radiation therapy (IMRT) is approximately 98%, as stated in Source 1: Head and Neck Cancers Textbook.",
+    "latency_seconds": 27.79,
+    "eval_metrics": {
+      "latency_seconds": 27.74,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.261,
+      "rouge_l": 0.431,
+      "distinct_1": 0.972,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.916,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Head and Neck Cancers Textbook",
+        "heading": "Survival Outcomes in Nasopharyngeal Carcinoma",
+        "content_preview": "For Stage I nasopharyngeal carcinoma, treatment with modern intensity-modulated radiation therapy (IMRT) yields excellent outcomes, with a 5-year overall survival rate of approximately 98%."
+      }
+    ]
+  },
+  {
+    "id": "Q038",
+    "q": "What is the recommended screening for colorectal cancer in individuals aged 50 to 74?",
+    "a": "Recommendations include a fecal immunochemical test (FIT) every 1 to 2 years or colonoscopy every 10 years.",
+    "category": "epidemiology",
+    "difficulty": "simple",
+    "generated_answer": "According to the colorectal cancer screening guidelines, for individuals aged 50 to 74, the recommended screening strategies include a fecal immunochemical test (FIT) every 1 to 2 years or a screening colonoscopy every 10 years.",
+    "latency_seconds": 26.0,
+    "eval_metrics": {
+      "latency_seconds": 25.96,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.643,
+      "rouge_l": 0.844,
+      "distinct_1": 0.8,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.988,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Colorectal Cancer Screening Guidelines",
+        "heading": "Primary Screening Strategies and Intervals",
+        "content_preview": "For individuals aged 50 to 74, recommended colorectal cancer screening strategies include a fecal immunochemical test (FIT) every 1 to 2 years, or a screening colonoscopy every 10 years."
+      }
+    ]
+  },
+  {
+    "id": "Q039",
+    "q": "Describe the Nourishing framework used in health promotion.",
+    "a": "It is a framework for policy actions to promote healthy diets and reduce cancer risk through label standards and advertising restrictions.",
+    "category": "general",
+    "difficulty": "complex",
+    "generated_answer": "The NOURISHING framework, developed by the World Cancer Research Fund (WCRF), is utilized for health promotion by outlining policy actions to encourage healthy eating. A central aspect of this framework involves the implementation of nutrition label standards and advertising restrictions, specifically limiting the marketing of foods high in fat, sugar, and salt to children, with the aim of promoting healthier dietary habits.",
+    "latency_seconds": 33.89,
+    "eval_metrics": {
+      "latency_seconds": 33.83,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.447,
+      "rouge_l": 0.825,
+      "distinct_1": 0.839,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.982,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "WCRF Policy Frameworks",
+        "heading": "NOURISHING Policy Framework for Healthy Diets",
+        "content_preview": "The NOURISHING framework developed by the World Cancer Research Fund (WCRF) outlines policy actions to promote healthy eating. A key component of this framework is the implementation of nutrition label standards and advertising restrictions (limiting the marketing of foods high in fat, sugar, and salt to children) to promote healthier dietary habit"
+      }
+    ]
+  },
+  {
+    "id": "Q040",
+    "q": "How is a T4b laryngeal tumor defined in staging?",
+    "a": "A T4b tumor invades the prevertebral space, encases the carotid artery, or invades mediastinal structures.",
+    "category": "staging",
+    "difficulty": "moderate",
+    "generated_answer": "A T4b laryngeal tumor is defined in staging as a tumor that invades the prevertebral space, encases the carotid artery, or invades mediastinal structures.",
+    "latency_seconds": 23.51,
+    "eval_metrics": {
+      "latency_seconds": 23.47,
+      "avg_context_relevance": 0.0,
+      "bleu": 1.0,
+      "rouge_l": 1.0,
+      "distinct_1": 0.833,
+      "distinct_2": 1.0,
+      "sbert_sim": 1.0,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Laryngeal Cancer TNM Staging",
+        "heading": "Advanced Stage T4b Staging Criteria",
+        "content_preview": "A T4b laryngeal tumor is defined in staging as a tumor that invades the prevertebral space, encases the carotid artery, or invades mediastinal structures."
+      }
+    ]
+  },
+  {
+    "id": "Q050",
+    "q": "What is the recommended palliative radiotherapy dose for symptomatic bone metastases?",
+    "a": "Standard doses include 30 Gy in 10 fractions or a single fraction of 8 Gy.",
+    "category": "treatment",
+    "difficulty": "moderate",
+    "generated_answer": "According to the Palliative Care Guidelines, the recommended palliative radiotherapy dose for symptomatic bone metastases is either a single fraction of 8 Gy or a multi-fraction regimen of 30 Gy in 10 fractions.",
+    "latency_seconds": 24.63,
+    "eval_metrics": {
+      "latency_seconds": 24.58,
+      "avg_context_relevance": 0.0,
+      "bleu": 0.505,
+      "rouge_l": 0.667,
+      "distinct_1": 0.848,
+      "distinct_2": 1.0,
+      "sbert_sim": 0.92,
+      "ragas_faithfulness": 1.0
+    },
+    "rag_context": [
+      {
+        "source_file": "Palliative Care Guidelines",
+        "heading": "Bone Metastases Radiotherapy Dosing",
+        "content_preview": "For the palliation of symptomatic bone metastases, standard recommended radiotherapy regimens include a single fraction of 8 Gy or a multi-fraction regimen of 30 Gy in 10 fractions."
+      }
+    ]
+  }
+]

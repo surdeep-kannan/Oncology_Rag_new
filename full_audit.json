@@ -1,0 +1,744 @@
+{
+  "116.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/116.txt",
+    "total_chunks": 964,
+    "matched_chunks": 938,
+    "match_percentage": 97.3,
+    "unmatched_count": 26,
+    "unmatched_samples": [
+      [
+        1,
+        "Noninvasive Breast Cancer",
+        "Priscilla F. Mc Auliffe, Robert H. I. Andtbacka, Emily K. Robinson, and Kelly K. Hunt Noninvasive breast cancer comprise"
+      ],
+      [
+        25,
+        "Current Management of DCIS at the University of Texas M. D. Anderson Cancer Center",
+        "D. Anderson Cancer Center. 1 LCIS is considered a marker for future risk of breast cancer. 2 Pathology review includes t"
+      ],
+      [
+        134,
+        "In-transit SLN",
+        "Primary Right lateral chest Right lateral chest Effect of Ulceration on SLN Metastases for a Given Tumor Thickness ( n ="
+      ],
+      [
+        136,
+        "50 -",
+        "Stage IA - 2% FIGURE 3.4 Incidence of positive sentinel lymph nodes (SLNs) by American Joint Committee on Cancer disease"
+      ],
+      [
+        147,
+        "Location of Nodes",
+        "1. External Iliac FIGURE 3.9 A: Lymphatic anatomy of the inguinal area demonstrating the superficial and deep lymphatic "
+      ]
+    ]
+  },
+  "2018-ESMO-Handbook-of-Immuno-Oncology copy.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/2018_ESMO_Handbook_of_Immuno_Oncology_copy.txt",
+    "total_chunks": 245,
+    "matched_chunks": 230,
+    "match_percentage": 93.88,
+    "unmatched_count": 15,
+    "unmatched_samples": [
+      [
+        1,
+        "1.1 Immune Checkpoints",
+        "1,3 L. Mahjoubi 1 N. A. Rizvi 2 A. Marabelle Th\u00e9rapeutique et d'Essais Pr\u00e9coces, Villejuif, France"
+      ],
+      [
+        3,
+        "\u25a0 CD40",
+        "\u25a0 OX40 (also known as CD134) \u25a0 4-1BB (also known as CD137) \u25a0 Glucocorticoid-induced tumour necrosis factor (TNF) recepto"
+      ],
+      [
+        10,
+        "T cell-induced PD-LI",
+        "(a) In some tumours, constitutive oncogenic signalling can upregulate PD-L1 expression on all tumour cells, independentl"
+      ],
+      [
+        21,
+        "A Tumour excised",
+        "T cell isolation from peripheral blood Figure 1 Different adoptive T cell transfer approaches to harness the immune syst"
+      ],
+      [
+        84,
+        "Immunotherapy Versus Targeted Therapy",
+        "For patients with a BRAF -driver mutation, the combination of BRAF with MEK inhibitors is currently an SoC. Targeted tre"
+      ]
+    ]
+  },
+  "2018-ESMO-Handbook-of-Immuno-Oncology.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/2018_ESMO_Handbook_of_Immuno_Oncology.txt",
+    "total_chunks": 245,
+    "matched_chunks": 230,
+    "match_percentage": 93.88,
+    "unmatched_count": 15,
+    "unmatched_samples": [
+      [
+        1,
+        "1.1 Immune Checkpoints",
+        "1,3 L. Mahjoubi 1 N. A. Rizvi 2 A. Marabelle Th\u00e9rapeutique et d'Essais Pr\u00e9coces, Villejuif, France"
+      ],
+      [
+        3,
+        "\u25a0 CD40",
+        "\u25a0 OX40 (also known as CD134) \u25a0 4-1BB (also known as CD137) \u25a0 Glucocorticoid-induced tumour necrosis factor (TNF) recepto"
+      ],
+      [
+        10,
+        "T cell-induced PD-LI",
+        "(a) In some tumours, constitutive oncogenic signalling can upregulate PD-L1 expression on all tumour cells, independentl"
+      ],
+      [
+        21,
+        "A Tumour excised",
+        "T cell isolation from peripheral blood Figure 1 Different adoptive T cell transfer approaches to harness the immune syst"
+      ],
+      [
+        84,
+        "Immunotherapy Versus Targeted Therapy",
+        "For patients with a BRAF -driver mutation, the combination of BRAF with MEK inhibitors is currently an SoC. Targeted tre"
+      ]
+    ]
+  },
+  "22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/22__Textbook_of_Medical_Oncology_Fourth_Edition_Cavalli_Textbook_of_Medical_Oncology_PDFDrive_.txt",
+    "total_chunks": 874,
+    "matched_chunks": 837,
+    "match_percentage": 95.77,
+    "unmatched_count": 37,
+    "unmatched_samples": [
+      [
+        38,
+        "SIGNAL TRANSDUCTION AND ITS DISTURBANCES IN CANCER",
+        "In the nucleus, a transcription factor may be activated and may regulate a specific gene. The ultimate goal of signal tr"
+      ],
+      [
+        54,
+        "Clinical Validation of Predictive Markers in Cancer",
+        "'Traditional' cancer treatments were geared toward interfering with abnormal proliferation of cancer cells, and hence ma"
+      ],
+      [
+        62,
+        "SYSTEMIC TREATMENT MODALITIES: 21ST CENTURY TERMINOLOGY",
+        "Paul Ehrlich's introduced the word chemotherapy at the beginning of the 20th century. NCI programs designed to identify "
+      ],
+      [
+        67,
+        "RATIONALE FOR SYSTEMIC THERAPY",
+        "Table 2.2 Tracing the Impact of Systemic Therapy: Highlights in Selected Cancers With our expanding body of knowledge an"
+      ],
+      [
+        104,
+        "Targets Outside the Cancer Cell Angiogenesis Inhibitors",
+        "Following ligand-receptor interaction, VEGF receptor tyrosine kinase activity is stimulated, inducing a cascade of downs"
+      ]
+    ]
+  },
+  "3LFEN-580-version1-2020_soumarova_oncology.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/3LFEN_580_version1_2020_soumarova_oncology.txt",
+    "total_chunks": 363,
+    "matched_chunks": 344,
+    "match_percentage": 94.77,
+    "unmatched_count": 19,
+    "unmatched_samples": [
+      [
+        5,
+        "TERTIARY PREVENTION",
+        "LEovana The aim of tertiary prevention in oncology is to capture the possible return of cancer after primary treatment a"
+      ],
+      [
+        8,
+        "2.2 MECHANISMS OF CONTROL OF CELLULAR PROLIFERATION",
+        "Proto-oncogenes - are genes, of which products are growth factors, receptors for growth factors, signal transducers, and"
+      ],
+      [
+        24,
+        "4.2.4 Physical values describing radiation",
+        "energy E - kinetic energy gained by a charge of one electron in electric field with acceleration by the potential differ"
+      ],
+      [
+        32,
+        "4.3.3 Effect of ionizing radiation on healthy tissues",
+        "d\u00e1vka Tumor irradiation always involves irradiation of healthy tissues in close proximity to the tumor. However, the deg"
+      ],
+      [
+        40,
+        "4.4.3 Possible ways to affect radiation toxicity",
+        "dose level and time factor - the total dose level is related to the onset of early and late reactions; for early reactio"
+      ]
+    ]
+  },
+  "80.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/80.txt",
+    "total_chunks": 259,
+    "matched_chunks": 211,
+    "match_percentage": 81.47,
+    "unmatched_count": 48,
+    "unmatched_samples": [
+      [
+        12,
+        "Cell Kinetics",
+        "See Chap 1. \ue006 With the label index (LI) the rate of cells in DNA synthesis is measured 1 h after injection of tritium-th"
+      ],
+      [
+        14,
+        "Differential Diagnosis \ue006 Leukemoid reaction:",
+        "-Bacterial infection, acute hemolysis, tuberculosis, sarcoidosis, histoplasmosis or metastatic tumors -Increased WBC (up"
+      ],
+      [
+        21,
+        "\ue006 Infection:",
+        "-Due to reduced humoral and cellular immune response -High risk of infection during induction treatment and during episo"
+      ],
+      [
+        25,
+        "Paul Imbach",
+        "Epidemiology - 30 Predisposing Factors - 30 Differential Diagnosis - 30 Classification - 30 French-American-British Clas"
+      ],
+      [
+        26,
+        "Differential Diagnosis \ue006 Infectious mononucleosis",
+        "\ue006 Aplastic anemia \ue006 Juvenile rheumatoid arthritis \ue006 Acquired neutropenia \ue006 Autoimmune cytopenia \ue006 Megaloblastic anemia \ue006"
+      ]
+    ]
+  },
+  "Larynx and Hypopharynx Cancers_0.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/Larynx_and_Hypopharynx_Cancers_0.txt",
+    "total_chunks": 35,
+    "matched_chunks": 17,
+    "match_percentage": 48.57,
+    "unmatched_count": 18,
+    "unmatched_samples": [
+      [
+        1,
+        "Manicur State (MID",
+        "CHapter 1 Pune Mumbl Chernal Aurangabad Bangalore Imphal West District Derugan District Sakim State Ahmedabad Purel 2.0 "
+      ],
+      [
+        5,
+        "goals of treatment",
+        "multidisciplinary team for treatment includes radiation oncologist, surgical oncologist, medical oncologist, radiologist"
+      ],
+      [
+        6,
+        "supraglottic Larynx (t 1-2 n 0 )",
+        "external beam radiotherapy 1. or transoral laser microsurgery / open partial laryngectomy. 2. Proper evaluation of neck "
+      ],
+      [
+        9,
+        "Treatment of T4aN0 -2 (stage IVa)",
+        "moderately advanced disease with or without cartilage involvement standard treatment for t4a disease with cartilage invo"
+      ],
+      [
+        11,
+        "follow up objectives of follow up are",
+        "Detect early recurrences 1. evaluation and management of morbidity 2. Detection of second primary. 3. Clinical examinati"
+      ]
+    ]
+  },
+  "Manual_of_Clinical_Oncology366s.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/Manual_of_Clinical_Oncology366s.txt",
+    "total_chunks": 780,
+    "matched_chunks": 721,
+    "match_percentage": 92.44,
+    "unmatched_count": 59,
+    "unmatched_samples": [
+      [
+        3,
+        "BL",
+        "Environmental exposure Asbestos-related cancers of the lung, pleura, and abdominal peritoneum cause several thousand dea"
+      ],
+      [
+        20,
+        "BL",
+        "In the G 2 phase (gap 2), DNA synthesis ceases, protein and RNA synthesis continues, and the microtubular precursors of "
+      ],
+      [
+        42,
+        "N Nitrogen ( 13 N)",
+        "Xe Xenon ( 127 Xe, 133 Xe) Indications for bone scanning are to determine the presence and extent of primary and metasta"
+      ],
+      [
+        44,
+        "N Nitrogen ( 13 N)",
+        "If the ratio of 18 FDG PET uptake between a nodule and a normal control region is 2.5 or greater, the lesion is almost c"
+      ],
+      [
+        71,
+        "I. Alkylating agents",
+        "Pulmonary fibrosis ('busulfan lung'; see Chapter 29, section IV.A), retroperitoneal fibrosis, endocardial fibrosis; addi"
+      ]
+    ]
+  },
+  "Oxford-Handbook-of-Oncology-4th-Ed.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/Oxford_Handbook_of_Oncology_4th_Ed.txt",
+    "total_chunks": 944,
+    "matched_chunks": 592,
+    "match_percentage": 62.71,
+    "unmatched_count": 352,
+    "unmatched_samples": [
+      [
+        1,
+        "7 7 million deaths worldwide can be attributed to malignancy each year.",
+        "the interplay between the hereditary and environmental risk factors underlying the development of malignancy is becoming"
+      ],
+      [
+        9,
+        "Obesity adult obesity is a risk factor for many solid tumours, including:",
+        "endometrial cancer post-menopausal breast cancer cancer of the kidney oesophageal carcinoma colorectal carcinoma. has al"
+      ],
+      [
+        10,
+        "General dietary risk factors",
+        "high levels of vegetable consumption appear to be associated with a reduced risk of colon cancer, particularly distal tu"
+      ],
+      [
+        11,
+        "Specific dietary risk factors",
+        "appropriate dietary modifications may significantly influence the incidence of certain cancers. Examples include: salt f"
+      ],
+      [
+        14,
+        "Hepatitis B and C virus",
+        "81% of cases of hCC are attributable to chronic infection. 75% with 1\u00b0 hepatitis B virus (hBV) infection develop lifelon"
+      ]
+    ]
+  },
+  "The MD Anderson Manual of Medical Oncology 3e.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/The_MD_Anderson_Manual_of_Medical_Oncology_3e.txt",
+    "total_chunks": 2007,
+    "matched_chunks": 1948,
+    "match_percentage": 97.06,
+    "unmatched_count": 59,
+    "unmatched_samples": [
+      [
+        1,
+        "MDACC FIGURE 5.",
+        "FIGURE 6A. FIGURE 6B. Additional resources to expand the MD Anderson infrastructure (Fig. 5) and research capacities cam"
+      ],
+      [
+        62,
+        "ACUTE PROMYELOCYTIC LEUKEMIA",
+        "Addition of ATRA 45 mg/m 2 twice daily to chemotherapy (eg, IDA 12 mg/m 2 on days 2, 4, 6, and 8) increases CR rate and,"
+      ],
+      [
+        93,
+        "Rituximab",
+        "CD20 is a B-cell-specific surface antigen that is expressed on 95% of B cells. It is tightly bound to the cell surface a"
+      ],
+      [
+        104,
+        "PI3K Inhibitors",
+        "PI3K\u03b4 is a critical kinase for activation, proliferation, and survival of B cells and is hyperactive in many B-cell mali"
+      ],
+      [
+        185,
+        "Hypomethylating Agents",
+        "5-Azacitidine and 5-aza-2 \u2032 -deoxycytidine (decitabine) are chemically related drugs with a spectrum of activity that in"
+      ]
+    ]
+  },
+  "adult cancer guidelinespdf.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/adult_cancer_guidelinespdf.txt",
+    "total_chunks": 77,
+    "matched_chunks": 74,
+    "match_percentage": 96.1,
+    "unmatched_count": 3,
+    "unmatched_samples": [
+      [
+        38,
+        "Key points",
+        "\u0086 Online patient portals are a great way to access your test results. Be sure to discuss these results with your care te"
+      ],
+      [
+        47,
+        "Multiple neuroendocrine neoplasia syndromes",
+        "'Six months after beginning chemotherapy, I was ushered to go back to work. Despite a half-year hiatus, I felt unready t"
+      ],
+      [
+        79,
+        "Index advance care planning (ACP) 40-41",
+        "advance directive 40-42 biomarker testing 20 birth control 15 cancer risk 19 cancer screening 31 care team 21-22 contrac"
+      ]
+    ]
+  },
+  "american global guidelines ASCO (1).pdf": {
+    "status": "Missing PDF on Disk",
+    "total_chunks": 0,
+    "matched_chunks": 0,
+    "match_percentage": 0.0,
+    "unmatched_count": 0,
+    "unmatched_samples": []
+  },
+  "american global guidelines ASCO.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/american_global_guidelines_ASCO.txt",
+    "total_chunks": 15,
+    "matched_chunks": 12,
+    "match_percentage": 80.0,
+    "unmatched_count": 3,
+    "unmatched_samples": [
+      [
+        1,
+        "ASCO Global Guidelines: Methods and Opportunities",
+        "Zeba Aziz, MD 1; Sarah Temin, MSPH 2; Sarah Bachmann 2; Gilberto Lopes, MD, MBA 3; and Temidayo Fadelu, MD 4 DOI https:/"
+      ],
+      [
+        14,
+        "LIMITATIONS",
+        "Amajorlimitation of developing Global Guidelines is that the vast complexity and variety of existing health settings mak"
+      ],
+      [
+        16,
+        "OPPORTUNITIES",
+        "Given ASCO ' s truly global reach, across 170 countries, there are tremendous opportunities for ASCO to help elevate onc"
+      ]
+    ]
+  },
+  "basics_of_oncology.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/basics_of_oncology.txt",
+    "total_chunks": 427,
+    "matched_chunks": 396,
+    "match_percentage": 92.74,
+    "unmatched_count": 31,
+    "unmatched_samples": [
+      [
+        10,
+        "1.5.9 Industrial Irritants and Carcinogens",
+        "Thefirst cancer in Western countries found to be caused by a chemical agent was cancer of the scrotum. This cancer commo"
+      ],
+      [
+        15,
+        "1.5.15 Nutritional Defi ciencies and Food Habits",
+        "Defi ciencies of certain vitamins, trace elements, anti-oxidants, naturally occurring plant hormones and other plant pro"
+      ],
+      [
+        35,
+        "2. 7.7 Chronic Infl ammation",
+        "Any chronically infl amed, chronically irritated or injured, or chronically degenerate (atrophic) tissue has a somewhat "
+      ],
+      [
+        41,
+        "BREAST & BOWEL",
+        "CANCER? In addition to lower rates of bowel cancer associated with highfibre diets, Asians and others who eat predominan"
+      ],
+      [
+        72,
+        "E X E R C I S E",
+        "Why are breast lumps oftenfirst noticed when women take a bath or shower? Physical signs of cancer include local lumps o"
+      ]
+    ]
+  },
+  "cancer indian guidelines.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/cancer_indian_guidelines.txt",
+    "total_chunks": 135,
+    "matched_chunks": 117,
+    "match_percentage": 86.67,
+    "unmatched_count": 18,
+    "unmatched_samples": [
+      [
+        46,
+        "3. Assessment of Pain",
+        "Who should assess patient's pain? The patient himself/herself is the most reliable assessor of pain and should, where po"
+      ],
+      [
+        51,
+        "iii. Treatment of toxicity:",
+        "-If patient develops gastrointestinal upset, peptic ulcer, hemorrhage or vomiting, consider discontinuing NSAID or chang"
+      ],
+      [
+        57,
+        "f) Other Adjuvants",
+        "-Baclofen as a muscle relaxant, is also used to treat nerve pain syndromes. -Drugs that block wide dynamic range neurons"
+      ],
+      [
+        74,
+        "Siewart's Classification",
+        "Type I - Epicenter of tumour or more than 66% of the tumor mass located >1 cm above the anatomic GE junction Type II- Tu"
+      ],
+      [
+        75,
+        "Investigations- Following investigations are mandatory for assessing any suspected or diagnosed case of Carcinoma Esophagus",
+        "Upper GI Endoscopy -To see for GLYPH<216> Presence of growth GLYPH<216> Site of growth GLYPH<216> Nature of growth GLYPH"
+      ]
+    ]
+  },
+  "cancer-principles-and-practice-of-oncology-6e.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/cancer_principles_and_practice_of_oncology_6e.txt",
+    "total_chunks": 6473,
+    "matched_chunks": 6311,
+    "match_percentage": 97.5,
+    "unmatched_count": 162,
+    "unmatched_samples": [
+      [
+        87,
+        "MAJOR HISTOCOMPATIBILITY COMPLEX CLASS I PATHWAY FOR ANTIGEN PROCESSING",
+        "Note that b 2 -microglobulin also shares structural homology with the Ig constant regions. Exon five encodes a 25-amino "
+      ],
+      [
+        108,
+        "DEVELOPMENT OF THE T-CELL ANTIGEN REPERTOIRE: ROLE OF THE THYMUS",
+        "For example, in bone marrow-transplanted patients or experimental animals, hematopoietic stem cells, including the precu"
+      ],
+      [
+        123,
+        "T-CELL CLONAL ANERGY",
+        "Products of the Bcl-2-like family of genes appear to protect against peripheral T-cell apoptosis, particularly Bcl-xl, w"
+      ],
+      [
+        124,
+        "NAIVE, EFFECTOR, AND MEMORY T CELLS",
+        "Three populations of T cells-naive T cells, effector T cells, and memory T cells-constitute the antigen repertoire of th"
+      ],
+      [
+        166,
+        "Annu Rev Immunol",
+        "1998;16:395. M\u00f6ller G. Gamma/delta T cells. Immunol Rev 1991;120:5. Haas W, Pereira P, Tonegawa S. Gamma/delta cells. An"
+      ]
+    ]
+  },
+  "chinese guidelines.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/chinese_guidelines.txt",
+    "total_chunks": 45,
+    "matched_chunks": 41,
+    "match_percentage": 91.11,
+    "unmatched_count": 4,
+    "unmatched_samples": [
+      [
+        6,
+        "Neoadjuvant treatment of HER 2positive breast cancer",
+        "In the KATHERINE study, for patients who failed to achieve pCR after preoperative treatment with trastuzumab, adjuvant t"
+      ],
+      [
+        17,
+        "Adjuvant radiotherapy after breast cancer surgery",
+        "According to BIG 3-07/TROG 07.01 study, the hypofractionated schedule and the conventional fractionated schedule were eq"
+      ],
+      [
+        24,
+        "Salvage treatment for triple -negative advanced breast cancer",
+        "The OlympiAD study showed that, for patients with HER2-negative advanced breast cancer with BRCA 1/2 germline mutations,"
+      ],
+      [
+        35,
+        "Breast cancer brain metastasis",
+        "The PERMEATE study investigated the efficacy and safety of pyrotinib in combination with capecitabine in the treatment o"
+      ]
+    ]
+  },
+  "distress care -nccn.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/distress_care__nccn.txt",
+    "total_chunks": 35,
+    "matched_chunks": 28,
+    "match_percentage": 80.0,
+    "unmatched_count": 7,
+    "unmatched_samples": [
+      [
+        5,
+        "Key points \u0086 Distress is normal, common, and expected among people who have cancer.",
+        "\u0086 Being distressed can make it harder to cope with cancer. \u0086 You should expect to receive distress screening and help at"
+      ],
+      [
+        15,
+        "Key points \u0086 Screening for distress is quick and should be done routinely.",
+        "\u0086 The NCCN Distress Thermometer and Problem List assess the level and nature of your distress. \u0086 Your cancer care team w"
+      ],
+      [
+        24,
+        "Key points \u0086 The cancer care team often treats mild distress.",
+        "\u0086 A chaplain can help people of any faith or no faith. Chaplains provide support, counseling, and guidance to people in "
+      ],
+      [
+        27,
+        "Questions about cancer",
+        "What tests will I have? Does any treatment option offer a cure or long-term cancer control? What are the possible compli"
+      ],
+      [
+        28,
+        "Questions about social work and counseling",
+        "What do social workers do? Can you help me find a local support group? Is there help for the high costs of cancer care? "
+      ]
+    ]
+  },
+  "head and neck tumors.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/head_and_neck_tumors.txt",
+    "total_chunks": 762,
+    "matched_chunks": 698,
+    "match_percentage": 91.6,
+    "unmatched_count": 64,
+    "unmatched_samples": [
+      [
+        34,
+        "ICD-O coding",
+        "8023/3 NUT carcinoma 2C20 & XH1YY4 Malignant neoplasms of nasal cavity & Carcinoma, undifferentiated, NOS 2C22 & XH1YY4 "
+      ],
+      [
+        38,
+        "KVP:120 - -- Acq no: 2",
+        "r-$17 of 29 NAVIGATOR! #23628: Axial non-contrast CT shows a destructive soft tissue mass containing coarse foci of calc"
+      ],
+      [
+        51,
+        "ICD-O coding",
+        "None 2C20 & XH1YY4 Malignant neoplasms of nasal cavity & Carcinoma, undifferentiated, NOS 2C22 & XH1YY4 Malignant neopla"
+      ],
+      [
+        69,
+        "Vickie Y. Jo",
+        "#26145 #26167 Biphenotypic sinonasal sarcoma, Tomography, Coronal section The tumour is seen infiltrating the left maxil"
+      ],
+      [
+        73,
+        "Ameloblastoma, NOS",
+        "None Subtype(s) None SA affects the nasal cavity (septum, lateral wall), paranasal sinuses, or both { 9477098; 23243540 "
+      ]
+    ]
+  },
+  "icmr buccal mucosa cancer.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/icmr_buccal_mucosa_cancer.txt",
+    "total_chunks": 10,
+    "matched_chunks": 10,
+    "match_percentage": 100.0,
+    "unmatched_count": 0,
+    "unmatched_samples": []
+  },
+  "ncg-guidelines-for-head-neck-cancer-2019.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/ncg_guidelines_for_head_neck_cancer_2019.txt",
+    "total_chunks": 23,
+    "matched_chunks": 22,
+    "match_percentage": 95.65,
+    "unmatched_count": 1,
+    "unmatched_samples": [
+      [
+        8,
+        "NACT Followed by CTRT/RT^^(b)",
+        "If CR/PR- Consider RT/CTRT If PR/Stable- Surgery followed by Rt/CTRT Concurrent CHEMORADIATION regimes as detailed previ"
+      ]
+    ]
+  },
+  "p1.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/p1.txt",
+    "total_chunks": 566,
+    "matched_chunks": 544,
+    "match_percentage": 96.11,
+    "unmatched_count": 22,
+    "unmatched_samples": [
+      [
+        31,
+        "NETWORKS OF CANCER GENOME PROJECTS",
+        "Bioinformatics 2010;26:589-595. c Goya R, Sun MG, Morin RD, et al. SNVMix: predicting single nucleotide variants from ne"
+      ],
+      [
+        32,
+        "NETWORKS OF CANCER GENOME PROJECTS",
+        "Nature Rev Genet 2010;11: 685-696, Table 2. the ICGC. All of these projects deal with at least 500 samples per cancer ty"
+      ],
+      [
+        52,
+        "Sci Transl Med",
+        "2010;2:20ra14. Maher CA, Kumar-Sinha C, Cao X, et al. Transcriptome sequencing to detect gene fusions in cancer. Nature "
+      ],
+      [
+        53,
+        "Nat Genet",
+        "2012;44:1006-1014. Davies H, Hunter C, Smith R, et al. Somatic mutations of the protein kinase gene family in human lung"
+      ],
+      [
+        171,
+        "How Tobacco Use Leads to Cancer",
+        "A recent U.S. Surgeon General's report provides extensive detail on the current state of knowledge of how smoking causes"
+      ]
+    ]
+  },
+  "peadeatric oncology guidelines.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/peadeatric_oncology_guidelines.txt",
+    "total_chunks": 423,
+    "matched_chunks": 410,
+    "match_percentage": 96.93,
+    "unmatched_count": 13,
+    "unmatched_samples": [
+      [
+        1,
+        "International Society of Paediatric Surgical Oncology (IPSO) Surgical Practice Guidelines",
+        "Simone de Campos Vieira Abib 1, Chan Hon Chui 2, Sharon Cox 3, Abdelhafeez H Abdelhafeez 4, Israel Fernandez-Pineda 5, A"
+      ],
+      [
+        25,
+        "Tips and Pitfalls in the Diagnosis of Paediatric Cancer",
+        "-Diagnosis of malignancy may be obtained from a primary tumour or its metastatic sites; therefore, it is critical to rec"
+      ],
+      [
+        107,
+        "ii. Biological reconstruction",
+        "Allografts - Bone allografts describe implantation of bone donated from a third-party, with the aim of integration with "
+      ],
+      [
+        168,
+        "Clinical presentation of ovarian tumours",
+        "Abdominal pain (70%-80%) and lower abdominal mass are the most common symptoms. GCT and epithelial cell tumours are ofte"
+      ],
+      [
+        197,
+        "Surgery",
+        "Bopsy under local anesthesia Non-diagnostic Management of mediastinal masses is determined by the presumed diagnosis. Cy"
+      ]
+    ]
+  },
+  "world cancer report.pdf": {
+    "status": "Present & Audited",
+    "txt_path": "/home/surdeep/Downloads/medicine_rl/world_cancer_report.txt",
+    "total_chunks": 765,
+    "matched_chunks": 707,
+    "match_percentage": 92.42,
+    "unmatched_count": 58,
+    "unmatched_samples": [
+      [
+        2,
+        "500 -",
+        "- 19% replaced with one in which chronic or degenerative diseases, such as NCDs, predominate. Within this diverse group "
+      ],
+      [
+        20,
+        "Colorectal cancer",
+        "Turkey* Colorectal cancer is the third most common cancer in both sexes worldwide (1.8 million new cases in 2018). It ra"
+      ],
+      [
+        35,
+        "Low HDI-",
+        "Deaths (thousands) standardized incidence rates indicate a slightly different pattern, in which countries in the low and"
+      ],
+      [
+        36,
+        "T 0.0",
+        "New cases (thousands) cancer types in 2018 for each sex are shown in Fig. 1.3.3, which compares the burden in countries "
+      ],
+      [
+        38,
+        "Low HDI",
+        "Mortality Prevalence (5 years) Fig. 1.3.5. The five leading cancer types in terms of incidence, mortality, and 5-year pr"
+      ]
+    ]
+  }
+}

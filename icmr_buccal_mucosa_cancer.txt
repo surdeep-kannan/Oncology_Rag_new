@@ -1,0 +1,427 @@
+POSITION PAPER
+
+Indian Council of Medical Research consensus
+document for the management of buccal mucosa
+cancer
+Goura Kishor Rath,
+Purvish M Parikh1,
+Shelley Hukku2,
+Balakrishnan Rajan3,
+Sandeep Kumar4,
+Hemant Malhotra5,
+Seenu Vuthaluru6,
+Daya Nand Sharma,
+Amish Vora7,
+Deepak Kumar Shukla8,
+Tanvir Kaur8,
+Ajeet Kumar Gandhi
+
+EXECUTIVE SUMMARY
+•
+•
+
+•
+
+Department of Radiation Oncology,
+All India Institute of Medical Sciences,
+New Delhi, 1Department of Medical
+Oncology, Precision Medicine and
+Clinical Research, Asian Institute of
+Oncology, Somaiya Hospital, Mumbai,
+2
+Department of Radiation Oncology
+BLK Super Speciality Hospital, New
+Delhi, 3Department of Radiation
+Oncology, Regional Cancer Centre,
+Trivandrum, Kerala, 4Department of
+Surgery, All India Institute of Medical
+Sciences, Bhopal, 5Division of Medical
+Oncology, Department of Medicine,
+RK Birla Cancer Center, SMS Medical
+College Hospital, Jaipur, 6Department
+of Surgery, All India Institute of Medical
+Sciences, New Delhi, 7Department
+of Medical Oncology, Max Super
+Speciality Hospital, Saket, New Delhi,
+8
+Indian Council of Medical Research,
+New Delhi, India
+
+•
+
+•
+•
+
+The document is based on consensus among the experts and best available
+evidence pertaining to Indian population and is meant for practice in India.
+Evaluation of a patient with newly diagnosed buccal mucosa cancer should
+include essential tests: Biopsy of the primary lesion, complete blood counts,
+renal function tests and liver function tests, chest X-ray, dental evaluation, and
+ultrasonogram (USG) of the neck in patients with no clinically enlarged neck
+nodes. Computed tomography (CT) magnetic resonance imaging (MRI)/positron
+emission tomography (PET)-CT are not recommended for all patients.
+For early stage disease (I/II), single modality treatment with surgery (with or
+without postoperative radiotherapy (PORT) or radiotherapy (RT) (brachytherapy
+or external beam radiotherapy [EBRT] or in combination) is recommended.
+For locally advanced Stage (III–IV A), surgery followed by RT with or without
+chemotherapy, concurrent chemo-RT, altered fractionation RT schedules,
+induction chemotherapy, followed by surgery with or without RT are valid
+treatment options.
+Stage IV B/metastatic diseases are treated with intent of palliation with
+chemotherapy and/or RT along with best supportive care.
+Clinical examination including history and physical examination is done at each
+follow-up visit and no routine radiological investigation is recommended.
+
+INCIDENCE
+
+Carcinoma of the buccal mucosa (BMC) is the commonest cancer of the oral
+cavity in India. As per population based cancer registry data[1] of the National
+Cancer Registry Program, of the Indian Council of Medical Research, the males
+of Ahmedabad urban showed highest age adjusted rate (AAR) for mouth cancer
+(17.1) followed by Bhopal (12.5). For females however, Kamrup urban district
+(7.6) and East Khasi Hills of Meghalya (7.3) showed the highest AAR, followed
+by Bangalore (6.2). In the hospital-based cancer registry[2] report, cancer of the
+Address for correspondence:
+oral cavity is also ranked as the leading site in Mumbai in males and was within the
+Prof. Goura Kishor Rath, MD,
+first five leading sites in all registries in males. In the developed countries, BMC
+Professor, Radiation Oncology,
+Chief, DRBRAIRCH, Head, NCI, All
+is relatively uncommon when compared to the Indian subcontinent.[3] As per the
+India Institute of Medical Sciences,
+recent GLOBOCAN 2012, 77,000 new cases of oral cavity cancers are diagnosed
+New Delhi - 110029, India
+every year in India and 52,000 die of this disease.[4] The high incidence of BMC
+Tel: 011-26594673; Fax: 011-26589821
+in our country is attributable to the extensive use of tobacco in various forms and
+E-mail: gkrath2006@gmail.com
+the locally advanced cancers account for about 70% of
+Access this article online
+the cases at the time of presentation.
+Quick Response Code:
+
+Website:
+www.ijmpo.org
+
+DOI:
+10.4103/0971-5851.138953
+
+136
+
+PURPOSE
+Several international consensus guidelines are available
+for the management of oral cavity cancers, but none of
+Indian Journal of Medical and Paediatric Oncology | Apr-Jun 2014 | Vol 35 | Issue 2
+
+Rath, et al.: ICMR consensus on management of buccal mucosa cancer
+
+them addresses BMC in particular. Therefore, formulating
+reliable guidelines based on western data for Indian
+patients is questionable given the fact that buccal mucosa
+tumors are quite rare in the developed countries. There
+is obviously an urgent need to formulate consensus
+statement for the management of BMC based on Indian
+data[5-9] and experience which would not only incorporate
+the evidence available but would also be feasible to be
+practiced in the hospitals of India. Oral cancer in India
+is different compared to the western countries. Here, it
+involves the gingivo buccal sulcus (the site where the
+tobacco quid is commonly kept by the patient). The
+nature of spread, biological behavior and the treatment is
+also different. Based on the available evidence and expert
+consensus opinion, we present the proposed national
+consensus document for management of BMC.
+DIAGNOSIS
+Evaluation of a patient presenting with a lesion in the buccal
+mucosa should be aimed at pathological confirmation and
+staging of the disease. Essential test, which needs to be
+done in all patients include: Biopsy of the primary lesion,
+complete blood counts, renal function tests and liver
+function tests, chest X-ray, USG of the neck in patients with
+no clinically enlarged neck nodes, dental evaluation and CT
+scan except in patients with early lesions and clinically USG
+proven no lymphadenopathy in the neck. CT scan/MRI
+is advisable if mandible is involved clinically and orthopantomogram is negative, lesion is involving the retromolar
+trigone, there is suspected involvement of pterygoids or
+pterygoid plate, lesion is extending into the upper gingivo
+buccal sulcus and there is suspicious involvement of paranasal sinuses or if there is need to assess the operability of
+cervical lymph nodes. Evaluation under anesthesia should
+be done in cases where clinical examination is not feasible.
+2-[18F] ﬂuoro-2-deoxy-D-glucose PET (PET-CT) is not
+routinely recommended.
+Extensive investigations are not recommended in cases with
+(intent of treatment in these cases is primarily palliation) hard
+and fixed N3 nodes, extensive skin involvement with or without
+cutaneous nodules, severe trismus not due to oral submucous
+fibrosis or clinical involvement of infra temporal fossa.
+Staging should be done with American Joint Committee
+on Cancer staging manual[10] (7th edition, 2009) and patients
+should be assigned a TNM and a group stage (which would
+remain unchanged throughout).
+TREATMENT PLAN
+Treatment decisions are based on the stage. The aim of
+
+treatment is “curative” for patients with Stage I–IV A and
+“palliative” for patients with Stage IV B (locoregionally
+advanced disease) and IV C (metastatic disease).
+Early Stage (I/II)
+
+For early Stage (I or II), single modality treatment is used:
+Either surgery or RT alone.
+Wide local excision and supra-omohyoid neck dissection
+(SOND) should be the surgical procedure of choice.
+SOND may be avoided if the patient is highly compliant
+and meets all the criteria: T1 lesion, node negative status
+proven by USG, histologically well differentiated lesions
+and thickness of infiltration[11] is <4 mm. All patients with
+close/positive margin should be considered for re-excision.
+If the patient is not a candidate for the same, PORT should
+be considered. Multiple node positivity, margin positive
+disease and presence of extra-capsular spread[12,13] mandate
+the use concurrent chemo-radiation. The minimum
+required PORT dose is 60 Gy at 1.8-2 Gy/fraction. This
+may be delivered in a phased manner. The initial phase
+would deliver 44 Gy in 22 fractions over 4½ weeks to the
+primary and nodal areas using conventional treatment
+planning, three-dimensional conformal radiotherapy
+(3D-CRT) or intensity modulated radiotherapy (IMRT).[14]
+Every effort should be made to spare the contralateral
+parotids. In the second phase the spinal cord should be
+shielded and dose delivered to receive a minimum of 60
+Gy. In presence of margin positive disease or extra-capsular
+spread 66 Gy is the recommended dose. This may be
+achieved using electrons or photon boost.
+Interstitial brachytherapy alone is used in highly compliant
+individuals of early buccal mucosa cancers with all of the
+following tumor characteristics: Early lesions preferably
+<2 cm, accessible lesions, histologically well differentiated
+lesions, lesions situated well away from the bone, node
+negative status proven by USG. Brachytherapy may be
+delivered using low dose rate[15] (LDR) or high dose rate
+(HDR) systems. In general, dose prescription encompasses
+the primary with 1.0-1.5 cm margins. The regional nodes
+are not addressed at this time of treatment. Doses for
+LDR are 65-70 Gy over 6-7 days and for HDR is 48 Gy in
+12 fractions (4 Gy twice a day over 6 days).
+Patients who are not suitable for brachytherapy may be
+treated with EBRT. EBRT is delivered using conventional
+planning/3D-CRT/IMRT to doses of 66-70 Gy at
+1.8-2 Gy/fraction over 7-8 weeks (or a biologically
+equivalent dose) with adequate margins all around the
+lesion and including Level I and II nodes. Neck needs
+to be observed through close follow-up. In conventional
+RT planning, initial lateral portals are treated to 44 Gy in
+22 fractions/over 4.5 weeks, followed by 12-16 Gy after
+
+Indian Journal of Medical and Paediatric Oncology | Apr-Jun 2014 | Vol 35 | Issue 2
+
+137
+
+Rath, et al.: ICMR consensus on management of buccal mucosa cancer
+
+spine shielding. Dose of EBRT is restricted to 45-50 Gy if
+interstitial boost (dose of 20–25 Gy [LDR] or equivalent
+[HDR]) is given.
+When concurrent chemo-radiation is used, cisplatin is the
+preferred agent.[16] Weekly cisplatin 30-40 mg/m2 should be
+used with minimum cumulative dose of 200 mg/m2. Three
+weekly regimen of cisplatin with dose of 100 mg/m2 (on
+day 1, 22, and 43 of RT) can be used. Monoclonal antibody
+therapy directed against epidermal growth factor receptor
+(cetuximab and nimotuzumab) added to radiation therapy
+improves outcome, however, there is limited evidence
+in the Indian literature[17] and cost benefit ratio may be
+considered before taking a decision. In patients who are
+not candidates for cisplatin, carboplatin and paclitaxel is
+the regime of choice for chemo-radiation. Feeding through
+nasogastric tube, gastrostomy or jejunostomy is strongly
+recommended during chemo-radiation.
+Locally advanced (Stage III-IV A)
+
+Patients should be offered combined modality treatment
+for these disease stages. Treatment options include: Surgery,
+followed by RT with or without chemotherapy, concurrent
+chemo-RT, altered fractionation RT schedules, induction
+chemotherapy, followed by surgery with or without RT.
+Surgical aim should be to widely excise the tumor to obtain
+negative margins (0.5-1 cm) all around. Modified radical
+neck dissection (MND) should be the procedure of choice.
+Extended SOND is followed by MND if matted lymph
+nodes or extensive cervical lymph nodes involvement is
+found peroperatively and if nodes are positive on frozen
+section. Segmental mandibulectomy should be avoided just
+to facilitate access to primary cancers of oral cavity. However,
+it can be done in cases where there is: Gross invasion of
+mandible by tumor, proximity of oral commissure to the
+mandible in a previously irradiated patient, invasion of
+inferior alveolar nerve or canal by cancer or massive soft
+tissue disease is present adjacent to the mandible.
+Principles of radiation and concurrent chemo-radiation
+remain the same as in early stage disease. Altered fractionation
+schedules are valid option for patients who are not candidates
+for surgery or are unsuitable for chemo-radiation.[18]
+For borderline inoperable disease, chemotherapy may be
+considered to facilitate better resection. Based on recent
+evidences in the literature,[19] combination regimen with cisplatin,
+5-flurouracil and taxane is considered the most effective
+neoadjuvant regimen. Alternative chemotherapy schedule is
+cisplatin plus 5-flurouracil.[20] Both chemotherapy regimens have
+Level I evidence[19,20] in terms of their efficacy in neoadjuvant
+setting in head and neck cancers. Resectability subsequent to
+induction chemotherapy is best assessed by clinical evaluation
+138
+
+and imaging where indicated. CT or MRI scan (if available)
+may be used for assessment of disease in inaccessible areas
+such as pterygopalatine fossa or infratemporal fossa. It is also
+preferable that the pre- and post-chemotherapy assessments are
+performed by the same group of oncologists. Patients who have
+progressive disease after 3-4 cycles of induction chemotherapy
+should be considered for palliative treatment only.
+Advanced Stage IV B/metastatic disease
+
+Aim of treatment in these patients is palliation with
+maintenance of quality of life. If the primary with or
+without nodal disease is symptomatic, consideration
+should be given to palliative[21] EBRT. Doses of 30 Gy
+in 10 fractions over 2 weeks or weekly EBRT of
+7-8 Gy/fraction/week for 2-3 weeks may be employed.
+Systemic disease or progressive local disease after RT could
+be treated with chemotherapy with any of the following
+regimens: Single agent methotrexate, single agent cisplatin,
+cisplatin plus 5-flurouracil, cisplatin plus paclitaxel, cisplatin
+plus docetaxel or cisplatin plus cetuximab.[22]
+RECURRENT DISEASE
+For recurrent disease, if recurrence is operable and patient
+is RT naïve, surgery followed by PORT with or without
+chemotherapy or radical RT (for recurrent T1/T2) may be
+employed. Concurrent chemo-radiation or radiation alone
+is a valid option in these patients, if surgery is not medically
+feasible or patient is not willing for surgery.
+If surgery is not feasible and patient has poor performance
+status the treatment should be individualized. If RT naïve,
+palliative RT else palliative chemotherapy may be employed
+along with best supportive care.
+FOLLOW-UP AND REHABILITATION
+Patient should be encouraged to maintain abstinence
+from tobacco and alcohol and maintain oral hygiene.
+Dental prophylaxis, shoulder exercises, jaw stretching
+exercises, swallowing and speech rehabilitation should
+be instituted as appropriate. The aim of follow-up is to
+assess the recurrence in primary and nodal areas, to rule
+out any second primary and to assess any complication
+due to surgery/RT. Follow-up is done every 2-3 months
+for first 2 years, six monthly for next 3 years and annually
+thereafter. Clinical examination, including history and
+physical examination is done at each visit and no routine
+radiological investigation is recommended.
+REFERENCES
+1.
+
+National Cancer Registry Programme, Indian Council of
+
+Indian Journal of Medical and Paediatric Oncology | Apr-Jun 2014 | Vol 35 | Issue 2
+
+Rath, et al.: ICMR consensus on management of buccal mucosa cancer
+Medical Research: Three year report of population based
+cancer registries 2009-2011. Available from: Http://www.
+pbcrindia.org/. [Last accessed on 2014 Jun 16].
+2. National Cancer Registry Programme, Indian Council of
+Medical Research: Consolidated report of Hospital Based
+Registries 2007-2011. Available from: Http://www.
+hbcrindia.org/. [Last accessed on 2014 Jun 16].
+3. Ferlay J, Shin HR, Bray F, Forman D, Mathers C, Parkin DM.
+Estimates of worldwide burden of cancer in 2008:
+GLOBOCAN 2008. Int J Cancer 2010;127:2893-917.
+4. GLOBOCAN 2012: Estimated cancer incidence, prevalence
+and mortality worldwide in 2012. http://www.globocan.
+iarc.fr/Pages/fact_sheets_population.aspx. [Last accessed on
+2014 Jun 16].
+5. Krishnamurthi S, Shanta V, Sastri DV. Combined therapy in
+buccal mucosal cancers. Radiology 1971;99:409-15.
+6. Bahadur S, Kumar S, Tandon DA, Rath GK, De S. Combined
+therapy in advanced head and neck cancers. J Laryngol Otol
+1992;106:412-5.
+7. Iype EM, Pandey M, Mathew A, Thomas G, Sebastian P,
+Nair MK. Oral cancer among patients under the age of 35
+years. J Postgrad Med 2001;47:171-6.
+8. Badakh DK, Grover AH. The efficacy of postoperative
+radiation therapy in patients with carcinoma of the buccal
+mucosa and lower alveolus with positive surgical margins.
+Indian J Cancer 2005;42:51-6.
+9. Yeole BB, Ramanakumar AV, Sankaranarayanan R. Survival
+from oral cancer in Mumbai (Bombay), India. Cancer Causes
+Control 2003;14:945-52.
+10. Edge SB, Byrd DR, Compton CC, Fritz AG, Greene FL,
+Trotti A, editors. AJCC Cancer Staging Manual. 7th ed. New
+York, NY: Springer; 2010.
+11. Mishra RC, Parida G, Mishra TK, Mohanty S. Tumour
+thickness and relationship to locoregional failure in cancer of
+the buccal mucosa. Eur J Surg Oncol 1999;25:186-9.
+12. Cooper JS, Pajak TF, Forastiere AA, Jacobs J, Campbell BH,
+Saxman SB, et al. Postoperative concurrent radiotherapy and
+chemotherapy for high-risk squamous-cell carcinoma of the
+head and neck. N Engl J Med 2004;350:1937-44.
+13. Bernier J, Domenge C, Ozsahin M, Matuszewska K,
+Lefèbvre JL, Greiner RH, et al. Postoperative irradiation with
+or without concomitant chemotherapy for locally advanced
+head and neck cancer. N Engl J Med 2004;350:1945-52.
+14. Pederson AW, Salama JK, Witt ME, Stenson KM,
+
+Blair EA, Vokes EE, et al. Concurrent chemotherapy and
+intensity-modulated radiotherapy for organ preservation of
+locoregionally advanced oral cavity cancer. Am J Clin Oncol
+2011;34:356-61.
+15. Tayier A, Hayashi K, Yoshimura R. Low-dose-rate interstitial
+brachytherapy preserves good quality of life in buccal mucosa
+cancer patients. J Radiat Res 2011;52:655-9.
+16. Pignon JP, le Maître A, Maillard E, Bourhis J, MACH-NC
+Collaborative Group. Meta-analysis of chemotherapy in head
+and neck cancer (MACH-NC): An update on 93 randomised
+trials and 17,346 patients. Radiother Oncol 2009;92:4-14.
+17. Dattatreya S, Goswami C. Cetuximab plus radiotherapy in
+patients with unresectable locally advanced squamous cell
+carcinoma of head and neck region — a open labelled single
+arm phase II study. Indian J Cancer 2011;48:154-7.
+18. Bourhis J, Overgaard J, Audry H, Ang KK, Saunders M, Bernier
+J, et al. Hyperfractionated or accelerated radiotherapy in head
+and neck cancer: A meta-analysis. Lancet 2006;368:843-54.
+19. Vermorken JB, Remenar E, van Herpen C, Gorlia T, Mesia R,
+Degardin M, et al. Cisplatin, fluorouracil, and docetaxel   in
+unresectable head and neck cancer. N Engl J Med
+2007;357:1695-704.
+20. Posner MR, Hershock DM, Blajman CR, Mickiewicz E,
+Winquist E, Gorbounova V, et al. Cisplatin and fluorouracil
+alone or with docetaxel in head and neck cancer. N Engl J
+Med 2007;357:1705-15.
+21. Agarwal JP, Nemade B, Murthy V, Ghosh-Laskar S,
+Budrukkar A, Gupta T, et al. Hypofractionated, palliative
+radiotherapy for advanced head and neck cancer. Radiother
+Oncol 2008;89:51-6.
+22. Vermorken JB, Trigo J, Hitt R, Koralewski P, Diaz-Rubio E,
+Rolland F, et al. Open-label, uncontrolled, multicenter phase
+II study to evaluate the efficacy and toxicity of cetuximab as
+a single agent in patients with recurrent and/or metastatic
+squamous cell carcinoma of the head and neck who
+failed to respond to platinum-based therapy. J Clin Oncol
+2007;25:2171-7.
+How to cite this article: Rath GK, Parikh PM, Hukku S, Rajan B,
+Kumar S, Malhotra H, et al. Indian Council of Medical Research
+consensus document for the management of buccal mucosa cancer.
+Indian J Med Paediatr Oncol 2014;35:136-9.
+Source of Support: Nil, Conflict of Interest: None declared.
+
+Announcement
+
+LATE DR KALLA VENKAT ANAND YOUNG RESEARCHER AWARD
+ISMPO is now inviting abstracts for the first ‘Late Dr Kalla Venkat Anand Young Researcher Award’. The award honours a
+young medical oncologist from India (age ≤ 40 years as on 31.12.2014) whose research work is adjudged to be the best
+among those submitted for the Annual ISMPO Meeting to be held in Kolkata on 26 – 28 December, 2014. The Awardee
+will be conferred a Medal along with a grant. For detailed information please visit www.ismpo.org. Last date of abstract
+submission is 30.10.2014 (Midnight).
+
+Indian Journal of Medical and Paediatric Oncology | Apr-Jun 2014 | Vol 35 | Issue 2
+
+139
+
+

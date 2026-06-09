@@ -1,0 +1,88 @@
+<All keys matched successfully>
+Loading SBERT for live evaluation...
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 11562.91it/s]
+ERROR:medrag.hm_rag:Decomposition failed: Extra data: line 3 column 1 (char 4)
+
+============================================================
+  Q002: What is the leading cause of cancer death worldwide?
+============================================================
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 4250.53it/s]
+  Time: 64.4s
+  Sources: cancer atlas-american.pdf, world cancer report.pdf
+  ANSWER: Lung cancer is the leading cause of cancer death worldwide, accounting for approximately 18% of all cancer deaths, as per the World Cancer Report. The Cancer Atlas American corroborates this, indicating that lung cancer accounts for 19% of total cancer deaths (Figure 12.3).
+
+============================================================
+  Q015: What is the standard treatment for Stage IVa esophageal cancer?
+============================================================
+  Time: 80.3s
+  Sources: 116.pdf, The MD Anderson Manual of Medical Oncology 3e.pdf, 22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf
+  ANSWER: : The finalized, audit-verified clinical answer is: The standard treatment for Stage IVa esophageal cancer is palliative chemotherapy, which prolongs survival and improves quality of life, as long as the patient has an adequate performance status.
+
+============================================================
+  Q024: Name the three resource stratification levels used by ASCO Global Guidelines.
+============================================================
+  Time: 89.7s
+  Sources: american_global_guidelines_ASCO.pdf, cancer indian guidelines.pdf, world cancer report.pdf
+  ANSWER: : The three resource stratification levels used by ASCO Global Guidelines are Basic, Limited, and Enhanced.
+
+============================================================
+  Q035: What is the 5-year overall survival rate for Stage I Nasopharyngeal Carcinoma?
+============================================================
+  Time: 106.3s
+  Sources: 116.pdf, The MD Anderson Manual of Medical Oncology 3e.pdf, 22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf
+  ANSWER: Based on Source 4: The MD Anderson Manual of Medical Oncology 3e, the 5-year overall survival rate for Stage I nasopharyngeal carcinoma is approximately 90%.
+
+============================================================
+  Q038: What is the recommended screening strategy for colorectal cancer in adults aged 50–74?
+============================================================
+  Time: 269.6s
+  Sources: 116.pdf, cancer-principles-and-practice-of-oncology-6e.pdf, The MD Anderson Manual of Medical Oncology 3e.pdf, Manual_of_Clinical_Oncology366s.pdf, world cancer report.pdf
+  ANSWER: The recommended screening strategy for colorectal cancer in adults aged 50-74 includes flexible sigmoidoscopy every 5 years or fecal occult blood test (FOBT) or FIT every year, along with digital rectal examination (DRE). Colonoscopy can be performed every 10 years as an alternative or follow-up if findings from the initial screening tests are normal.
+
+Justification: According to the sources provided, both flexible sigmoidoscopy every 5 years and FOBT or FIT every year, along with DRE, are recom
+
+============================================================
+  Q040: What defines a T4b laryngeal tumor?
+============================================================
+  Time: 114.8s
+  Sources: Larynx and Hypopharynx Cancers_0.pdf, Oxford-Handbook-of-Oncology-4th-Ed.pdf, 22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf, head and neck tumors.pdf
+  ANSWER: : A T4b laryngeal tumor, as defined by the International Union against Cancer and the American Joint Committee on Cancer TNM staging system, invades prevertebral fascia, mediastinal vessels, or encases the carotid artery (any size) and extends beyond the thyroid capsule. This category denotes tumors that are unresectable due to extensive extrathyroidal invasion.
+
+============================================================
+  Q005: What is the most common early symptom of laryngeal cancer?
+============================================================
+  Time: 100.0s
+  Sources: 116.pdf, basics_of_oncology.pdf, 3LFEN-580-version1-2020_soumarova_oncology.pdf, head and neck tumors.pdf, 22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf
+  ANSWER: The most common early symptom of laryngeal cancer is hoarseness, as indicated by multiple sources including Greene FL, Page DL, Fleming ID, et al., eds. AJCC Cancer Staging Manual. 6th ed. New York, NY: Springer-Verlag; 2002, and Head and Neck Tumors. This symptom is due to impairment in vocal fold function, often accompanied by pain, dysphagia, and respiratory distress as the disease progresses.
+
+============================================================
+  Q013: How does the Human Development Index (HDI) influence cancer trends?
+============================================================
+  Time: 100.2s
+  Sources: cancer atlas-american.pdf, world cancer report.pdf
+  ANSWER: The Human Development Index (HDI) significantly influences cancer trends by providing a framework for assessing the global cancer burden geographically and over time. Higher HDI values are associated with declines in infection-related cancers, while countries with low HDI exhibit a high residual burden of such cancers. Countries undergoing major social and economic transitions, often with medium and high HDI, experience marked declines in infection-related cancers, offset by increasing rates of 
+
+============================================================
+  Q018: What are the side effects of cisplatin in pediatric hepatoblastoma treatment?
+============================================================
+  Time: 240.8s
+  Sources: p1.pdf, cancer-principles-and-practice-of-oncology-6e.pdf, peadeatric oncology guidelines.pdf
+  ANSWER: The side effects associated with cisplatin in pediatric hepatoblastoma treatment, as per the provided context, include nausea and vomiting, nephrotoxicity, ototoxicity, neuropathy, and myelosuppression. Rare effects include visual impairment, seizures, arrhythmias, acute ischemic vascular events, glucose intolerance, and pancreatitis. These side effects are currently best managed with 5-HT3 antagonists, usually given with a glucocorticoid, although other combinations of agents are still widely u
+
+============================================================
+  Q020: What is the PRETEXT staging system for hepatoblastoma?
+============================================================
+  Time: 205.3s
+  Sources: 116.pdf, cancer-principles-and-practice-of-oncology-6e.pdf, 22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf, peadeatric oncology guidelines.pdf
+  ANSWER: : The PRETEXT staging system for hepatoblastoma is an amendment to the HB classification, primarily used in pediatric liver tumors, including hepatoblastoma and HCN-NOS. It is currently employed in the Pediatric Hepatic International Tumour Trial (PHITT). This staging system does not replace the widely accepted Barcelona Clinic Liver Cancer score correlated with the Child-Pugh system for adult HCC. PRETEXT specifically addresses liver function assessment in pediatric patients, especially those w
+
+============================================================
+  Q022: How does early diagnosis differ from cancer screening?
+============================================================
+  Time: 153.6s
+  Sources: world cancer report.pdf, cancer-principles-and-practice-of-oncology-6e.pdf, 22.-Textbook-of-Medical-Oncology-Fourth-Edition-Cavalli-Textbook-of-Medical-Oncology-PDFDrive-.pdf, cancer atlas-american.pdf
+  ANSWER: Early diagnosis and cancer screening are two distinct approaches to detecting cancer. Early diagnosis refers to identifying cancer in symptomatic individuals, often at an advanced stage, through a biopsy or other diagnostic tests. Cancer screening, on the other hand, aims to detect cancer in asymptomatic individuals, typically in its early or pre-cancerous stage, through various screening tests such as mammography, Pap smears, or colonoscopy. The goal of screening is to allow for timely treatmen
+
+============================================================
+  Q023: What is the recommended mammography screening interval for women aged 50–69?
+============================================================
