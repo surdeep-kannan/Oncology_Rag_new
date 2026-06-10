@@ -98,12 +98,26 @@ def make_dashboard(
     
     return Panel(grid, title="[bold cyan]Med42 Clinical RAG Runner[/bold cyan]", border_style="cyan")
 
+import argparse
+
 def main():
+    parser = argparse.ArgumentParser(description="Run Med42 Clinical QA Batch Evaluation")
+    parser.add_argument("--start", type=int, default=1, help="Start question index (1-indexed)")
+    parser.add_argument("--end", type=int, default=50, help="End question index (inclusive)")
+    args = parser.parse_args()
+    
+    start_idx = args.start - 1
+    end_idx = args.end
+    
     console = Console()
     
     # Paths setup
     json_path = Path("/home/surdeep/Downloads/oncology_questions_100 (3).json")
-    output_json_path = PROJECT_ROOT / "oncology_questions_51_to_200_answered.json"
+    # In case the file is named differently on the friend's Mac, fall back to relative path if absolute fails
+    if not json_path.exists():
+        json_path = PROJECT_ROOT / "oncology_questions_100 (3) (2).json"
+        
+    output_json_path = PROJECT_ROOT / f"oncology_questions_{args.start}_to_{args.end}_answered.json"
     
     console.print("[bold yellow]Initializing Clinical RAG Runner pipeline...[/bold yellow]")
     
@@ -124,11 +138,11 @@ def main():
     with open(json_path) as f:
         all_questions = json.load(f)
         
-    # Take exactly the next 150 questions (51 to 200)
-    questions_50 = all_questions[50:200]
-    total_q = len(questions_50)
+    # Take the specified slice of questions
+    questions_slice = all_questions[start_idx:end_idx]
+    total_q = len(questions_slice)
     
-    console.print(f"[bold green]Loaded {total_q} questions for parsing.[/bold green]")
+    console.print(f"[bold green]Loaded {total_q} questions (from Q{args.start} to Q{args.end}) for parsing.[/bold green]")
     
     # State tracking variables
     processed_questions = []
@@ -157,7 +171,7 @@ def main():
             
     # Filter out questions that have already been processed
     processed_ids = {q.get("id") for q in processed_questions}
-    questions_to_process = [q for q in questions_50 if q.get("id", "") not in processed_ids]
+    questions_to_process = [q for q in questions_slice if q.get("id", "") not in processed_ids]
     
     console.print(f"[bold green]{len(questions_to_process)} questions remaining to process.[/bold green]")
     
