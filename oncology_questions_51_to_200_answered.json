@@ -2910,5 +2910,46 @@
         "content_preview": "Best management of cancer will depend on many factors including patient factors (age, state of health, family, social and emotional considerations), hospitals or other treatment facilities with or without specialised nursing care and allied health professionals, as well as particular factors of the cancer itself. The cancer factors include three sp"
       }
     ]
+  },
+  {
+    "id": "Q118",
+    "q": "A 74-year-old female is brought to the emergency department because of a 2-week history of increasing weakness and chills. She also notes difficulty breathing for the last three days. Eight weeks ago, she underwent left hemicolectomy for adenocarcinoma of the colon. She subsequently developed a severe urinary tract infection, was treated in the intensive care unit for four days, and was discharged from the hospital three weeks ago. She has type 2 diabetes mellitus, osteoporosis with lumbar pain, hypertension, and atrial fibrillation. She has smoked one pack of cigarettes daily for 50 years. She does not drink alcohol and has never used illicit drugs. Current medications include warfarin, metformin, lisinopril, and aspirin. She appears lethargic and has a large conjunctival hemorrhage in her left eye. Her temperature is 39.3\u00b0C (102.7\u00b0F), pulse is 112/min, respirations are 25/min, and blood pressure is 126/79 mm Hg. Cardiac auscultation reveals a new holosystolic murmur over the apex. Abdominal examination shows mild, diffuse tenderness throughout the upper quadrants and a well-healed 12-cm paramedian scar. There are multiple tender nodules on the palmar surface of her fingertips. Funduscopic examination shows retinal hemorrhages with pale centers. An ECG shows atrial fibrillation and right bundle branch block. Which of the following is the most likely underlying etiology of this patient's condition?",
+    "a": "Enterococcus faecalis infection",
+    "category": "treatment",
+    "difficulty": "complex",
+    "generated_answer": "The most likely underlying etiology of this patient's condition is infective endocarditis, given the presence of a new holosystolic murmur over the apex, multiple tender nodules on the palmar surface of her fingertips (Osler's nodes), and retinal hemorrhages with pale centers (Roth's spots). The patient's recent history of severe urinary tract infection and prolonged hospital stay with intensive care treatment increases her risk for developing septic emboli. Additionally, her atrial fibrillation and history of smoking place her at higher risk for cardiovascular complications. The conjunctival hemorrhage may be related to thrombocytopenia secondary to her malignancy or its therapy.",
+    "latency_seconds": 326.26,
+    "eval_metrics": {
+      "latency_seconds": 326.04,
+      "avg_context_relevance": 0.0107,
+      "bleu": 0.0,
+      "rouge_l": 0.075,
+      "distinct_1": 0.786,
+      "distinct_2": 0.979,
+      "sbert_sim": 0.277,
+      "ragas_faithfulness": 0.0
+    },
+    "rag_context": [
+      {
+        "source_file": "peadeatric oncology guidelines.pdf",
+        "heading": "Post-operative Management",
+        "content_preview": "Patients are admitted to intensive care unit for continuous hemodynamic monitoring and ongoing resuscitation to restore core temperature (>36.5\u00b0C), restore urine output (> 1 mL/kg/hour), blood volume (haematocrit > 22, platelet > 50,000, international normalisation ratio (INR <1.8). Laboratory interrogation for hepatic insufficiency will include se"
+      },
+      {
+        "source_file": "peadeatric oncology guidelines.pdf",
+        "heading": "Complications",
+        "content_preview": "Complications in the post-operative period include wound infection, intra-abdominal sepsis, respiratory failure and wound dehiscence. Long-term complications have been described, such as entero-colic or biliary fistulae, and entero-cutaneous and/or enteroatmospheric fistulae. Such complications are mainly related to the infective complications seco"
+      },
+      {
+        "source_file": "The MD Anderson Manual of Medical Oncology 3e.pdf",
+        "heading": "Tachyarrhythmias",
+        "content_preview": "These are typically classified into four different categories: Irregular tachycardia: atrial fibrillation, atrial flutter, multifocal atrial tachycardia Regular narrow QRS complex tachycardia: sinus tachycardia, atrial tachycardia, supraventricular tachycardia Wide QRS complex tachycardia: ventricular tachycardia, supraventricular tachycardia with "
+      },
+      {
+        "source_file": "3LFEN-580-version1-2020_soumarova_oncology.pdf",
+        "heading": "32.8 POST-TREATMENT COMPLICATIONS",
+        "content_preview": "Perioperative and postoperative complications consist of bleeding, intestinal perforation, complicated and prolonged healing, postoperative adhesions with intestinal passage disorders, etc. CHT has typical side effects - nausea, vomiting, alopecia, haematological toxicity up to febrile neutropenia, neurotoxicity, etc., RT of the whole abdomen can a"
+      }
+    ]
   }
 ]

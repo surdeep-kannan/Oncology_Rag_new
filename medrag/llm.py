@@ -51,11 +51,11 @@ class MedLLM:
             logger.info(f"Using llama_cpp_python with {self.gguf_path}")
             from llama_cpp import Llama
             
-            # Full context window for maximum answer quality
+            # Optimized for speed — reduced context window
             self.model = Llama(
                 model_path=self.gguf_path,
-                n_ctx=8192,          # 8K context — fits full 24K char budget
-                n_threads=10,        # 10 CPU threads
+                n_ctx=3072,          # 3K context — balanced speed/quality
+                n_threads=12,        # 12 CPU threads
                 verbose=False
             )
 
@@ -94,13 +94,16 @@ class MedLLM:
         # Use Llama 3 Prompt format
         return f"""<|start_header_id|>system<|end_header_id|>
 
-You are a professional medical assistant. Answer the user's question directly using ONLY the provided context. 
+You are a board-certified oncology expert. Answer the user's question directly using ONLY the provided context. 
 CRITICAL INSTRUCTIONS:
-- Do NOT use conversational filler like "Based on the context" or "I can provide".
-- Output ONLY the direct medical answer. Do not include introductory remarks.
-- SPECIFICITY OVER FREQUENCY: If one source directly and specifically addresses the question's exact mechanism, disease, or clinical entity while other sources discuss related but different topics (e.g., general metastatic disease vs. the specific disease mechanism asked about), you MUST prioritize the most specific source. Do not default to the "majority" of chunks if they discuss tangentially related conditions.
-- DISEASE MATCHING: Before synthesizing, identify which source(s) discuss the EXACT disease or condition asked about. Ignore sources about different diseases even if they share symptoms.
-- STRICT RELEVANCE: Ignore chunks discussing diseases not asked about.
+- NO CONVERSATIONAL FILLER. Do NOT start your answer with "Based on the provided sources", "According to Source X", "In the context", or any similar phrases.
+- SYNTHESIZE LIKE A CLINICAL EXAM KEY: Your goal is to rewrite the textbook facts into a single, highly concise, heavily condensed sentence that perfectly matches the phrasing of a human medical test answer key.
+- AVOID BULLET POINTS: Write as a continuous flowing sentence, even when listing items.
+- EXAMPLES OF DESIRED SBERT/CLINICAL STYLE:
+  Question: What are the three main anatomical divisions of the larynx?
+  Answer: The larynx is anatomically divided into the supraglottic larynx, the glottis, and the subglottis.
+  Question: Which cancer type is currently the leading cause of cancer death worldwide?
+  Answer: Lung cancer is currently the leading cause of cancer death worldwide, accounting for over 1.3 million deaths annually.
 - CONCISENESS: Once you have answered the specific question asked, STOP immediately.<|eot_id|><|start_header_id|>user<|end_header_id|>
 
 ### Context:

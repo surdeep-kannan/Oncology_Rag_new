@@ -240,9 +240,9 @@ Query: {query}<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
                           top_k: int = 40, reranker_top_n: int = 3) -> list[dict]:
         """Retrieve and rerank context chunks."""
         # Strict context window safety budget:
-        # With n_ctx=8192, we can safely use up to 24,000 chars (~6,000 tokens)
-        # leaving room for system prompt, query, and generation headroom
-        budget_char_limit = 24000
+        # With n_ctx=3072, we have ~3072 - 400 (system) - 30 (query) - 512 (gen) = ~2130 tokens for context
+        # 2130 tokens × 4 chars/token ≈ 8,500 chars. Using 8,500 for safety.
+        budget_char_limit = 8500
         current_chars = 0
         all_results = []
         seen_chunks = set()
@@ -371,9 +371,9 @@ Verdict:<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
             draft_answer = self.llm.generate(prompt)
 
         # Step 2: Generalized Clinical Oncology Auditor Self-Correction verification loop
-        # With n_ctx=8192: ~500 (system) + context + ~200 (draft) + ~30 (query) + 512 (gen)
-        # Safe budget for auditor context: ~24000 chars (~6000 tokens)
-        audit_context = context_text[:24000]
+        # Truncate context for auditor to fit within n_ctx=3072
+        # Auditor needs: ~500 (system) + context + ~200 (draft) + ~30 (query) + 512 (gen)
+        audit_context = context_text[:8500]
         audit_prompt = f"""<|start_header_id|>system<|end_header_id|>
 You are a board-certified clinical oncology auditor. Review the draft answer against the retrieved clinical context and make corrections if necessary.
 Audit checklist:
@@ -513,7 +513,6 @@ Provide the finalized, audit-verified clinical answer:<|eot_id|><|start_header_i
             faithfulness = 0.0
 
         eval_metrics = {
-            "latency_seconds": round(end_time - start_time, 2),
             "avg_context_relevance": round(avg_hybrid_score, 4),
             "bleu": round(bleu, 3),
             "rouge_l": round(rouge_l, 3),
